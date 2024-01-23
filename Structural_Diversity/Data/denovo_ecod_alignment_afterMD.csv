@@ -1,0 +1,44 @@
+,id,target,arch_name,x_name,h_name,t_name
+0,droso_3599,6nr8,alpha bundles,Long alpha-hairpin,NO_H_NAME,Prefoldin
+1,droso_1852,3txs,alpha bundles,NO_X_NAME,NO_H_NAME,Small terminase central domain
+2,droso_2563,3kvp,beta duplicates or obligate multimers,beta-propeller-like,beta-propeller,6-bladed
+3,droso_4536,2djv,alpha arrays,NO_X_NAME,NO_H_NAME,S15/NS1 RNA-binding domain
+4,droso_5910,6pfy,extended segments,NO_X_NAME,NO_H_NAME,"Subunit IX of photosystem I reaction centre, PsaJ"
+5,droso_4086,7s5k,alpha bundles,Ferritin/Heme oxygenase/4-helical cytokines,Ferritin/Heme oxygenase,Ferritin
+6,droso_4919,6yt9,alpha bundles,Spectrin repeat-like,NO_H_NAME,Ribosomal protein S20
+7,droso_4943,2n17,few secondary structure elements,Kazal-type serine protease inhibitors-like,NO_H_NAME,Kazal-type serine protease inhibitors
+8,droso_4718,6jlu,extended segments,NO_X_NAME,NO_H_NAME,PsbZ-like
+9,droso_537,4b6x,alpha bundles,Long alpha-hairpin,NO_H_NAME,"GreA transcript cleavage protein, N-terminal domain"
+10,droso_1729,7s5c,alpha bundles,Ferritin/Heme oxygenase/4-helical cytokines,Ferritin/Heme oxygenase,Ferritin
+11,droso_5649,6ly9,extended segments,NO_X_NAME,NO_H_NAME,F1F0 ATP synthase subunit C
+12,droso_536,3f23,alpha arrays,HTH,HTH,winged
+13,droso_2866,6uuj,alpha bundles,Ferritin/Heme oxygenase/4-helical cytokines,NO_H_NAME,PE
+14,droso_1712,4b6x,alpha bundles,Long alpha-hairpin,NO_H_NAME,"GreA transcript cleavage protein, N-terminal domain"
+15,droso_1446,1n9r,beta barrels,SH3,SH3,SH3
+16,droso_4841,6rwy,alpha bundles,Long alpha-hairpin,NO_H_NAME,MxiH-like
+17,droso_4967,7t03,alpha bundles,Four-helical up-and-down bundle,NO_H_NAME,"Histidine-containing phosphotransfer domain, HPT domain"
+18,droso_2396,3kbl,alpha duplicates or obligate multimers,NO_X_NAME,NO_H_NAME,Qua1
+19,droso_4572,4noo,alpha bundles,immunoglobulin/albumin-binding domain-like,NO_H_NAME,TsiV3 protein
+20,droso_1970,2m3d,a+b two layers,Alpha-beta plaits,NO_H_NAME,"RNA-binding domain, RBD"
+21,droso_4730,2elu,few secondary structure elements,beta-beta-alpha zinc fingers,NO_H_NAME,beta-beta-alpha zinc fingers
+22,droso_4476,7wim,beta sandwiches,jelly-roll,NO_H_NAME,Nucleoplasmin-like/VP (viral coat and capsid proteins)
+23,droso_5684,3r1p,alpha arrays,EF-hand,NO_H_NAME,Insect pheromone/odorant-binding proteins
+24,droso_1681,2ld3,alpha bundles,NO_X_NAME,NO_H_NAME,Myosin VI lever arm
+25,droso_2076,3zo6,extended segments,NO_X_NAME,NO_H_NAME,F1F0 ATP synthase subunit C
+26,droso_2012,6zqt,alpha bundles,Long alpha-hairpin,NO_H_NAME,Ral binding domain of RLIP76
+27,droso_5917,1fxk,alpha bundles,Long alpha-hairpin,NO_H_NAME,Prefoldin
+28,droso_4529,3nkz,alpha bundles,NO_X_NAME,NO_H_NAME,Flagellar protein fliT
+29,droso_5995,7cgp,few secondary structure elements,NO_X_NAME,NO_H_NAME,Tim10/DDP
+30,droso_325,1ixs,alpha arrays,RuvA-C,NO_H_NAME,"RuvA-C, UBA, CRAL/TRIO-N, HBS1"
+31,droso_2281,3fxd,alpha bundles,NO_X_NAME,NO_H_NAME,IcmR
+32,droso_1122,2lrl,alpha bundles,Spectrin repeat-like,NO_H_NAME,"Enzyme IIa from lactose specific PTS, IIa-lac"
+33,droso_4819,7cgp,few secondary structure elements,NO_X_NAME,NO_H_NAME,Tim10/DDP
+34,droso_4585,2a26,alpha bundles,Long alpha-hairpin,NO_H_NAME,Siah interacting protein N terminal domain-like
+35,droso_5437,6te0,extended segments,NO_X_NAME,NO_H_NAME,F1F0 ATP synthase subunit C
+36,droso_5624,1mft,alpha bundles,Ferritin/Heme oxygenase/4-helical cytokines,Ferritin/Heme oxygenase,Ferritin
+37,droso_4840,3o6b,alpha arrays,HTH,HTH,winged
+38,droso_4735,5c39,alpha bundles,Ferritin/Heme oxygenase/4-helical cytokines,Ferritin/Heme oxygenase,Ferritin
+39,droso_1511,1ccv,few secondary structure elements,EGF-like,NO_H_NAME,Serine protease inhibitors
+40,droso_4131,1fxk,alpha bundles,Long alpha-hairpin,NO_H_NAME,Prefoldin
+41,droso_6341,7dr0,alpha bundles,NO_X_NAME,NO_H_NAME,"Photosystem I reaction center subunit X, PsaK"
+42,droso_6243,6jrp,alpha arrays,NO_X_NAME,NO_H_NAME,HMG-box

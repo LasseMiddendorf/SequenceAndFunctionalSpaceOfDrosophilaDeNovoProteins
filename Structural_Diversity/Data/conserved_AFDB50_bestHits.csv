@@ -1,0 +1,2058 @@
+,id,AFDB50_highest_Tm,AFDB50_highest_Tm_ID,AFDB50_seqIdent,AFDB50_qcov,AFDB50_tcov,AFDB50_evalue,species
+0,cons_1000,0.9193,AF-A0A183V9R6-F1-model_v4,0.35,0.708,0.509,1.584e-05,Toxocara canis
+1,cons_1225,0.6198,AF-A0A0F9TCW5-F1-model_v4,0.134,0.684,0.26,8.298,marine sediment metagenome
+2,cons_2059,0.97,AF-A0A0A0RAJ5-F1-model_v4,0.422,0.922,0.91,6.075e-05,Penaeus vannamei
+3,cons_540,0.9518,AF-A0A6J2TBP0-F1-model_v4,0.535,0.672,0.83,7.4280000000000005e-28,Scaptodrosophila lebanonensis
+4,cons_153,0.8635,AF-A0A498NM20-F1-model_v4,0.785,0.528,0.163,2.954e-12,Labeo rohita
+5,cons_1784,0.4134,AF-A0A660RGD0-F1-model_v4,0.069,0.597,0.1,9.791,Thermotoga sp.
+6,cons_2345,0.9295,AF-A0A6J2TIL1-F1-model_v4,0.206,0.7,0.434,0.304,Scaptodrosophila lebanonensis
+7,cons_2393,0.6908,AF-A0A345YQ59-F1-model_v4,0.138,1.0,0.358,8.782,Brachybacterium saurashtrense
+8,cons_1673,0.9695,AF-A0A6P7G4E5-F1-model_v4,0.3,0.759,0.18,0.04852,Diabrotica virgifera virgifera
+9,cons_1318,0.9959,AF-A0A7J7B8V6-F1-model_v4,0.958,0.933,1.0,4.218e-15,Lamprigera yunnana
+10,cons_917,0.2639,AF-A0A2Z7B2I8-F1-model_v4,0.204,0.96,0.186,9.563,Dorcoceras hygrometricum
+11,cons_543,0.6684,AF-A0A7U8C6W2-F1-model_v4,0.196,0.576,0.981,1.643,Neptuniibacter caesariensis
+12,cons_2358,0.9513,AF-C5GCN1-F1-model_v4,0.323,0.354,0.247,0.008636,Blastomyces dermatitidis ER-3
+13,cons_1564,0.9765,AF-A0A182XZ43-F1-model_v4,0.394,0.784,0.858,1.126e-12,Anopheles stephensi
+14,cons_1668,0.7157,AF-A0A653MJ68-F1-model_v4,0.169,1.0,0.959,8.19,Frigoribacterium sp. 9N
+15,cons_2065,0.9979,AF-A0A7R9DEC2-F1-model_v4,0.818,0.538,0.918,3.406e-58,Timema cristinae
+16,cons_1712,0.9744,AF-A0A6I9UV58-F1-model_v4,0.319,0.758,0.878,2.14e-07,Bactrocera dorsalis
+17,cons_325,0.1677,AF-A0A2M7Z594-F1-model_v4,0.242,0.835,0.667,7.16,Candidatus Nealsonbacteria bacterium CG_4_9_14_3_um_filter_37_13
+18,cons_793,0.9631,AF-T1GT19-F1-model_v4,0.443,0.967,0.765,2.173e-07,Megaselia scalaris
+19,cons_1446,0.8135,AF-S9XYU3-F1-model_v4,0.171,0.518,0.629,5.37e-05,Camelus ferus
+20,cons_1069,0.3833,AF-A0A415IV36-F1-model_v4,0.075,1.0,0.812,8.629,Bacteroides sp. AF39-11AC
+21,cons_1419,0.4913,AF-A0A699H219-F1-model_v4,0.182,1.0,0.377,3.478,Tanacetum cinerariifolium
+22,cons_1636,0.7001,AF-A0A1J1HY74-F1-model_v4,0.138,0.643,0.5,2.759,Clunio marinus
+23,cons_823,0.6018,AF-A0A158PHR8-F1-model_v4,0.23,0.956,0.903,6.682,Angiostrongylus costaricensis
+24,cons_1484,0.9554,AF-A0A7D9CVX0-F1-model_v4,0.642,0.972,0.986,8.219e-06,Brettanomyces bruxellensis
+25,cons_1802,0.6744,AF-A0A5B7E2X4-F1-model_v4,0.169,1.0,0.413,7.434,Portunus trituberculatus
+26,cons_2303,0.6682,AF-A0A7H0GWX5-F1-model_v4,0.238,0.855,0.632,5.283,Hymenobacter qilianensis
+27,cons_1936,0.9971,AF-A0A0C9RM61-F1-model_v4,0.779,0.348,1.0,5.991e-27,Fopius arisanus
+28,cons_269,0.9912,AF-A0A182SMN5-F1-model_v4,0.85,0.331,0.996,5.802e-38,Anopheles maculatus
+29,cons_1273,0.5246,AF-A0A5B0QR78-F1-model_v4,0.176,0.595,0.195,4.974,Puccinia graminis f. sp. tritici
+30,cons_826,0.9177,AF-A0A0L0CH42-F1-model_v4,0.263,0.523,0.983,0.01959,Lucilia cuprina
+31,cons_870,0.2263,AF-A0A3D9SG94-F1-model_v4,0.281,0.86,0.806,9.531,Thermomonospora umbrina
+32,cons_1753,0.9918,AF-A0A7T2YMR9-F1-model_v4,0.255,0.741,0.147,2.93,Delftia lacustris
+33,cons_1921,0.9421,AF-A0A6J2TZ81-F1-model_v4,0.08,0.674,0.169,0.06728,Scaptodrosophila lebanonensis
+34,cons_2201,0.9626,AF-A0A1A9UHL8-F1-model_v4,0.315,0.898,0.995,3.7909999999999996e-27,Glossina austeni
+35,cons_852,0.7871,AF-I4DK03-F1-model_v4,0.612,0.79,0.316,0.002971,Papilio xuthus
+36,cons_937,0.9979,AF-A0A6P6NST6-F1-model_v4,0.835,1.0,0.682,7.997e-12,Carassius auratus
+37,cons_629,0.7021,AF-P83404-F1-model_v4,0.484,1.0,1.0,1.88e-07,Phlebotomus duboscqi
+38,cons_1562,0.3721,AF-A0A7S3LXY6-F1-model_v4,0.169,1.0,0.402,6.243,Palpitomonas bilix
+39,cons_130,0.8265,AF-A0A6J2UMM0-F1-model_v4,0.236,0.742,0.31,0.004552,Scaptodrosophila lebanonensis
+40,cons_1450,0.7732,AF-A0A519MGQ7-F1-model_v4,0.05,0.27,0.207,1.532,Hymenobacter sp.
+41,cons_596,0.9874,AF-U3N283-F1-model_v4,0.404,0.618,0.328,0.00144,Apis cerana
+42,cons_725,0.9155,AF-A0A1D8QLN3-F1-model_v4,0.401,0.778,0.984,4.768e-09,Anastrepha fraterculus
+43,cons_81,0.6884,AF-A0A498P193-F1-model_v4,0.07,0.786,0.15,0.8018,Labeo rohita
+44,cons_1529,0.6626,AF-A0A6P8YXM0-F1-model_v4,0.466,0.801,1.0,1.666e-23,Thrips palmi
+45,cons_597,0.9245,AF-A0A7S0LJ73-F1-model_v4,0.147,0.508,0.313,0.0005063,Coccolithus braarudii
+46,cons_378,0.6001,AF-A0A3M0Y1B8-F1-model_v4,0.122,0.527,0.111,6.282,Planctomycetota bacterium
+47,cons_859,0.6532,AF-A0A6A8SK48-F1-model_v4,0.2,0.955,0.379,0.526,Turicibacter sanguinis
+48,cons_2181,0.2629,AF-H2XM70-F1-model_v4,0.214,0.986,0.585,8.635,Ciona intestinalis
+49,cons_211,0.6456,AF-A0A6J2UI86-F1-model_v4,0.508,0.795,0.663,9.077e-08,Scaptodrosophila lebanonensis
+50,cons_846,0.3613,AF-A0A2H3D176-F1-model_v4,0.118,0.968,0.599,4.243,Armillaria gallica
+51,cons_1810,0.2532,AF-A0A7R8H737-F1-model_v4,0.355,0.985,0.352,9.156,Lepeophtheirus salmonis
+52,cons_2267,0.9395,AF-A0A2M4AKY4-F1-model_v4,0.365,0.667,0.247,0.001764,Anopheles triannulatus
+53,cons_228,0.202,AF-A0A6A4L2W2-F1-model_v4,0.125,0.662,0.445,8.604,Rhododendron williamsianum
+54,cons_1626,0.7212,AF-A0A212EGR8-F1-model_v4,0.439,0.446,0.477,0.01367,Danaus plexippus plexippus
+55,cons_1618,0.9522,AF-A0A6G1R8R5-F1-model_v4,0.222,0.372,0.952,1.794e-09,Hypotaenidia okinawae
+56,cons_1304,0.9311,AF-A0A5E4Q9P2-F1-model_v4,0.486,0.607,0.385,4.449e-08,Leptidea sinapis
+57,cons_166,0.2774,AF-A0A699J4R3-F1-model_v4,0.205,0.981,0.545,9.297,Tanacetum cinerariifolium
+58,cons_1113,0.2552,AF-A0A7S1AXL2-F1-model_v4,0.205,1.0,0.205,4.369,Noctiluca scintillans
+59,cons_2180,0.5137,AF-A0A0G0VID0-F1-model_v4,0.096,0.861,0.886,6.287,Candidatus Roizmanbacteria bacterium GW2011_GWB1_40_7
+60,cons_768,0.895,AF-A0A7R8YP10-F1-model_v4,0.472,1.0,0.746,1.069e-28,Hermetia illucens
+61,cons_1219,0.4489,AF-A0A1Y1X5T2-F1-model_v4,0.171,0.984,0.64,8.047,Anaeromyces robustus
+62,cons_2366,0.3855,AF-A0A392QL55-F1-model_v4,0.156,1.0,0.342,3.964,Trifolium medium
+63,cons_2177,0.3624,AF-A0A224XKC7-F1-model_v4,0.206,0.471,0.295,4.634,Panstrongylus lignarius
+64,cons_1791,0.9329,AF-A0A6P8ZT55-F1-model_v4,0.447,0.71,0.269,2.395e-06,Thrips palmi
+65,cons_1045,0.8163,AF-A0A5E4NJM7-F1-model_v4,0.321,0.778,0.189,0.1319,Cinara cedri
+66,cons_603,0.5055,AF-A0A034WHP4-F1-model_v4,0.522,1.0,0.85,4.996e-11,Bactrocera dorsalis
+67,cons_1759,0.3312,AF-A0A699TDF0-F1-model_v4,0.11,0.832,0.826,6.401,Tanacetum cinerariifolium
+68,cons_1683,0.9433,AF-A0A3B1JI17-F1-model_v4,0.298,0.74,0.852,3.446e-07,Astyanax mexicanus
+69,cons_2185,0.9339,AF-A0A6J2T942-F1-model_v4,0.893,0.658,0.902,6.885e-13,Scaptodrosophila lebanonensis
+70,cons_1792,0.9936,AF-A0A834REY9-F1-model_v4,0.542,0.641,0.289,6.82e-05,Sarcoptes scabiei
+71,cons_1634,0.3605,AF-A0A653HCH9-F1-model_v4,0.114,0.97,0.539,6.393,Hepatocystis sp. ex Piliocolobus tephrosceles
+72,cons_1448,0.3603,AF-A0A5B1CA10-F1-model_v4,0.186,0.947,0.521,9.458,Rubripirellula obstinata
+73,cons_2396,0.9428,AF-A0A7M7GLW5-F1-model_v4,0.288,0.648,0.584,5.226e-05,Nasonia vitripennis
+74,cons_258,0.4126,AF-A0A1F5TQR0-F1-model_v4,0.196,0.776,0.195,8.318,Candidatus Falkowbacteria bacterium RIFOXYD2_FULL_34_120
+75,cons_245,0.9261,AF-A0A1X9P7L8-F1-model_v4,0.246,0.485,0.961,5.54e-07,Conogethes punctiferalis
+76,cons_523,0.8867,AF-A0A0N1PFD5-F1-model_v4,0.225,0.421,0.842,0.0001055,Papilio xuthus
+77,cons_14,0.5308,AF-A0A522NWM1-F1-model_v4,0.164,0.929,0.849,7.226,Mycobacterium sp.
+78,cons_637,0.2825,AF-A0A6P7G1W1-F1-model_v4,0.19,1.0,0.303,5.006,Diabrotica virgifera virgifera
+79,cons_2254,0.6153,AF-A0A6J2UJ61-F1-model_v4,0.305,0.966,0.468,1.474e-06,Scaptodrosophila lebanonensis
+80,cons_455,0.2788,AF-A0A2H5UAM2-F1-model_v4,0.142,1.0,0.113,9.743,Rhizophagus irregularis DAOM 181602=DAOM 197198
+81,cons_67,0.3914,AF-A0A2G2Z9H9-F1-model_v4,0.111,0.6,0.514,3.277,Capsicum annuum
+82,cons_1728,0.9063,AF-A0A4S3ZNF1-F1-model_v4,0.535,0.466,0.973,4.844e-18,Flavobacterium supellecticarium
+83,cons_88,0.1689,AF-A0A6P6Y3K3-F1-model_v4,0.145,1.0,0.994,8.921,Dermatophagoides pteronyssinus
+84,cons_2271,0.7729,AF-A0A811VAM5-F1-model_v4,0.466,0.87,0.87,0.001771,Ceratitis capitata
+85,cons_1234,0.9765,AF-A0A2M4AY62-F1-model_v4,0.741,0.823,0.989,1.136e-08,Anopheles triannulatus
+86,cons_99,0.295,AF-A0A497HU06-F1-model_v4,0.298,0.967,0.567,3.394,Thermoplasmata archaeon
+87,cons_2265,0.4705,AF-A0A1B0FIM0-F1-model_v4,0.132,0.981,0.679,5.712,Glossina morsitans morsitans
+88,cons_954,0.4087,AF-M6JJC4-F1-model_v4,0.139,0.682,0.812,9.755,Leptospira santarosai serovar Arenal str. MAVJ 401
+89,cons_2198,0.2218,AF-A0A0A8NRS1-F1-model_v4,0.151,0.897,0.541,8.022,Xenorhabdus nematophila str. Websteri
+90,cons_2332,0.9844,AF-V5GXH8-F1-model_v4,0.554,0.856,0.944,5.981e-08,Anoplophora glabripennis
+91,cons_1385,0.9912,AF-A0A7L0EN79-F1-model_v4,0.585,0.887,0.308,1.114e-08,Trogon melanurus
+92,cons_855,0.2546,AF-A0A0R3T1A7-F1-model_v4,0.313,1.0,0.567,0.006641,Rodentolepis nana
+93,cons_500,0.9196,AF-B0XGJ0-F1-model_v4,0.783,0.812,0.857,4.69e-49,Culex quinquefasciatus
+94,cons_395,0.3795,AF-A0A378K1N4-F1-model_v4,0.156,0.877,0.759,3.895,Legionella moravica
+95,cons_605,0.5575,AF-A0A0A1XPV3-F1-model_v4,0.584,0.873,0.746,4.422e-13,Zeugodacus cucurbitae
+96,cons_965,0.3881,AF-A0A4Z2G4J4-F1-model_v4,0.165,0.819,0.346,4.872,Liparis tanakae
+97,cons_1510,0.431,AF-A0A3M7TX86-F1-model_v4,0.262,0.938,0.836,6.594,Alteribacter keqinensis
+98,cons_701,0.6595,AF-A0A1D2R3J1-F1-model_v4,0.157,0.937,0.396,8.866,Candidatus Altiarchaeales archaeon WOR_SM1_86-2
+99,cons_2380,0.2474,AF-A0A5B8MYU0-F1-model_v4,0.216,0.829,0.723,3.161,Chloropicon primus
+100,cons_1987,0.4845,AF-A0A840NNH2-F1-model_v4,0.19,1.0,0.969,9.217,Bartonella callosciuri
+101,cons_673,0.9279,AF-A0A2N0X8K1-F1-model_v4,0.177,0.554,0.849,2.266,Corynebacterium mastitidis
+102,cons_11,0.3801,AF-A0A0E2D1A8-F1-model_v4,0.125,0.786,0.95,7.394,Leptospira interrogans str. UI 12758
+103,cons_155,0.352,AF-A0A7W9AIS6-F1-model_v4,0.164,0.94,0.369,8.821,Sphingobium boeckii
+104,cons_61,0.2611,AF-A0A4Y2QZR7-F1-model_v4,0.125,0.917,0.445,6.711,Araneus ventricosus
+105,cons_1483,0.5228,AF-A0A1G2AQ09-F1-model_v4,0.14,0.417,0.18,4.081,Candidatus Kerfeldbacteria bacterium RIFCSPHIGHO2_02_FULL_42_14
+106,cons_948,0.3836,AF-A0A840GYG0-F1-model_v4,0.147,1.0,0.626,7.803,Bradyrhizobium sp. ERR14
+107,cons_817,0.3357,AF-A0A4Q4V3R6-F1-model_v4,0.186,0.968,0.476,7.459,Monosporascus sp. MC13-8B
+108,cons_756,0.4321,AF-A0A1B0B508-F1-model_v4,0.646,0.883,0.638,6.231e-10,Glossina palpalis gambiensis
+109,cons_939,0.9082,AF-A0A811UJZ5-F1-model_v4,0.489,0.843,0.31,3.009e-09,Ceratitis capitata
+110,cons_249,0.9109,AF-A0A2R5LFR8-F1-model_v4,0.335,0.671,0.955,7.666e-13,Ornithodoros turicata
+111,cons_706,0.7454,AF-A0A1B0F9B5-F1-model_v4,0.602,1.0,1.0,5.171e-05,Glossina morsitans morsitans
+112,cons_2312,0.8806,AF-A0A0J7JTL7-F1-model_v4,0.31,0.847,0.978,0.0001328,Lasius niger
+113,cons_1582,0.3578,AF-A0A6J2UFP5-F1-model_v4,0.544,1.0,0.897,4.575e-09,Scaptodrosophila lebanonensis
+114,cons_972,0.9706,AF-A0A087UX20-F1-model_v4,0.479,0.658,0.828,0.04021,Stegodyphus mimosarum
+115,cons_1733,0.5165,AF-A0A5M3YT10-F1-model_v4,0.184,0.92,0.307,7.081,Aspergillus terreus
+116,cons_1180,0.2684,AF-A0A7J7AWG5-F1-model_v4,0.196,0.918,0.404,6.535,Lamprigera yunnana
+117,cons_1315,0.4925,AF-A0A6A5G833-F1-model_v4,0.115,0.796,0.127,7.799,Caenorhabditis remanei
+118,cons_1918,0.3848,AF-A0A4Z2BAD5-F1-model_v4,0.093,0.98,0.18,8.66,Takifugu bimaculatus
+119,cons_430,0.3286,AF-X1BXV3-F1-model_v4,0.083,0.935,0.299,7.721,marine sediment metagenome
+120,cons_225,0.9863,AF-A0A0N8JZ13-F1-model_v4,0.377,0.735,0.871,0.00165,Scleropages formosus
+121,cons_1545,0.8955,AF-A0A1A9YNR8-F1-model_v4,0.686,0.819,0.198,9.192e-11,Glossina fuscipes fuscipes
+122,cons_1603,0.9046,AF-A0A1Y3B7X6-F1-model_v4,0.205,0.867,0.534,0.7038,Euroglyphus maynei
+123,cons_510,0.9898,AF-A0A671TDE2-F1-model_v4,0.546,0.782,0.915,4.672e-09,Sinocyclocheilus anshuiensis
+124,cons_2027,0.9824,AF-H6ABW8-F1-model_v4,0.642,0.282,1.0,0.0003466,Strongyloides papillosus
+125,cons_2349,0.195,AF-A0A814UA26-F1-model_v4,0.114,0.94,0.41,4.993,Adineta ricciae
+126,cons_962,0.3013,AF-A0A4Q3CQU1-F1-model_v4,0.185,1.0,0.93,1.535,Sphingomonadales bacterium
+127,cons_1410,0.5824,AF-A0A7N9C9Q8-F1-model_v4,0.231,0.918,0.57,2.799,Macaca fascicularis
+128,cons_2079,0.9896,AF-A0A6J2U829-F1-model_v4,0.505,0.989,1.0,1.855e-11,Scaptodrosophila lebanonensis
+129,cons_1778,0.929,AF-A0A0A1WQU4-F1-model_v4,0.27,0.98,0.935,3.703e-11,Zeugodacus cucurbitae
+130,cons_2005,0.9415,AF-A0A1A9VCH8-F1-model_v4,0.473,0.562,0.993,6.391e-15,Glossina austeni
+131,cons_703,0.7573,AF-A0A4C1SZD3-F1-model_v4,0.625,0.567,0.976,1.87e-10,Eumeta japonica
+132,cons_1947,0.1921,AF-Q22954-F1-model_v4,0.117,0.924,0.634,6.502,Caenorhabditis elegans
+133,cons_2155,0.3582,AF-A0A1I8HLC7-F1-model_v4,0.186,0.985,0.944,1.057,Macrostomum lignano
+134,cons_1001,0.99,AF-B3SFN0-F1-model_v4,0.336,0.613,0.989,3.296e-05,Trichoplax adhaerens
+135,cons_1815,0.9452,AF-A0A836J7W0-F1-model_v4,0.507,0.683,0.866,5.699e-05,Acromyrmex insinuator
+136,cons_223,0.4648,AF-A0A7X4JTZ4-F1-model_v4,0.187,0.985,0.384,3.898,Acidobacteria bacterium
+137,cons_169,0.9207,AF-A0A0B6Z8D9-F1-model_v4,0.594,0.698,0.175,0.06102,Arion vulgaris
+138,cons_444,0.5882,AF-A0A514CPX9-F1-model_v4,0.144,1.0,1.0,8.805,Rhizochromulina marina
+139,cons_2188,0.9204,AF-A0A5B7HIH8-F1-model_v4,0.559,0.663,0.831,0.000183,Portunus trituberculatus
+140,cons_121,0.9976,AF-M9WQ89-F1-model_v4,0.868,0.57,0.992,2.521e-57,Sitophilus zeamais
+141,cons_782,0.6574,AF-A0A3D8J4E1-F1-model_v4,0.133,0.435,0.142,3.906,Helicobacter anseris
+142,cons_2344,0.4396,AF-A0A7S2S0I9-F1-model_v4,0.204,0.889,0.201,6.264,Rhizochromulina marina
+143,cons_2077,0.8902,AF-A0A373BK32-F1-model_v4,0.134,0.65,0.104,6.326,Clostridium sp. AM25-23AC
+144,cons_762,0.9639,AF-A0A1Y1LX22-F1-model_v4,0.335,0.659,1.0,1.122e-14,Photinus pyralis
+145,cons_1566,0.9649,AF-A0A1L8E818-F1-model_v4,0.878,0.779,0.987,1.427e-07,Haematobia irritans
+146,cons_480,0.2854,AF-A0A2V5LZM0-F1-model_v4,0.224,0.866,0.322,7.934,Verrucomicrobia bacterium
+147,cons_2217,0.9315,AF-Q86WA1-F1-model_v4,0.333,0.579,0.786,0.157,Homo sapiens
+148,cons_441,0.1686,AF-A0A345D8Y9-F1-model_v4,0.157,0.986,0.305,8.733,Ephemeroptericola cinctiostellae
+149,cons_694,0.5785,AF-A0A831T2Q4-F1-model_v4,0.119,0.762,0.849,1.502,Blastocatellia bacterium
+150,cons_1715,0.9886,AF-A0A7R9BAA8-F1-model_v4,0.634,0.638,0.99,1.89e-14,Timema shepardi
+151,cons_695,0.5106,AF-A0A1I8PUW3-F1-model_v4,0.124,0.904,0.908,0.02187,Stomoxys calcitrans
+152,cons_550,0.9828,AF-E9H5J8-F1-model_v4,0.588,0.773,0.944,3.011e-05,Daphnia pulex
+153,cons_755,0.2625,AF-A0A392NBV8-F1-model_v4,0.16,1.0,0.528,8.71,Trifolium medium
+154,cons_1485,0.9922,AF-A0A034VG57-F1-model_v4,0.515,0.864,0.669,2.662e-14,Bactrocera dorsalis
+155,cons_2355,0.1645,AF-A0A195FTF3-F1-model_v4,0.2,0.987,0.364,6.219,Trachymyrmex septentrionalis
+156,cons_332,0.3838,AF-A0A3Q0S0Z3-F1-model_v4,0.115,1.0,0.154,3.382,Amphilophus citrinellus
+157,cons_1163,0.9071,AF-L8YBG9-F1-model_v4,0.571,0.761,0.08,1.523e-10,Tupaia chinensis
+158,cons_575,0.1339,AF-G4Z231-F1-model_v4,0.16,0.769,0.225,4.123,Phytophthora sojae strain P6497
+159,cons_475,0.7325,AF-A0A1L8ECH3-F1-model_v4,0.467,1.0,1.0,3.637e-06,Haematobia irritans
+160,cons_1270,0.9833,AF-A0A1L8E6Z3-F1-model_v4,0.557,0.673,0.986,1.263e-09,Haematobia irritans
+161,cons_818,0.4427,AF-A0A287NJS5-F1-model_v4,0.226,1.0,0.265,2.787,Hordeum vulgare subsp. vulgare
+162,cons_1517,0.9809,AF-A0A1Y1XIS8-F1-model_v4,0.378,0.779,0.733,0.0002212,Anaeromyces robustus
+163,cons_578,0.9783,AF-W0THA2-F1-model_v4,0.412,0.926,0.9,0.07879,Kluyveromyces marxianus DMKU3-1042
+164,cons_59,0.9318,AF-A0A6J2UCV3-F1-model_v4,0.368,0.936,0.866,0.0001045,Scaptodrosophila lebanonensis
+165,cons_1473,0.9014,AF-A0A6M0L8W4-F1-model_v4,0.052,0.404,0.042,3.16,Facklamia sp. 252
+166,cons_2381,0.5156,AF-A0A7S2EFU6-F1-model_v4,0.051,0.591,0.358,5.659,Trieres chinensis
+167,cons_1402,0.4952,AF-A0A0E0G5B4-F1-model_v4,0.12,0.99,0.473,8.018,Oryza nivara
+168,cons_2081,0.268,AF-A0A1B9IKZ0-F1-model_v4,0.103,0.826,0.191,7.396,Kwoniella mangroviensis CBS 10435
+169,cons_111,0.9434,AF-A0A843BQ77-F1-model_v4,0.181,0.773,0.846,0.000361,Candidatus Heimdallarchaeota archaeon
+170,cons_2371,0.193,AF-A0A7M3PTB6-F1-model_v4,0.13,1.0,0.426,4.98,Spirometra erinaceieuropaei
+171,cons_646,0.4189,AF-A0A3R9PSM0-F1-model_v4,0.133,0.875,0.907,2.139,Bacillus canaveralius
+172,cons_1499,0.08263,AF-A0A2H6NAI8-F1-model_v4,0.131,0.739,0.919,0.02594,Micrurus lemniscatus carvalhoi
+173,cons_56,0.9606,AF-A0A6A0GSN3-F1-model_v4,0.593,0.877,0.842,2.474e-08,Hyalella azteca
+174,cons_960,0.3013,AF-F9W552-F1-model_v4,0.136,0.982,0.492,6.254,Trypanosoma congolense IL3000
+175,cons_50,0.9519,AF-A0A1S3DHF3-F1-model_v4,0.333,0.575,0.343,0.2203,Diaphorina citri
+176,cons_1734,0.1688,AF-A0A3N4LB05-F1-model_v4,0.219,1.0,0.688,6.065,Morchella conica CCBAS932
+177,cons_1453,0.4776,AF-A0A0C9RDD2-F1-model_v4,0.356,0.796,0.984,5.641e-18,Fopius arisanus
+178,cons_107,0.99,AF-A0A803TQC3-F1-model_v4,0.203,0.719,0.877,0.08598,Anolis carolinensis
+179,cons_1619,0.3885,AF-Q8TYT4-F1-model_v4,0.15,0.964,0.93,8.125,Methanopyrus kandleri AV19
+180,cons_1849,0.2948,AF-A0A3D9HKK8-F1-model_v4,0.133,0.74,0.866,8.164,Seonamhaeicola aphaedonensis
+181,cons_55,0.9685,AF-A0A1I8NML2-F1-model_v4,0.548,0.925,0.157,0.0001924,Stomoxys calcitrans
+182,cons_2315,0.3993,AF-A0A0L0CGK7-F1-model_v4,0.45,1.0,1.0,0.0003277,Lucilia cuprina
+183,cons_1342,0.8546,AF-A0A6I8PBG5-F1-model_v4,0.419,0.764,0.559,0.000476,Ornithorhynchus anatinus
+184,cons_1705,0.2214,AF-A0A0L6U9A1-F1-model_v4,0.149,1.0,0.342,4.092,Puccinia sorghi
+185,cons_409,0.9661,AF-A0A673HQ70-F1-model_v4,0.395,0.672,0.467,0.00208,Sinocyclocheilus rhinocerous
+186,cons_2050,0.9744,AF-A0A6B0XZE5-F1-model_v4,0.345,0.8,0.694,8.966e-10,Boseongicola sp. SB0664_bin_43
+187,cons_479,0.9414,AF-C3ZZA4-F1-model_v4,0.336,0.395,0.932,3.886e-06,Branchiostoma floridae
+188,cons_1363,0.9565,AF-A0A7J7Y2T7-F1-model_v4,0.529,0.756,0.16,3.016e-05,Myotis myotis
+189,cons_2128,0.8583,AF-A0A7M7KCC8-F1-model_v4,0.298,0.648,0.056,0.002669,Varroa destructor
+190,cons_720,0.9697,AF-A0A1E1WMM4-F1-model_v4,0.442,0.511,0.395,5.639e-06,Pectinophora gossypiella
+191,cons_32,0.9839,AF-A0A0C9QI49-F1-model_v4,0.784,0.991,0.795,1.094e-12,Fopius arisanus
+192,cons_1346,0.724,AF-A0A194R2V3-F1-model_v4,0.262,1.0,0.147,0.263,Papilio machaon
+193,cons_760,0.7617,AF-A0A5N6I024-F1-model_v4,0.433,0.988,0.965,0.001978,Aspergillus pseudonomiae
+194,cons_1913,0.943,AF-A0A316UX76-F1-model_v4,0.428,0.562,0.969,3.446e-06,Jaminaea rosea
+195,cons_1018,0.9513,AF-D8TWP9-F1-model_v4,0.49,0.555,0.945,1.007e-10,Volvox carteri f. nagariensis
+196,cons_2176,0.133,AF-G1XL03-F1-model_v4,0.226,1.0,0.336,8.0,Orbilia oligospora ATCC 24927
+197,cons_2284,0.9904,AF-A0A0K8UZB5-F1-model_v4,0.707,0.976,0.828,1.677e-08,Bactrocera latifrons
+198,cons_447,0.5182,AF-A0A4S4DNA0-F1-model_v4,0.073,0.988,0.12,2.985,Camellia sinensis var. sinensis
+199,cons_415,0.6242,AF-F6NMA4-F1-model_v4,0.632,0.861,0.728,0.0001754,Danio rerio
+200,cons_1741,0.1882,AF-A0A379TT34-F1-model_v4,0.177,0.989,0.901,9.392,Salmonella enterica subsp. diarizonae
+201,cons_74,0.2114,AF-A0A0G4I3B3-F1-model_v4,0.141,0.95,0.946,9.803,Chromera velia CCMP2878
+202,cons_232,0.8851,AF-A0A818RE72-F1-model_v4,0.207,0.301,0.048,0.03519,Rotaria sp. Silwood1
+203,cons_2257,0.3282,AF-A0A0L0C0Q2-F1-model_v4,0.311,0.93,0.482,0.0123,Lucilia cuprina
+204,cons_1975,0.4362,AF-I4CBZ7-F1-model_v4,0.161,0.958,0.744,2.177,Desulfomonile tiedjei DSM 6799
+205,cons_1785,0.4938,AF-A0A3M7QSL1-F1-model_v4,0.144,0.988,0.697,9.15,Brachionus plicatilis
+206,cons_2388,0.9976,AF-A0A556TYW4-F1-model_v4,0.937,0.941,0.432,8.981999999999999e-22,Bagarius yarrelli
+207,cons_2242,0.5285,AF-A0A1X1MW78-F1-model_v4,0.116,0.909,0.359,8.119,Vibrio sp. qd031
+208,cons_1980,0.9969,AF-A0A6G4ZYW9-F1-model_v4,0.83,0.805,0.992,8.881999999999999e-23,Rhipicephalus microplus
+209,cons_306,0.9444,AF-A0A146LM86-F1-model_v4,0.262,0.75,0.773,1.401e-08,Lygus hesperus
+210,cons_65,0.4493,AF-A0A249T574-F1-model_v4,0.162,1.0,0.73,9.863,Chitinophaga sp. MD30
+211,cons_1352,0.3229,AF-A0A7C9DYG4-F1-model_v4,0.155,0.973,0.613,4.852,Opuntia streptacantha
+212,cons_2206,0.9856,AF-A0A7R8UE95-F1-model_v4,0.589,0.992,0.87,2.5889999999999997e-68,Hermetia illucens
+213,cons_270,0.9857,AF-A0A0A1XMZ5-F1-model_v4,0.64,0.978,0.876,3.454e-26,Zeugodacus cucurbitae
+214,cons_807,0.4088,AF-A0A810KMQ7-F1-model_v4,0.254,0.85,0.608,5.963,Mycolicibacterium sp. TY66
+215,cons_1438,0.9016,AF-A0A1S3INF3-F1-model_v4,0.351,0.721,0.99,2.643e-11,Lingula anatina
+216,cons_1216,0.3819,AF-A0A5E4NI85-F1-model_v4,0.163,0.731,0.065,6.227,Cinara cedri
+217,cons_836,0.7662,AF-A0A212FGC3-F1-model_v4,0.21,0.974,0.514,0.02924,Danaus plexippus plexippus
+218,cons_1922,0.9917,AF-A0A1S6GL37-F1-model_v4,0.619,0.74,0.934,2.436e-09,Pseudodiaptomus poplesia
+219,cons_539,0.9049,AF-A0A6J2UHR7-F1-model_v4,0.356,0.896,0.845,5.322e-06,Scaptodrosophila lebanonensis
+220,cons_1321,0.7317,AF-A0A4U7BJ53-F1-model_v4,0.532,0.724,0.665,2.289e-09,Spodoptera litura
+221,cons_360,0.8016,AF-A0A6J8B911-F1-model_v4,0.224,0.873,0.802,4.298e-09,Mytilus coruscus
+222,cons_562,0.3851,AF-A0A164P9K6-F1-model_v4,0.207,0.841,0.262,8.098,Sistotremastrum niveocremeum HHB9708
+223,cons_2319,0.9134,AF-N6U8L0-F1-model_v4,0.475,0.871,0.185,0.007942,Dendroctonus ponderosae
+224,cons_177,0.9982,AF-A0A4U8UZI5-F1-model_v4,0.69,0.876,0.934,2.391e-27,Steinernema carpocapsae
+225,cons_1291,0.9919,AF-A0A7D8V3K8-F1-model_v4,0.581,0.897,0.868,1.779e-25,Vanrija humicola
+226,cons_577,0.2978,AF-A0A7S6MZB8-F1-model_v4,0.11,1.0,0.753,5.515,Ignavibacteriales bacterium
+227,cons_1149,0.9797,AF-A0A667HKB1-F1-model_v4,0.41,0.684,0.191,1.5,Lynx canadensis
+228,cons_348,0.2736,AF-A0A151I5I9-F1-model_v4,0.292,1.0,0.741,0.006323,Atta colombica
+229,cons_734,0.9554,AF-A0A0L1JAJ1-F1-model_v4,0.689,0.906,0.753,2.765e-07,Aspergillus nomiae NRRL 13137
+230,cons_2243,0.9073,AF-A0A7N9AQZ2-F1-model_v4,0.388,0.786,0.919,8.039e-07,Mastacembelus armatus
+231,cons_18,0.8667,AF-A0A6B0RKG5-F1-model_v4,0.838,0.854,0.761,4.834e-13,Bos mutus
+232,cons_833,0.961,AF-A0A7R9M3Z4-F1-model_v4,0.686,0.699,0.425,0.0004522,Medioppia subpectinata
+233,cons_203,0.996,AF-A0A6S7J766-F1-model_v4,0.736,0.909,0.588,1.345e-16,Paramuricea clavata
+234,cons_1152,0.371,AF-A0A7S3IN03-F1-model_v4,0.163,0.968,0.629,4.617,Strombidium inclinatum
+235,cons_149,0.1951,AF-A0A197JFI2-F1-model_v4,0.159,1.0,0.14,5.772,Linnemannia elongata AG-77
+236,cons_206,0.4289,AF-B2V7R7-F1-model_v4,0.136,0.851,0.489,9.975,Sulfurihydrogenibium sp. YO3AOP1
+237,cons_1409,0.2353,AF-A0A146K8J1-F1-model_v4,0.186,1.0,0.375,2.635,Trepomonas sp. PC1
+238,cons_2182,0.3566,AF-A0A067NQD6-F1-model_v4,0.171,0.673,0.584,5.237,Pleurotus ostreatus PC15
+239,cons_235,0.4123,AF-K7HTH5-F1-model_v4,0.164,0.947,0.702,8.253,Caenorhabditis japonica
+240,cons_307,0.9206,AF-A0A0L7LEH4-F1-model_v4,0.203,0.711,0.185,0.00597,Operophtera brumata
+241,cons_2179,0.2335,AF-X1XN45-F1-model_v4,0.131,0.978,0.734,8.352,Acyrthosiphon pisum
+242,cons_1192,0.8178,AF-Q14061-F1-model_v4,0.593,0.738,0.937,5.839e-05,Homo sapiens
+243,cons_1773,0.9926,AF-A0A0K8UZB5-F1-model_v4,0.819,1.0,0.838,7.02e-10,Bactrocera latifrons
+244,cons_1237,0.7155,AF-A0A445EAB8-F1-model_v4,0.188,0.872,0.591,4.775,Arachis hypogaea
+245,cons_466,0.8466,AF-A0A0K2UE86-F1-model_v4,0.803,0.895,0.803,1.877e-10,Lepeophtheirus salmonis
+246,cons_1157,0.9845,AF-Q201Y5-F1-model_v4,0.618,0.948,0.965,8.01e-06,Acyrthosiphon pisum
+247,cons_1972,0.8058,AF-A0A6P8BAU8-F1-model_v4,0.109,0.806,0.478,7.443,Pyricularia grisea
+248,cons_1316,0.3038,AF-S3DQR9-F1-model_v4,0.15,0.868,0.975,5.851,Glarea lozoyensis ATCC 20868
+249,cons_2040,0.9568,AF-E2AWJ8-F1-model_v4,0.6,0.833,0.98,0.0007825,Camponotus floridanus
+250,cons_1642,0.2071,AF-A0A7C8QWY4-F1-model_v4,0.142,0.976,0.232,9.999,Orbilia oligospora
+251,cons_1604,0.942,AF-A0A3P6F5H1-F1-model_v4,0.567,0.736,1.0,9.975e-10,Brassica oleracea
+252,cons_1329,0.9755,AF-A0A6B0V3A1-F1-model_v4,0.643,0.757,0.668,2.39e-18,Ixodes ricinus
+253,cons_2234,0.4391,AF-A0A172TZC3-F1-model_v4,0.2,0.482,0.1,2.686,Flavisolibacter tropicus
+254,cons_1474,0.09999,AF-A0A1T3CD12-F1-model_v4,0.129,0.655,0.87,0.505,Trichoderma guizhouense
+255,cons_1788,0.9435,AF-A0A1A9USS4-F1-model_v4,0.418,0.886,0.983,4.575e-13,Glossina austeni
+256,cons_895,0.9869,AF-A0A0X8T8Q3-F1-model_v4,0.583,0.667,0.84,1.056e-07,Rhyzopertha dominica
+257,cons_654,0.8752,AF-V4BE75-F1-model_v4,0.323,0.833,0.734,8.008e-05,Lottia gigantea
+258,cons_599,0.9948,AF-A0A2K5YVT0-F1-model_v4,0.802,0.826,0.987,1.631e-12,Mandrillus leucophaeus
+259,cons_828,0.9843,AF-A0A0V0RNY3-F1-model_v4,0.529,0.675,0.452,6.144e-11,Trichinella nelsoni
+260,cons_727,0.5076,AF-A0A6I9MTC4-F1-model_v4,0.137,0.872,0.308,7.904,Notothenia coriiceps
+261,cons_1240,0.8917,AF-A0A3P4RHE2-F1-model_v4,0.28,0.864,0.496,0.4073,Gulo gulo
+262,cons_1519,0.572,AF-A0A328E9P0-F1-model_v4,0.142,1.0,0.208,3.763,Cuscuta australis
+263,cons_643,0.9776,AF-A0A811V4R6-F1-model_v4,0.468,0.963,0.963,1.741e-06,Ceratitis capitata
+264,cons_710,0.6073,AF-A0A6J1URV9-F1-model_v4,0.185,0.959,0.056,2.812,Notechis scutatus
+265,cons_1718,0.9828,AF-A0A2I3TAW0-F1-model_v4,0.444,0.809,1.0,6.556e-05,Pan troglodytes
+266,cons_459,0.373,AF-A0A1I8P460-F1-model_v4,0.369,0.944,0.883,2.053e-07,Stomoxys calcitrans
+267,cons_1581,0.48,AF-A0A485NKB3-F1-model_v4,0.417,0.761,0.612,0.007723,Lynx pardinus
+268,cons_1786,0.296,AF-A0A4D6NTA8-F1-model_v4,0.181,1.0,0.347,8.278,Vigna unguiculata
+269,cons_815,0.7687,AF-A0A7G6E5Z2-F1-model_v4,0.04,0.463,0.154,7.475,Thermanaerosceptrum fracticalcis
+270,cons_1492,0.3373,AF-A0A531L0Z0-F1-model_v4,0.204,0.963,0.729,6.652,Mesorhizobium sp.
+271,cons_765,0.5935,AF-A0A1B0B926-F1-model_v4,0.278,0.9,0.991,0.001222,Glossina palpalis gambiensis
+272,cons_885,0.9872,AF-A9UTG3-F1-model_v4,0.5,0.584,0.615,2.86e-10,Monosiga brevicollis
+273,cons_119,0.9935,AF-A0A1I8MXI3-F1-model_v4,0.86,0.917,0.973,8.494000000000001e-26,Musca domestica
+274,cons_704,0.5822,AF-A0A6J2TM57-F1-model_v4,0.415,0.832,0.684,8.585e-05,Scaptodrosophila lebanonensis
+275,cons_112,0.8902,AF-A0A6J2TAC7-F1-model_v4,0.455,0.37,0.362,1.304e-06,Scaptodrosophila lebanonensis
+276,cons_1368,0.9911,AF-A0A3B4AAZ9-F1-model_v4,0.512,0.87,0.952,2.281e-06,Periophthalmus magnuspinnatus
+277,cons_736,0.9497,AF-A0A1I8MV32-F1-model_v4,0.212,0.764,0.783,7.965e-08,Musca domestica
+278,cons_1871,0.9747,AF-A0A1L8E7R1-F1-model_v4,0.457,0.722,0.843,1.774e-08,Haematobia irritans
+279,cons_1411,0.9717,AF-A0A6J2U829-F1-model_v4,0.505,0.957,0.978,8.263e-11,Scaptodrosophila lebanonensis
+280,cons_1962,0.782,AF-A0A6J2ULE7-F1-model_v4,0.407,0.883,0.477,0.0005606,Scaptodrosophila lebanonensis
+281,cons_2258,0.6665,AF-A0A6J2UH08-F1-model_v4,0.375,0.992,0.976,1.702e-07,Scaptodrosophila lebanonensis
+282,cons_2200,0.9663,AF-J9EEU1-F1-model_v4,0.435,0.246,0.85,2.197e-10,Wuchereria bancrofti
+283,cons_2026,0.2981,AF-A0A0D2MRQ1-F1-model_v4,0.275,0.989,0.136,8.282,Monoraphidium neglectum
+284,cons_1615,0.549,AF-A0A7J7G0Y6-F1-model_v4,0.15,1.0,0.87,8.903,Camellia sinensis
+285,cons_52,0.6858,AF-A0A0K8TSH5-F1-model_v4,0.565,0.776,0.987,4.571e-05,Tabanus bromius
+286,cons_1059,0.9299,AF-A0A6J2UDM8-F1-model_v4,0.539,0.895,0.423,1.631e-15,Scaptodrosophila lebanonensis
+287,cons_1592,0.825,AF-A0A3B3QCY4-F1-model_v4,0.75,0.88,0.585,6.276e-10,Paramormyrops kingsleyae
+288,cons_1154,0.3342,AF-A0A4Z2GKC8-F1-model_v4,0.25,0.933,0.523,8.059,Liparis tanakae
+289,cons_335,0.5905,AF-A0A183HGS1-F1-model_v4,0.262,0.659,0.587,0.08647,Onchocerca flexuosa
+290,cons_2316,0.9653,AF-A0A820WKV5-F1-model_v4,0.661,0.899,1.0,1.089e-05,Rotaria socialis
+291,cons_1761,0.5934,AF-A0A540LJE9-F1-model_v4,0.171,0.928,0.328,4.83,Malus baccata
+292,cons_128,0.8063,AF-A0A811V5V5-F1-model_v4,0.243,0.784,0.848,0.001264,Ceratitis capitata
+293,cons_2314,0.8739,AF-A0A6A4SA43-F1-model_v4,0.666,1.0,0.046,0.06249,Scophthalmus maximus
+294,cons_536,0.534,AF-A0A6V7NVL1-F1-model_v4,0.152,0.903,0.247,7.676,Ananas comosus var. bracteatus
+295,cons_331,0.1915,AF-A0A7L3A1I6-F1-model_v4,0.171,0.895,0.777,6.833,Prunella fulvescens
+296,cons_41,0.3659,AF-A0A388L909-F1-model_v4,0.202,0.961,0.114,8.444,Chara braunii
+297,cons_1883,0.5541,AF-A0A7Y4F4H4-F1-model_v4,0.214,0.949,0.549,8.755,Vibrio mediterranei
+298,cons_705,0.587,AF-A0A3N5NCS8-F1-model_v4,0.149,1.0,0.644,7.517,Hyphomicrobiaceae bacterium
+299,cons_1508,0.1802,AF-A0A7I8IT32-F1-model_v4,0.191,0.989,0.92,3.774,Spirodela intermedia
+300,cons_2202,0.9826,AF-B5YNK4-F1-model_v4,0.383,0.836,0.922,1.552e-06,Thalassiosira pseudonana
+301,cons_592,0.9487,AF-A0A3S2TRT0-F1-model_v4,0.297,0.463,0.385,0.02577,Chilo suppressalis
+302,cons_1230,0.281,AF-A0A6J8C0V0-F1-model_v4,0.166,0.877,0.419,6.03,Mytilus coruscus
+303,cons_2233,0.4263,AF-A0A7T9BIC0-F1-model_v4,0.181,0.973,0.362,1.368,bacterium
+304,cons_273,0.3295,AF-W4HBZ0-F1-model_v4,0.161,0.884,0.443,4.198,Aphanomyces astaci
+305,cons_1644,0.2592,AF-A0A2S2QQP8-F1-model_v4,0.105,0.988,0.778,5.586,Sipha flava
+306,cons_685,0.9794,AF-A0A833S5D0-F1-model_v4,0.474,0.655,0.667,1.754e-10,Frieseomelitta varia
+307,cons_328,0.2893,AF-R5PR83-F1-model_v4,0.138,0.99,0.337,6.259,Prevotella sp. CAG:1092
+308,cons_2293,0.8563,AF-A0A0K0EIX1-F1-model_v4,0.468,0.889,1.0,0.0003949,Strongyloides stercoralis
+309,cons_1621,0.6397,AF-A0A811WKP2-F1-model_v4,0.12,0.921,0.735,6.298,Plutella xylostella
+310,cons_1332,0.3064,AF-S8ES67-F1-model_v4,0.163,1.0,0.352,9.408,Toxoplasma gondii ME49
+311,cons_1959,0.9735,AF-A0A6M2DSF1-F1-model_v4,0.523,0.956,0.65,0.0001391,Xenopsylla cheopis
+312,cons_2209,0.9299,AF-A0A6M2E0A9-F1-model_v4,0.82,0.848,0.817,4.699e-05,Amblyomma tuberculatum
+313,cons_296,0.7909,AF-A0A7E4S819-F1-model_v4,0.333,0.369,0.046,0.1059,Cimex lectularius
+314,cons_644,0.7276,AF-A0A103UMQ9-F1-model_v4,0.24,0.938,0.586,0.1399,Cynara cardunculus var. scolymus
+315,cons_138,0.9877,AF-E9FTC8-F1-model_v4,0.573,0.701,0.872,4.087e-08,Daphnia pulex
+316,cons_1649,0.957,AF-A0A3S3PW34-F1-model_v4,0.265,0.49,0.662,0.02755,Dinothrombium tinctorium
+317,cons_1250,0.5087,AF-M1Z9C7-F1-model_v4,0.244,0.563,0.055,2.842,Nitrospina gracilis 3/211
+318,cons_2012,0.9377,AF-A0A7J7JG37-F1-model_v4,0.36,0.676,0.395,0.007459,Bugula neritina
+319,cons_1371,0.8345,AF-A0A0A1WQH2-F1-model_v4,0.409,0.374,0.918,6.954e-13,Zeugodacus cucurbitae
+320,cons_381,0.4381,AF-W9R018-F1-model_v4,0.176,1.0,0.77,9.757,Morus notabilis
+321,cons_1724,0.9325,AF-A0A6J2TGP0-F1-model_v4,0.443,1.0,1.0,1.118e-35,Scaptodrosophila lebanonensis
+322,cons_653,0.9381,AF-T1GYW4-F1-model_v4,0.591,0.731,0.178,0.001029,Megaselia scalaris
+323,cons_2225,0.2365,AF-A0A7T8HET4-F1-model_v4,0.135,0.914,0.564,5.961,Caligus rogercresseyi
+324,cons_1009,0.422,AF-A0A365MUW9-F1-model_v4,0.233,0.981,0.538,0.6118,Fusarium proliferatum
+325,cons_1694,0.3173,AF-A0A4Y4AYV2-F1-model_v4,0.185,0.979,0.78,1.883,Flavobacterium flevense
+326,cons_174,0.3939,AF-A0A1Y3BR44-F1-model_v4,0.125,1.0,0.369,6.845,Euroglyphus maynei
+327,cons_457,0.9846,AF-A0A1B0B433-F1-model_v4,0.947,0.844,0.962,1.92e-13,Glossina palpalis gambiensis
+328,cons_1743,0.9858,AF-A0A182MDE2-F1-model_v4,0.785,0.671,0.982,2.418e-15,Anopheles culicifacies
+329,cons_1696,0.9948,AF-A0A6B2GFT6-F1-model_v4,0.892,0.919,0.99,1.142e-20,Myxobolus squamalis
+330,cons_651,0.9733,AF-A0A818E3B0-F1-model_v4,0.32,0.541,0.098,4.339e-05,Rotaria socialis
+331,cons_2199,0.7146,AF-G1M4S7-F1-model_v4,0.26,0.605,0.639,0.2636,Ailuropoda melanoleuca
+332,cons_1599,0.3978,AF-A0A2R2WDJ0-F1-model_v4,0.15,0.816,1.0,5.174,Frondihabitans sp. 762G35
+333,cons_234,0.3061,AF-A0A6L8J5U4-F1-model_v4,0.15,0.803,0.245,3.429,Acidobacteria bacterium
+334,cons_1421,0.9765,AF-A0A1B6E199-F1-model_v4,0.456,0.73,0.844,4.939e-07,Clastoptera arizonana
+335,cons_289,0.28,AF-A0A1W0WTD3-F1-model_v4,0.165,0.826,0.948,1.0739999999999999e-24,Hypsibius dujardini
+336,cons_1177,0.2181,AF-A0A7D8Z153-F1-model_v4,0.123,0.939,0.527,8.394,Phycisphaerales bacterium
+337,cons_652,0.5597,AF-A0A7R9X8S2-F1-model_v4,0.184,0.74,0.5,0.003066,Argulus foliaceus
+338,cons_640,0.4333,AF-A0A7S4R6X4-F1-model_v4,0.16,0.837,0.182,6.925,Alexandrium monilatum
+339,cons_915,0.3687,AF-A0A166A6B8-F1-model_v4,0.146,0.99,0.739,9.241,Peniophora sp. CONT
+340,cons_681,0.4718,AF-K5VDG4-F1-model_v4,0.142,0.946,0.077,7.111,Phanerochaete carnosa HHB-10118-sp
+341,cons_1334,0.9748,AF-A0A1I8MUK2-F1-model_v4,0.753,0.885,0.205,7.125e-13,Musca domestica
+342,cons_1092,0.451,AF-A0A3P7E7X2-F1-model_v4,0.065,1.0,0.894,9.258,Wuchereria bancrofti
+343,cons_1873,0.1956,AF-R7T798-F1-model_v4,0.19,0.952,0.572,3.246,Capitella teleta
+344,cons_495,0.9756,AF-A0A448X9K6-F1-model_v4,0.512,0.619,0.929,6.218e-15,Protopolystoma xenopodis
+345,cons_1489,0.9865,AF-A0A139WH79-F1-model_v4,0.555,0.616,0.978,1.919e-10,Tribolium castaneum
+346,cons_1906,0.5961,AF-S4NSC0-F1-model_v4,0.194,0.912,0.878,0.03516,Pararge aegeria
+347,cons_2114,0.879,AF-A0A1A9UHH0-F1-model_v4,0.529,0.838,0.195,7.025e-10,Glossina austeni
+348,cons_634,0.6428,AF-A0A182THY8-F1-model_v4,0.511,0.349,0.268,0.007038,Anopheles melas
+349,cons_474,0.3949,AF-A0A194R0B4-F1-model_v4,0.109,0.97,0.238,8.864,Papilio machaon
+350,cons_1238,0.9954,AF-A0A1I8N807-F1-model_v4,0.753,1.0,1.0,1.272e-38,Musca domestica
+351,cons_926,0.9324,AF-A0A5N4CW91-F1-model_v4,0.4,0.586,0.743,4.234e-05,Camelus dromedarius
+352,cons_1580,0.1622,AF-A0A7Y9J6V0-F1-model_v4,0.204,0.936,0.545,9.674,Actinomycetospora corticicola
+353,cons_887,0.4875,AF-A0A3B3YJT0-F1-model_v4,0.15,0.964,0.193,9.253,Poecilia mexicana
+354,cons_1939,0.9915,AF-A0A091KJR5-F1-model_v4,0.6,0.259,0.941,5.487999999999999e-22,Chlamydotis macqueenii
+355,cons_411,0.5245,AF-A0A024FT77-F1-model_v4,0.142,0.894,0.806,3.482,Albugo candida
+356,cons_271,0.4171,AF-A0A821IC04-F1-model_v4,0.083,0.851,0.418,9.081,Rotaria socialis
+357,cons_1812,0.981,AF-A0A0K8VHQ4-F1-model_v4,0.554,0.539,0.917,4.132e-12,Bactrocera latifrons
+358,cons_1574,0.4156,AF-A0A2T2VFA5-F1-model_v4,0.158,0.752,0.99,2.263,Bacteroidetes bacterium SW_11_45_7
+359,cons_1648,0.5257,AF-A0A4Q0SXA9-F1-model_v4,0.203,0.964,0.794,5.602,Granulicella sibirica
+360,cons_2282,0.2915,AF-A0A7X5F1N7-F1-model_v4,0.156,0.956,0.685,6.375,Pannonibacter sp. XCT-53
+361,cons_179,0.224,AF-A0A6P6R4R5-F1-model_v4,0.242,0.835,0.961,2.767e-24,Carassius auratus
+362,cons_2398,0.9874,AF-A0A146LJD6-F1-model_v4,0.571,0.521,0.98,4.375e-12,Lygus hesperus
+363,cons_1151,0.4879,AF-A0A5J4VMX1-F1-model_v4,0.131,0.67,0.438,0.0477,Streblomastix strix
+364,cons_158,0.2276,AF-A0A239CL39-F1-model_v4,0.186,1.0,0.845,4.224,Geodermatophilus saharensis
+365,cons_572,0.3429,AF-A0A5N5SYK2-F1-model_v4,0.181,0.855,0.186,9.731,Armadillidium nasatum
+366,cons_1516,0.2144,AF-A0A4D9ETA9-F1-model_v4,0.156,0.862,0.554,7.688,Platysternon megacephalum
+367,cons_717,0.8644,AF-C3YDC8-F1-model_v4,0.116,0.574,0.705,0.383,Branchiostoma floridae
+368,cons_534,0.87,AF-A0A0L8HMH3-F1-model_v4,0.207,0.634,0.144,0.05092,Octopus bimaculoides
+369,cons_564,0.2435,AF-A0A6G0JSV3-F1-model_v4,0.166,0.981,0.432,6.015,Phytophthora fragariae
+370,cons_417,0.6152,AF-A0A183EGF3-F1-model_v4,0.145,0.5,0.358,4.092,Gongylonema pulchrum
+371,cons_209,0.5538,AF-A0A0F9HVB6-F1-model_v4,0.216,0.984,0.961,4.755,marine sediment metagenome
+372,cons_2372,0.8746,AF-A0A6J2UE47-F1-model_v4,0.309,0.86,0.391,8.195e-13,Scaptodrosophila lebanonensis
+373,cons_776,0.2404,AF-A0A0Q5ZJ45-F1-model_v4,0.157,0.787,0.745,7.706,Chryseobacterium sp. Leaf404
+374,cons_2064,0.9254,AF-A0A6J2TPD6-F1-model_v4,0.515,0.876,0.982,1.2449999999999998e-22,Scaptodrosophila lebanonensis
+375,cons_2025,0.966,AF-A0A0B7B8U7-F1-model_v4,0.397,0.255,0.938,5.831e-06,Arion vulgaris
+376,cons_860,0.3856,AF-A0A2D6PPS0-F1-model_v4,0.051,0.974,0.224,7.786,Planctomycetota bacterium
+377,cons_1096,0.7651,AF-A0A4V0Y8V5-F1-model_v4,0.483,0.938,0.816,0.02221,Rhodnius prolixus
+378,cons_899,0.2318,AF-A0A553NVK5-F1-model_v4,0.21,0.961,0.22,8.767,Tigriopus californicus
+379,cons_2212,0.9562,AF-A0A811V7R0-F1-model_v4,0.859,0.577,1.0,1.483e-05,Ceratitis capitata
+380,cons_139,0.3483,AF-A0A817DUP8-F1-model_v4,0.134,0.6,0.179,1.867,Rotaria sp. Silwood2
+381,cons_244,0.185,AF-A0A6L5CI18-F1-model_v4,0.148,1.0,0.324,9.371,Ephemera danica
+382,cons_362,0.2487,AF-A0A1V8SF66-F1-model_v4,0.193,0.99,0.35,8.472,Rachicladosporium antarcticum
+383,cons_1174,0.2491,AF-W2S702-F1-model_v4,0.154,1.0,0.223,7.068,Cyphellophora europaea CBS 101466
+384,cons_661,0.9938,AF-A0A164YIG8-F1-model_v4,0.759,1.0,1.0,4.277e-13,Daphnia magna
+385,cons_2300,0.9981,AF-A0A1B0GJX1-F1-model_v4,0.942,1.0,0.772,1.985e-29,Lutzomyia longipalpis
+386,cons_2310,0.482,AF-A0A699TB26-F1-model_v4,0.159,0.989,0.843,9.647,Tanacetum cinerariifolium
+387,cons_1445,0.979,AF-A0A182SJB6-F1-model_v4,0.668,0.526,0.996,8.843e-26,Anopheles maculatus
+388,cons_1606,0.982,AF-H6ABW8-F1-model_v4,0.642,0.282,1.0,0.0002089,Strongyloides papillosus
+389,cons_1998,0.4835,AF-A0A0K0DJR8-F1-model_v4,0.057,0.689,0.773,9.752,Angiostrongylus cantonensis
+390,cons_215,0.9357,AF-A0A2N0X8K1-F1-model_v4,0.152,0.509,0.808,2.421,Corynebacterium mastitidis
+391,cons_944,0.1698,AF-A0A1I0TFR7-F1-model_v4,0.18,1.0,0.77,6.862,Rhodococcus kroppenstedtii
+392,cons_2163,0.4477,AF-A0A034WJE6-F1-model_v4,0.435,0.843,0.929,5.178e-27,Bactrocera dorsalis
+393,cons_1455,0.2939,AF-A0A822G577-F1-model_v4,0.157,1.0,0.497,9.275,Rotaria sp. Silwood1
+394,cons_1654,0.9841,AF-C0ILX5-F1-model_v4,0.465,0.641,0.967,6.776e-10,Funneliformis geosporum
+395,cons_2032,0.9838,AF-A0A2J6JHZ2-F1-model_v4,0.6,0.706,1.0,4.249e-05,Lactuca sativa
+396,cons_1208,0.7026,AF-A0A0K8U692-F1-model_v4,0.25,0.8,0.658,0.0632,Bactrocera latifrons
+397,cons_618,0.6335,AF-A0A7W1GUV4-F1-model_v4,0.083,0.787,0.056,8.007,Parachlamydiaceae bacterium
+398,cons_1436,0.427,AF-A0A1I8MXW7-F1-model_v4,0.424,0.905,0.879,1.499e-14,Musca domestica
+399,cons_351,0.9083,AF-A0A3Q0KGP0-F1-model_v4,0.401,0.627,0.459,9.953e-10,Schistosoma mansoni
+400,cons_921,0.6049,AF-A0A3E3IHF3-F1-model_v4,0.151,0.622,0.262,3.243,Eisenbergiella massiliensis
+401,cons_1296,0.9887,AF-A0A6M2DM78-F1-model_v4,0.639,0.803,1.0,1.028e-40,Xenopsylla cheopis
+402,cons_291,0.5766,AF-A0A5N4A0L7-F1-model_v4,0.164,1.0,0.262,5.432,Photinus pyralis
+403,cons_343,0.9524,AF-E3TER9-F1-model_v4,0.375,0.738,0.873,0.01151,Ictalurus punctatus
+404,cons_2276,0.9508,AF-A0A502FSS9-F1-model_v4,0.297,0.264,0.607,1.481,Roseomonas nepalensis
+405,cons_2082,0.3342,AF-A0A7S2EHL6-F1-model_v4,0.155,1.0,0.765,6.268,Trieres chinensis
+406,cons_240,0.5244,AF-A0A7C4MM47-F1-model_v4,0.163,0.836,0.314,1.972,Candidatus Woesearchaeota archaeon
+407,cons_1137,0.2602,AF-A0A1A8VL61-F1-model_v4,0.161,0.651,0.208,3.645,Plasmodium ovale curtisi
+408,cons_1429,0.2841,AF-A0A850G9U0-F1-model_v4,0.187,0.943,0.523,8.101,Pseudenhygromyxa sp. WMMC2535
+409,cons_2255,0.4481,AF-A0A1Q3FRD0-F1-model_v4,0.447,0.71,1.0,2.275e-05,Culex tarsalis
+410,cons_2086,0.5748,AF-A0A660PR69-F1-model_v4,0.102,0.513,0.194,4.066,candidate division Zixibacteria bacterium
+411,cons_1019,0.9862,AF-A0A6V7LL94-F1-model_v4,0.437,0.343,0.87,0.0005531,Bracon brevicornis
+412,cons_93,0.2117,AF-A0A1R3KD49-F1-model_v4,0.185,1.0,0.629,7.156,Corchorus capsularis
+413,cons_280,0.9872,AF-E9FXA4-F1-model_v4,0.662,0.435,0.875,1.629e-09,Daphnia pulex
+414,cons_2382,0.7913,AF-V5GKM2-F1-model_v4,0.196,0.509,0.969,0.006519,Anoplophora glabripennis
+415,cons_635,0.2063,AF-A0A0M6XL24-F1-model_v4,0.19,0.932,0.561,3.812,Jannaschia rubra
+416,cons_880,0.4284,AF-A0A6J2T5I2-F1-model_v4,0.876,0.669,0.832,1.555e-09,Scaptodrosophila lebanonensis
+417,cons_129,0.4487,AF-A0A7J7HLJ5-F1-model_v4,0.148,1.0,0.711,3.407,Camellia sinensis
+418,cons_865,0.5484,AF-A0A7X5QZ68-F1-model_v4,0.157,0.982,0.396,8.811,Lysinibacter cavernae
+419,cons_624,0.4694,AF-J0QZL8-F1-model_v4,0.176,1.0,0.718,4.396,Bartonella tamiae Th239
+420,cons_647,0.9198,AF-A0A7R9QM88-F1-model_v4,0.626,0.684,0.957,7.537e-11,Medioppia subpectinata
+421,cons_1765,0.4482,AF-W7JYD1-F1-model_v4,0.191,0.986,0.193,6.973,Plasmodium falciparum UGT5.1
+422,cons_290,0.8048,AF-A0A2N1PM72-F1-model_v4,0.044,0.366,0.333,4.196,Candidatus Wallbacteria bacterium HGW-Wallbacteria-1
+423,cons_82,0.5483,AF-A0A397REP9-F1-model_v4,0.126,0.975,0.364,8.404,Streptomyces sp. 3211.1
+424,cons_1214,0.6558,AF-A0A7Z0A4Y5-F1-model_v4,0.169,0.654,0.43,2.482,Microlunatus terrae
+425,cons_2264,0.8222,AF-A0A7E5WB23-F1-model_v4,0.561,0.712,0.826,0.0009612,Trichoplusia ni
+426,cons_2023,0.4907,AF-A0A846SX93-F1-model_v4,0.131,0.924,0.26,7.038,Synechococcaceae cyanobacterium SM1_2_3
+427,cons_789,0.3555,AF-A0A2H6N6M2-F1-model_v4,0.142,0.968,0.7,8.576,Micrurus lemniscatus carvalhoi
+428,cons_2277,0.7957,AF-A0A0L0CKR1-F1-model_v4,0.384,0.761,0.31,5.4090000000000003e-20,Lucilia cuprina
+429,cons_1275,0.9966,AF-A0A232F8M7-F1-model_v4,0.646,0.957,0.751,3.6029999999999995e-29,Trichomalopsis sarcophagae
+430,cons_2353,0.2997,AF-A0A067RRP2-F1-model_v4,0.447,0.768,0.237,6.055e-08,Zootermopsis nevadensis
+431,cons_489,0.9225,AF-A0A6L2PVV3-F1-model_v4,0.311,0.402,0.577,0.1554,Coptotermes formosanus
+432,cons_690,0.9314,AF-A0A1D2N9M7-F1-model_v4,0.619,0.863,0.717,3.337e-06,Orchesella cincta
+433,cons_184,0.4852,AF-A0A1R3RQH5-F1-model_v4,0.14,0.966,0.141,9.168,Aspergillus carbonarius ITEM 5010
+434,cons_1727,0.5061,AF-A0A2G9ULQ7-F1-model_v4,0.133,0.789,0.73,3.878,Teladorsagia circumcincta
+435,cons_414,0.306,AF-U6L4X1-F1-model_v4,0.136,0.988,0.468,9.31,Eimeria tenella
+436,cons_134,0.1421,AF-A0A2A2JWK5-F1-model_v4,0.139,0.939,0.779,4.139,Diploscapter pachys
+437,cons_2140,0.9396,AF-A0A1B0G1C9-F1-model_v4,0.552,0.787,0.462,1.261e-11,Glossina morsitans morsitans
+438,cons_2360,0.743,AF-A0A1W7R5R7-F1-model_v4,0.186,0.928,0.521,1.669e-14,Aedes albopictus
+439,cons_116,0.8873,AF-A0A6I9V141-F1-model_v4,0.244,0.983,0.72,4.536e-16,Bactrocera dorsalis
+440,cons_1176,0.7095,AF-A0A7M4FR43-F1-model_v4,0.322,0.72,0.567,0.002196,Crocodylus porosus
+441,cons_832,0.2332,AF-A0A1B6GCX5-F1-model_v4,0.11,1.0,0.921,7.009,Cuerna arida
+442,cons_263,0.2736,AF-A0A0K8W4M5-F1-model_v4,0.325,1.0,0.587,0.8127,Bactrocera latifrons
+443,cons_1011,0.986,AF-C1BR75-F1-model_v4,0.576,0.918,1.0,3.04e-07,Caligus rogercresseyi
+444,cons_330,0.9899,AF-A0A212DIM7-F1-model_v4,0.661,0.644,0.885,1.7790000000000002e-20,Cervus elaphus hippelaphus
+445,cons_110,0.8289,AF-A0A165FBD1-F1-model_v4,0.139,0.68,0.167,0.02029,Exidia glandulosa HHB12029
+446,cons_517,0.9925,AF-A0A061I0H6-F1-model_v4,0.661,0.731,0.971,1.009e-06,Cricetulus griseus
+447,cons_1522,0.6169,AF-A0A161MA17-F1-model_v4,0.254,0.819,0.76,2.484e-05,Triatoma infestans
+448,cons_1264,0.9893,AF-A0A834REY9-F1-model_v4,0.542,0.67,0.289,0.0001423,Sarcoptes scabiei
+449,cons_2244,0.9638,AF-A0A1A9WXR9-F1-model_v4,0.746,0.634,0.672,6.320999999999999e-22,Glossina brevipalpis
+450,cons_1196,0.6786,AF-A0A4R6AS16-F1-model_v4,0.2,0.982,0.534,9.585,Fluviibacterium aquatile
+451,cons_1434,0.9374,AF-A0A172T552-F1-model_v4,0.106,0.688,0.577,6.022,Fervidobacterium pennivorans
+452,cons_1657,0.5205,AF-J9IFQ8-F1-model_v4,0.162,0.957,0.346,8.015,Oxytricha trifallax
+453,cons_1997,0.9726,AF-A0A7S0T1V6-F1-model_v4,0.5,0.487,0.155,0.000707,Mantoniella antarctica
+454,cons_135,0.9954,AF-A0A7M7HE97-F1-model_v4,0.521,0.812,0.663,0.000178,Nasonia vitripennis
+455,cons_1503,0.87,AF-A0A453HQG2-F1-model_v4,0.13,0.896,0.767,9.029,Aegilops tauschii subsp. strangulata
+456,cons_1361,0.458,AF-A0A1D6P446-F1-model_v4,0.13,0.972,0.373,7.251,Zea mays
+457,cons_941,0.2997,AF-A0A2D4I237-F1-model_v4,0.193,0.968,0.604,9.836,Micrurus lemniscatus lemniscatus
+458,cons_298,0.6311,AF-A0A420IBX6-F1-model_v4,0.27,0.987,0.934,0.9062,Golovinomyces cichoracearum
+459,cons_1912,0.9957,AF-Q5ZIV7-F1-model_v4,0.62,0.81,0.86,7.360000000000001e-26,Gallus gallus
+460,cons_978,0.61,AF-A0A2Z6GE53-F1-model_v4,0.206,0.967,0.246,6.518,Ferriphaselus amnicola
+461,cons_2138,0.3026,AF-A0A7W9BEV4-F1-model_v4,0.134,0.774,0.745,9.796,Sphingomonas aerophila
+462,cons_1671,0.2542,AF-A0A834H0K3-F1-model_v4,0.112,1.0,0.216,7.424,Rhododendron simsii
+463,cons_684,0.9435,AF-A0A6V7KXG5-F1-model_v4,0.309,0.483,0.977,0.01663,Bracon brevicornis
+464,cons_1595,0.9852,AF-D8LXM3-F1-model_v4,0.67,0.936,0.936,3.675e-12,Blastocystis hominis
+465,cons_908,0.3199,AF-A0A4Q7UTE6-F1-model_v4,0.161,1.0,0.28,6.322,Pseudonocardia sediminis
+466,cons_2029,0.8434,AF-A0A212EGR8-F1-model_v4,0.531,0.291,0.372,0.0235,Danaus plexippus plexippus
+467,cons_0,0.2952,AF-A0A183IF75-F1-model_v4,0.358,0.647,0.955,6.225e-18,Soboliphyme baturini
+468,cons_1386,0.9736,AF-A0A0K1E8F6-F1-model_v4,0.419,0.443,0.051,7.994,Chondromyces crocatus
+469,cons_1,0.1792,AF-M7Z6X8-F1-model_v4,0.163,0.854,0.367,9.329,Triticum urartu
+470,cons_825,0.9919,AF-A0A7K7UQF5-F1-model_v4,0.746,0.755,0.988,3.453e-13,Ibidorhyncha struthersii
+471,cons_1202,0.3936,AF-A0A4C1SQ77-F1-model_v4,0.54,0.988,0.81,0.0005214,Eumeta japonica
+472,cons_849,0.76,AF-A0A6J2T565-F1-model_v4,0.434,0.989,0.492,0.0001215,Scaptodrosophila lebanonensis
+473,cons_1102,0.4611,AF-A0A7E5X5H6-F1-model_v4,0.13,0.989,0.161,5.818,Trichoplusia ni
+474,cons_1808,0.2901,AF-A0A4Z2GF72-F1-model_v4,0.128,0.864,0.395,1.781,Liparis tanakae
+475,cons_1038,0.9959,AF-V9LKA7-F1-model_v4,0.651,0.989,0.864,5.422e-11,Callorhinchus milii
+476,cons_2004,0.9831,AF-A0A224Y1V2-F1-model_v4,0.58,0.894,0.979,1.109e-14,Panstrongylus lignarius
+477,cons_516,0.6189,AF-A0A6J2U5P9-F1-model_v4,0.511,0.883,0.794,3.318e-11,Scaptodrosophila lebanonensis
+478,cons_1403,0.1897,AF-A0A2I0JFD0-F1-model_v4,0.172,0.985,0.682,2.85,Punica granatum
+479,cons_1110,0.9932,AF-T1IRS2-F1-model_v4,0.725,0.964,0.769,4.568e-12,Strigamia maritima
+480,cons_953,0.7684,AF-A0A7G1ND61-F1-model_v4,0.146,0.978,0.856,6.737,Streptomyces tuirus
+481,cons_102,0.5265,AF-A0A388JPC5-F1-model_v4,0.136,0.955,0.252,4.596,Chara braunii
+482,cons_934,0.4665,AF-A0A2H0QMX2-F1-model_v4,0.176,0.738,0.081,9.018,Bdellovibrio sp. CG11_big_fil_rev_8_21_14_0_20_39_38
+483,cons_2328,0.9519,AF-A0A2D4ICZ1-F1-model_v4,0.51,0.959,0.839,1.984e-15,Micrurus lemniscatus lemniscatus
+484,cons_616,0.9747,AF-A0A2H1WSJ4-F1-model_v4,0.5,0.857,0.256,7.278e-10,Spodoptera frugiperda
+485,cons_1090,0.9847,AF-A0A6B0S6K1-F1-model_v4,0.534,0.468,0.674,0.005354,Bos mutus
+486,cons_2317,0.944,AF-A0A0C9R7W9-F1-model_v4,0.497,0.648,0.851,8.629e-18,Fopius arisanus
+487,cons_2063,0.7449,AF-A0A0L0C430-F1-model_v4,0.135,0.753,0.987,1.605,Lucilia cuprina
+488,cons_1969,0.886,AF-K5X1H6-F1-model_v4,0.129,0.546,0.24,1.71,Phanerochaete carnosa HHB-10118-sp
+489,cons_1855,0.9543,AF-F2U815-F1-model_v4,0.315,0.6,0.058,6.556e-05,Salpingoeca rosetta
+490,cons_1274,0.9344,AF-A0A6J2TA83-F1-model_v4,0.508,0.898,0.914,1.614e-20,Scaptodrosophila lebanonensis
+491,cons_1839,0.7685,AF-A0A5D2EW48-F1-model_v4,0.166,0.716,0.658,2.047,Gossypium darwinii
+492,cons_1167,0.9137,AF-A0A034V3Y6-F1-model_v4,0.313,0.593,0.175,0.01438,Bactrocera dorsalis
+493,cons_1655,0.9596,AF-T1P8K1-F1-model_v4,0.426,0.824,0.49,5.347e-06,Musca domestica
+494,cons_2365,0.9917,AF-A0A315VRD0-F1-model_v4,0.38,0.626,0.989,3.629e-11,Gambusia affinis
+495,cons_1752,0.9185,AF-T1JZ76-F1-model_v4,0.218,0.591,0.764,0.01253,Tetranychus urticae
+496,cons_2387,0.5251,AF-A0A5A7R0U0-F1-model_v4,0.064,0.535,0.093,9.329,Striga asiatica
+497,cons_2401,0.9262,AF-Q5ZJP8-F1-model_v4,0.5,0.612,0.981,0.02782,Gallus gallus
+498,cons_1388,0.4665,AF-A0A3D0XUM7-F1-model_v4,0.081,0.968,0.575,8.075,Oscillospiraceae bacterium
+499,cons_1053,0.6743,AF-A0A0A0LPR6-F1-model_v4,0.102,0.574,0.684,4.882,Cucumis sativus
+500,cons_1707,0.3673,AF-A0A183JYV1-F1-model_v4,0.046,1.0,0.915,2.299,Schistosoma curassoni
+501,cons_15,0.9571,AF-A0A1Y2E5W4-F1-model_v4,0.479,0.527,0.444,0.002767,Neocallimastix californiae
+502,cons_1439,0.2774,AF-A0A5B8MGZ9-F1-model_v4,0.117,0.983,0.515,5.371,Chloropicon primus
+503,cons_2134,0.3026,AF-A0A7S4GL45-F1-model_v4,0.142,0.727,0.262,8.333,Oxyrrhis marina
+504,cons_2020,0.8762,AF-A0A6V7HRG9-F1-model_v4,0.414,0.606,0.974,5.737e-13,Bracon brevicornis
+505,cons_2302,0.7948,AF-A0A319CRT3-F1-model_v4,0.117,0.447,0.125,6.275,Aspergillus ellipticus CBS 707.79
+506,cons_931,0.7967,AF-A0A0J7L8N1-F1-model_v4,0.327,0.468,0.155,0.3356,Lasius niger
+507,cons_2087,0.9477,AF-A0A2W1BSI1-F1-model_v4,0.326,0.804,0.551,3.404e-05,Helicoverpa armigera
+508,cons_839,0.9608,AF-A0A337S8A6-F1-model_v4,0.541,0.632,0.593,0.004691,Felis catus
+509,cons_2043,0.2588,AF-A0A4Q4SQ84-F1-model_v4,0.101,0.975,0.322,7.098,Alternaria arborescens
+510,cons_229,0.4758,AF-A0A6J1RU35-F1-model_v4,0.535,1.0,0.991,3.459e-08,Frankliniella occidentalis
+511,cons_2256,0.4014,AF-A0A645C1J6-F1-model_v4,0.118,0.692,0.376,4.417,bioreactor metagenome
+512,cons_120,0.9913,AF-C4Q4W0-F1-model_v4,0.378,0.952,0.952,8.121e-08,Schistosoma mansoni
+513,cons_1790,0.5249,AF-A0A182SUC9-F1-model_v4,0.811,0.848,0.685,1.338e-08,Anopheles maculatus
+514,cons_955,0.4883,AF-A0A7J6BZQ7-F1-model_v4,0.132,1.0,0.341,7.892,Onychostoma macrolepis
+515,cons_996,0.4284,AF-A0A034V6C2-F1-model_v4,0.792,1.0,0.555,4.45e-08,Bactrocera dorsalis
+516,cons_1864,0.8728,AF-A0A1L8E6Z3-F1-model_v4,0.365,0.89,0.986,4.414e-05,Haematobia irritans
+517,cons_1391,0.4051,AF-A0A4V1IQZ6-F1-model_v4,0.288,0.725,0.302,7.742,Blyttiomyces helicus
+518,cons_79,0.8895,AF-A0A7C6TWD0-F1-model_v4,0.187,0.618,0.262,0.1629,Clostridiales bacterium
+519,cons_2311,0.7479,AF-A0A1A9YIX2-F1-model_v4,0.767,0.694,0.16,0.003748,Glossina fuscipes fuscipes
+520,cons_377,0.9551,AF-A0A653DMF9-F1-model_v4,0.354,0.577,0.416,8.519e-06,Callosobruchus maculatus
+521,cons_183,0.9898,AF-V9LIU4-F1-model_v4,0.479,0.615,0.738,0.01921,Callorhinchus milii
+522,cons_1472,0.837,AF-A0A7S0CMP4-F1-model_v4,0.346,0.473,0.811,2.261e-37,Amorphochlora amoebiformis
+523,cons_1614,0.291,AF-A0A4Q1BVD8-F1-model_v4,0.147,0.909,0.474,2.554,Tremella mesenterica
+524,cons_1664,0.5982,AF-A0A1A9WZP5-F1-model_v4,0.7,0.961,0.452,0.001984,Glossina brevipalpis
+525,cons_1944,0.9891,AF-A0A6F9DMB5-F1-model_v4,0.655,0.799,1.0,2.285e-15,Phallusia mammillata
+526,cons_2324,0.9893,AF-A0A6J2TU54-F1-model_v4,0.748,1.0,1.0,9.858e-13,Scaptodrosophila lebanonensis
+527,cons_1118,0.3519,AF-A0A392RHD2-F1-model_v4,0.153,1.0,0.83,9.155,Trifolium medium
+528,cons_1165,0.9941,AF-A0A1I8N5L2-F1-model_v4,0.964,0.733,1.0,6.502e-15,Musca domestica
+529,cons_1027,0.4693,AF-M4BGY5-F1-model_v4,0.206,0.984,0.173,6.554,Hyaloperonospora arabidopsidis Emoy2
+530,cons_1247,0.4499,AF-A0A3C1UBC0-F1-model_v4,0.326,0.833,0.434,8.5,Porphyromonadaceae bacterium
+531,cons_1631,0.9661,AF-A0A1S3KAV8-F1-model_v4,0.311,0.584,0.195,0.002481,Lingula anatina
+532,cons_1842,0.2662,AF-A0A6G0WWP2-F1-model_v4,0.097,0.967,0.31,7.585,Aphanomyces euteiches
+533,cons_252,0.977,AF-A0A0L0CG19-F1-model_v4,0.361,0.831,0.981,1.09e-18,Lucilia cuprina
+534,cons_284,0.9879,AF-A0A6J2TLM5-F1-model_v4,0.523,1.0,0.818,9.788999999999999e-41,Scaptodrosophila lebanonensis
+535,cons_1881,0.3972,AF-P19880-F1-model_v4,0.132,0.927,0.163,8.972,Saccharomyces cerevisiae S288C
+536,cons_491,0.3486,AF-B4DHY2-F1-model_v4,0.177,0.898,0.461,3.792,Homo sapiens
+537,cons_146,0.2871,AF-A0A7S1FIM9-F1-model_v4,0.125,0.951,0.698,9.745,Noctiluca scintillans
+538,cons_1182,0.9659,AF-A0A2J7QI88-F1-model_v4,0.413,0.853,0.951,0.0009279,Cryptotermes secundus
+539,cons_1199,0.2191,AF-A0A7S0D8X5-F1-model_v4,0.166,0.856,0.838,5.839,Amorphochlora amoebiformis
+540,cons_1974,0.9574,AF-A0A5E4Q9P2-F1-model_v4,0.434,0.594,0.396,1.387e-07,Leptidea sinapis
+541,cons_2034,0.9756,AF-A0A6G1SBN4-F1-model_v4,0.435,0.743,0.709,1.203e-06,Aceria tosichella
+542,cons_1945,0.8935,AF-A0A2U1JT93-F1-model_v4,0.065,0.726,0.351,8.644,Pueribacillus theae
+543,cons_801,0.7902,AF-A0A482VWE0-F1-model_v4,0.379,1.0,1.0,1.51e-09,Asbolus verrucosus
+544,cons_1153,0.9174,AF-A0A3D3QA32-F1-model_v4,0.375,0.571,0.851,0.8417,Actinomycetia bacterium
+545,cons_1820,0.2821,AF-E4WU15-F1-model_v4,0.135,0.971,0.604,7.456,Oikopleura dioica
+546,cons_97,0.7172,AF-A0A553PKC6-F1-model_v4,0.104,0.906,0.857,2.681,Tigriopus californicus
+547,cons_1268,0.7507,AF-B0FWC9-F1-model_v4,0.509,1.0,1.0,0.008256,Aedes aegypti
+548,cons_838,0.4734,AF-A0A1Y1YA83-F1-model_v4,0.161,0.831,0.718,2.373,Basidiobolus meristosporus CBS 931.73
+549,cons_286,0.5885,AF-A0A0H5BHB6-F1-model_v4,0.15,1.0,0.483,9.547,Lotharella vacuolata
+550,cons_1676,0.3387,AF-A0A0Q6JRW3-F1-model_v4,0.189,0.82,0.88,3.504,Sphingomonas sp. Leaf339
+551,cons_1900,0.2544,AF-F0YST7-F1-model_v4,0.137,0.952,0.223,9.706,Aureococcus anophagefferens
+552,cons_1398,0.6069,AF-A0A1G7I3L0-F1-model_v4,0.125,0.914,0.43,9.402,Sporolituus thermophilus DSM 23256
+553,cons_2286,0.4128,AF-H0ECZ6-F1-model_v4,0.15,0.305,0.102,2.969,Glarea lozoyensis 74030
+554,cons_1941,0.987,AF-A0A1L8E305-F1-model_v4,0.42,0.726,0.196,0.007128,Nyssomyia neivai
+555,cons_904,0.9742,AF-A0A6G1SBN4-F1-model_v4,0.435,0.743,0.709,6.837e-07,Aceria tosichella
+556,cons_1549,0.4563,AF-N1QJK9-F1-model_v4,0.333,1.0,0.476,8.459,Sphaerulina musiva SO2202
+557,cons_1857,0.3472,AF-A0A6I9THU9-F1-model_v4,0.166,0.971,0.539,0.5164,Sesamum indicum
+558,cons_1123,0.3047,AF-X8ANS4-F1-model_v4,0.166,0.988,0.539,4.931,Mycobacterium xenopi 3993
+559,cons_1459,0.2504,AF-Q7FAM6-F1-model_v4,0.146,0.642,0.614,0.01197,Oryza sativa Japonica Group
+560,cons_512,0.8366,AF-Q16Y48-F1-model_v4,0.211,0.533,0.888,0.005589,Aedes aegypti
+561,cons_824,0.9805,AF-A0A1A9WXP8-F1-model_v4,0.531,0.615,0.143,1.399e-06,Glossina brevipalpis
+562,cons_463,0.9537,AF-A0A832MYE4-F1-model_v4,0.29,0.654,0.993,1.144e-13,Epsilonproteobacteria bacterium
+563,cons_33,0.9718,AF-A0A834MD07-F1-model_v4,0.4,0.944,1.0,3.061e-11,Rhynchophorus ferrugineus
+564,cons_1369,0.3868,AF-A0A699PDF6-F1-model_v4,0.16,0.956,0.848,8.969,Tanacetum cinerariifolium
+565,cons_1039,0.4958,AF-A0A453QCA0-F1-model_v4,0.13,0.972,0.639,6.913,Aegilops tauschii subsp. strangulata
+566,cons_368,0.7538,AF-A0A1L8ECH3-F1-model_v4,0.52,0.893,0.974,4.702e-06,Haematobia irritans
+567,cons_1249,0.9877,AF-T1GDP9-F1-model_v4,0.514,0.981,0.954,1.072e-27,Megaselia scalaris
+568,cons_1583,0.3255,AF-A0A401NTA0-F1-model_v4,0.135,0.862,0.11,8.787,Scyliorhinus torazame
+569,cons_773,0.4946,AF-A0A2N2FXB8-F1-model_v4,0.132,0.986,0.607,6.966,Deltaproteobacteria bacterium HGW-Deltaproteobacteria-4
+570,cons_633,0.488,AF-K2C182-F1-model_v4,0.22,1.0,0.304,7.26,uncultured bacterium
+571,cons_197,0.9769,AF-B0W3A7-F1-model_v4,0.424,0.611,0.163,5.857e-06,Culex quinquefasciatus
+572,cons_1661,0.5443,AF-A0A5R8VHR0-F1-model_v4,0.163,0.982,0.219,6.369,Pseudarthrobacter sp. NamB4
+573,cons_85,0.5328,AF-A0A388LMP6-F1-model_v4,0.147,0.748,0.384,8.165,Chara braunii
+574,cons_871,0.8988,AF-A0A822EKK7-F1-model_v4,0.414,0.414,0.976,0.003175,Ranitomeya imitator
+575,cons_752,0.7905,AF-A0A6A0HC85-F1-model_v4,0.532,0.838,0.881,2.668e-06,Hyalella azteca
+576,cons_1265,0.2985,AF-A0A482W972-F1-model_v4,0.137,0.906,0.195,9.888,Asbolus verrucosus
+577,cons_1412,0.4888,AF-A0A521VRQ8-F1-model_v4,0.258,0.983,0.582,3.644,Xanthobacteraceae bacterium
+578,cons_1709,0.9787,AF-A0A182S9X8-F1-model_v4,0.595,0.924,0.801,8.938e-10,Anopheles maculatus
+579,cons_733,0.5482,AF-A0A5E4WMU2-F1-model_v4,0.207,0.981,0.757,6.215,Pandoraea horticolens
+580,cons_1848,0.9931,AF-A0A6P3DHZ1-F1-model_v4,0.7,0.933,0.737,6.427e-11,Bombus terrestris
+581,cons_499,0.2521,AF-A0A2R6QKH6-F1-model_v4,0.124,0.974,0.39,0.09679,Actinidia chinensis var. chinensis
+582,cons_1992,0.8932,AF-A0A1J1J3Q1-F1-model_v4,0.256,1.0,0.981,2.747e-09,Clunio marinus
+583,cons_168,0.9634,AF-E9FY69-F1-model_v4,0.409,0.5,0.83,0.000286,Daphnia pulex
+584,cons_1681,0.9166,AF-A0A1I8NKU7-F1-model_v4,0.266,0.62,0.565,0.0001069,Musca domestica
+585,cons_1514,0.9969,AF-A0A1B0AQQ9-F1-model_v4,0.957,0.505,0.986,9.109e-25,Glossina palpalis gambiensis
+586,cons_406,0.9224,AF-A0A7V4LFW4-F1-model_v4,0.4,0.403,0.046,1.151,Deltaproteobacteria bacterium
+587,cons_935,0.6525,AF-A0A059ZXJ2-F1-model_v4,0.168,1.0,0.154,4.939,Boehmeria nivea
+588,cons_205,0.985,AF-A0A1A8K0M5-F1-model_v4,0.452,0.489,0.996,7.532e-13,Nothobranchius kuhntae
+589,cons_226,0.4935,AF-A0A1B0DR17-F1-model_v4,0.317,0.72,0.606,1.615e-07,Phlebotomus papatasi
+590,cons_1803,0.9871,AF-A0A6V7LLW8-F1-model_v4,0.651,0.605,1.0,2.005e-08,Bracon brevicornis
+591,cons_1530,0.3004,AF-A0A6J1X0V7-F1-model_v4,0.25,1.0,0.689,4.765,Galleria mellonella
+592,cons_1781,0.9588,AF-A0A034WSL9-F1-model_v4,0.774,0.371,0.62,1.792e-05,Bactrocera dorsalis
+593,cons_1200,0.3129,AF-A0A540K3T9-F1-model_v4,0.179,0.985,0.798,8.264,Malus baccata
+594,cons_1931,0.2952,AF-A0A6H5HUU4-F1-model_v4,0.204,0.989,0.281,4.936,Trichogramma brassicae
+595,cons_1809,0.8278,AF-A0A1L8EAT2-F1-model_v4,0.697,0.927,0.974,3.065e-05,Haematobia irritans
+596,cons_108,0.9944,AF-A0A6B2GFT6-F1-model_v4,0.892,0.927,0.99,4.0490000000000003e-20,Myxobolus squamalis
+597,cons_735,0.4762,AF-A0A482WZ17-F1-model_v4,0.175,0.881,0.643,8.05,Laodelphax striatellus
+598,cons_1919,0.3981,AF-A0A1J9SLB2-F1-model_v4,0.218,1.0,0.253,5.275,Diplodia corticola
+599,cons_193,0.7933,AF-A0A1A9WV73-F1-model_v4,0.785,0.583,0.697,1.385e-10,Glossina brevipalpis
+600,cons_551,0.9944,AF-A0A372Q8N2-F1-model_v4,0.717,0.723,0.99,5.377e-14,Rhizophagus sp. MUCL 43196
+601,cons_1858,0.9578,AF-H9JJN2-F1-model_v4,0.339,0.629,0.812,0.01839,Bombyx mori
+602,cons_856,0.9568,AF-A0A3P7VA74-F1-model_v4,0.537,0.337,0.918,2.718e-06,Rodentolepis nana
+603,cons_2219,0.9727,AF-A0A1B0DAH9-F1-model_v4,0.636,0.509,0.957,1.615e-22,Phlebotomus papatasi
+604,cons_1607,0.6054,AF-D3TMX4-F1-model_v4,0.718,1.0,1.0,3.287e-11,Glossina morsitans morsitans
+605,cons_1660,0.9983,AF-P62743-F1-model_v4,0.957,1.0,1.0,6.478e-27,Mus musculus
+606,cons_1623,0.885,AF-A0A6J2TZT8-F1-model_v4,0.237,0.979,0.986,4.92e-06,Scaptodrosophila lebanonensis
+607,cons_445,0.9953,AF-A0A368G4P0-F1-model_v4,0.894,0.938,0.884,2.215e-13,Ancylostoma caninum
+608,cons_397,0.3732,AF-A0A1J6KQB9-F1-model_v4,0.116,0.886,0.971,9.433,Nicotiana attenuata
+609,cons_1504,0.3397,AF-A0A0P0Y518-F1-model_v4,0.206,1.0,0.875,9.535,Oryza sativa Japonica Group
+610,cons_649,0.929,AF-A0A1B6KJY0-F1-model_v4,0.238,0.525,0.183,0.326,Graphocephala atropunctata
+611,cons_2320,0.9459,AF-A0A0K8VQQ6-F1-model_v4,0.444,0.536,0.405,0.0905,Bactrocera latifrons
+612,cons_141,0.3763,AF-A0A6A4MMJ1-F1-model_v4,0.184,0.962,0.134,9.089,Rhododendron williamsianum
+613,cons_376,0.2828,AF-A0A426XN81-F1-model_v4,0.122,0.988,0.419,8.579,Ensete ventricosum
+614,cons_527,0.9919,AF-A0A452RL69-F1-model_v4,0.688,1.0,0.483,7.743e-19,Ursus americanus
+615,cons_2309,0.7073,AF-B7GD50-F1-model_v4,0.169,0.203,0.101,2.84,Phaeodactylum tricornutum CCAP 1055/1
+616,cons_882,0.9542,AF-A0A6G0VN20-F1-model_v4,0.35,0.615,0.095,0.05009,Aphis craccivora
+617,cons_236,0.3864,AF-A0A2E4PV02-F1-model_v4,0.038,0.625,0.541,7.3,Chloroflexi bacterium
+618,cons_1590,0.2086,AF-A0A0A9JD24-F1-model_v4,0.197,1.0,0.893,4.268,Arundo donax
+619,cons_2288,0.07429,AF-A0A1B9GLI0-F1-model_v4,0.142,0.976,0.808,0.451,Kwoniella heveanensis BCC8398
+620,cons_588,0.7548,AF-A0A6J2T480-F1-model_v4,0.54,0.953,0.418,0.0038,Scaptodrosophila lebanonensis
+621,cons_1967,0.4859,AF-A0A6N9HHB4-F1-model_v4,0.161,1.0,0.753,5.406,Pseudoduganella guangdongensis
+622,cons_916,0.172,AF-A0A6J4RYZ9-F1-model_v4,0.192,1.0,0.746,7.936,uncultured Solirubrobacteraceae bacterium
+623,cons_891,0.4989,AF-A0A2Z7A932-F1-model_v4,0.171,0.802,0.523,5.978,Dorcoceras hygrometricum
+624,cons_2390,0.8141,AF-A0A504YB56-F1-model_v4,0.274,0.984,0.443,0.1927,Fasciola gigantica
+625,cons_881,0.2988,AF-J4GP88-F1-model_v4,0.16,0.992,0.136,9.256,Fibroporia radiculosa
+626,cons_274,0.5905,AF-A0A0B6Z7G7-F1-model_v4,0.1,0.635,0.755,1.778,Arion vulgaris
+627,cons_1373,0.4871,AF-A0A6A1VZN9-F1-model_v4,0.178,0.862,0.448,1.689,Morella rubra
+628,cons_1720,0.9972,AF-A0A182W4K0-F1-model_v4,0.909,0.952,0.476,2.032e-18,Anopheles minimus
+629,cons_2394,0.3819,AF-A0A1I8M2W1-F1-model_v4,0.342,0.82,0.5,0.0001203,Musca domestica
+630,cons_497,0.2967,AF-A0BYB7-F1-model_v4,0.171,1.0,0.629,4.133,Paramecium tetraurelia
+631,cons_1242,0.7937,AF-A0A1B6G2U9-F1-model_v4,0.396,0.482,0.53,0.016,Cuerna arida
+632,cons_2195,0.4236,AF-A0A517L3A6-F1-model_v4,0.211,0.877,0.531,4.712,Venturia effusa
+633,cons_549,0.8797,AF-A0A7J6Z4X0-F1-model_v4,0.7,0.774,0.821,3.884e-16,Abscondita terminalis
+634,cons_401,0.925,AF-A0A151J9S0-F1-model_v4,0.253,0.522,0.985,2.712e-05,Trachymyrmex cornetzi
+635,cons_1971,0.4213,AF-A0A2J6PQJ4-F1-model_v4,0.139,0.979,0.433,4.917,Hyaloscypha hepaticicola
+636,cons_1697,0.7563,AF-A0A6P7FDF7-F1-model_v4,0.313,0.847,0.919,0.02371,Diabrotica virgifera virgifera
+637,cons_1081,0.9198,AF-Q1DGU6-F1-model_v4,0.324,0.585,0.856,1.21e-05,Aedes aegypti
+638,cons_1869,0.5641,AF-A0A1Q3PWE6-F1-model_v4,0.069,0.253,0.188,3.67,Actinobacteria bacterium 69-20
+639,cons_2104,0.1673,AF-A0A2K3D7S5-F1-model_v4,0.233,0.958,0.713,5.518,Chlamydomonas reinhardtii
+640,cons_565,0.3121,AF-A0A7C9EXG8-F1-model_v4,0.238,0.984,0.418,9.068,Opuntia streptacantha
+641,cons_2031,0.9658,AF-A0A812DHI6-F1-model_v4,0.535,0.694,0.427,4.137e-15,Sepia pharaonis
+642,cons_124,0.9779,AF-A0A195EL66-F1-model_v4,0.823,0.864,0.52,7.281e-09,Trachymyrmex cornetzi
+643,cons_622,0.2711,AF-A0A2P6MX08-F1-model_v4,0.188,0.958,0.726,5.564,Planoprotostelium fungivorum
+644,cons_906,0.9042,AF-A0A1I8M0J7-F1-model_v4,0.341,0.832,0.994,9.988e-16,Musca domestica
+645,cons_957,0.4306,AF-A0A3M7SNN1-F1-model_v4,0.156,0.429,0.362,9.778,Brachionus plicatilis
+646,cons_272,0.7594,AF-A0A2H1C7A9-F1-model_v4,0.56,0.589,0.691,1.459e-16,Fasciola hepatica
+647,cons_671,0.2052,AF-A0A0R3UF62-F1-model_v4,0.175,1.0,0.526,5.598,Mesocestoides corti
+648,cons_247,0.3757,AF-A0A1X7TUR6-F1-model_v4,0.145,0.949,0.156,8.756,Amphimedon queenslandica
+649,cons_1898,0.7464,AF-T1GHJ4-F1-model_v4,0.614,0.714,0.959,2.99e-06,Megaselia scalaris
+650,cons_1573,0.9578,AF-F0YQU7-F1-model_v4,0.304,0.78,0.326,0.005184,Aureococcus anophagefferens
+651,cons_2403,0.4259,AF-A0A2N0BEM2-F1-model_v4,0.196,0.956,0.266,9.792,Leptospira ellisii
+652,cons_872,0.2164,AF-A0A2H1E7W2-F1-model_v4,0.234,0.626,0.229,5.865,Tenacibaculum maritimum NCIMB 2154
+653,cons_2367,0.949,AF-A0A087TZD1-F1-model_v4,0.252,0.878,0.997,7.219e-18,Stegodyphus mimosarum
+654,cons_2230,0.9492,AF-A0A0L0CPW7-F1-model_v4,0.375,0.938,0.502,1.779e-14,Lucilia cuprina
+655,cons_557,0.61,AF-A0A444V333-F1-model_v4,0.148,0.807,0.083,6.012,Acipenser ruthenus
+656,cons_472,0.3407,AF-A0A6P6M383-F1-model_v4,0.142,0.957,0.287,8.472,Carassius auratus
+657,cons_2197,0.4545,AF-A0A154P6Y7-F1-model_v4,0.135,0.881,0.9,5.286,Dufourea novaeangliae
+658,cons_1374,0.7039,AF-A0A6I9VBC0-F1-model_v4,0.537,0.441,0.985,8.889e-06,Bactrocera dorsalis
+659,cons_1880,0.9308,AF-A0A1I8PAU1-F1-model_v4,0.562,0.955,0.962,1.451e-17,Stomoxys calcitrans
+660,cons_2060,0.2992,AF-A0A7Y9MC60-F1-model_v4,0.156,0.935,0.281,9.274,Leifsonia sp. AK011
+661,cons_1875,0.8247,AF-A0A834IBX3-F1-model_v4,0.328,0.914,0.646,0.04628,Rhynchophorus ferrugineus
+662,cons_98,0.3458,AF-A0A554XL54-F1-model_v4,0.16,0.908,0.526,4.553,Tepidimonas fonticaldi
+663,cons_995,0.9955,AF-A0A0M3JSR0-F1-model_v4,0.617,0.88,0.91,1.487e-06,Anisakis simplex
+664,cons_2130,0.345,AF-I0HTJ0-F1-model_v4,0.211,0.947,0.119,7.008,Rubrivivax gelatinosus IL144
+665,cons_1215,0.9908,AF-A0A6J8AWL1-F1-model_v4,0.352,0.495,0.236,8.272e-05,Mytilus coruscus
+666,cons_63,0.3122,AF-A0A2S7P5Q9-F1-model_v4,0.201,0.965,0.263,6.892,Rutstroemia sp. NJR-2017a WRK4
+667,cons_1629,0.7531,AF-A0A3F3QAA4-F1-model_v4,0.086,0.611,1.0,2.831,Aspergillus welwitschiae
+668,cons_1935,0.9549,AF-A0A1Y2HBB8-F1-model_v4,0.345,0.5,0.982,8.703e-05,Catenaria anguillulae PL171
+669,cons_123,0.7585,AF-Q5REZ1-F1-model_v4,0.687,0.984,0.97,3.753e-05,Pongo abelii
+670,cons_1892,0.3104,AF-L8GWC5-F1-model_v4,0.061,0.785,0.835,1.566,Acanthamoeba castellanii str. Neff
+671,cons_1747,0.9869,AF-A0A336MXE7-F1-model_v4,0.503,0.712,0.303,2.202e-17,Culicoides sonorensis
+672,cons_1797,0.488,AF-A0A524M1H5-F1-model_v4,0.083,0.968,0.455,8.962,Methanosarcina sp.
+673,cons_911,0.9604,AF-W5JF39-F1-model_v4,0.698,0.883,0.841,9.634e-05,Anopheles darlingi
+674,cons_2205,0.6808,AF-A0A078KIT6-F1-model_v4,0.098,0.909,0.265,6.465,[Clostridium] cellulosi
+675,cons_608,0.4,AF-Q54TT7-F1-model_v4,0.148,0.958,0.279,9.418,Dictyostelium discoideum
+676,cons_1682,0.2872,AF-A0A4Y2DK12-F1-model_v4,0.128,0.926,0.694,6.864,Araneus ventricosus
+677,cons_502,0.8634,AF-A0A2P4YLT2-F1-model_v4,0.088,0.369,0.074,6.859,Phytophthora palmivora var. palmivora
+678,cons_357,0.8774,AF-A0A7R8YW34-F1-model_v4,0.243,0.678,0.236,0.1004,Hermetia illucens
+679,cons_1793,0.3489,AF-A0A1U7IE52-F1-model_v4,0.093,0.985,0.492,0.36,Phormidium ambiguum IAM M-71
+680,cons_465,0.6693,AF-A0A5J5U4H4-F1-model_v4,0.135,1.0,0.546,7.738,Gossypium barbadense
+681,cons_399,0.9411,AF-A0A3N6UQT8-F1-model_v4,0.388,0.511,0.827,0.0001968,Brassica cretica
+682,cons_621,0.3228,AF-A0A444EGS3-F1-model_v4,0.176,0.837,0.436,8.149,Ensete ventricosum
+683,cons_1740,0.6645,AF-A0A1S3D0A7-F1-model_v4,0.153,0.898,1.0,1.077e-14,Diaphorina citri
+684,cons_22,0.9503,AF-A0A1I8M2I0-F1-model_v4,0.415,0.746,0.131,0.003444,Musca domestica
+685,cons_493,0.3447,AF-A0A7Y2HH21-F1-model_v4,0.147,0.978,0.564,8.764,Saprospiraceae bacterium
+686,cons_473,0.9586,AF-A0A672QRT8-F1-model_v4,0.491,0.431,0.722,1.033e-14,Sinocyclocheilus grahami
+687,cons_2112,0.6266,AF-A0A7C2JUX3-F1-model_v4,0.16,0.367,0.137,1.277,Gammaproteobacteria bacterium
+688,cons_1083,0.2842,AF-A0A6F9ANP3-F1-model_v4,0.164,0.958,0.491,6.769,Coregonus sp. 'balchen'
+689,cons_1533,0.947,AF-A0A368H8S7-F1-model_v4,0.425,0.56,0.315,5.951e-05,Ancylostoma caninum
+690,cons_1774,0.9658,AF-M4B6H4-F1-model_v4,0.603,0.829,1.0,6.302000000000001e-28,Hyaloperonospora arabidopsidis Emoy2
+691,cons_1487,0.9935,AF-A0A1A9ZWE1-F1-model_v4,0.586,1.0,0.568,1.573e-20,Glossina pallidipes
+692,cons_1461,0.32,AF-A0A3C1X9A2-F1-model_v4,0.106,0.711,0.828,0.6119,Planctomycetaceae bacterium
+693,cons_1904,0.3133,AF-A0A7K1ICL7-F1-model_v4,0.105,0.739,0.197,5.327,Nitriliruptoraceae bacterium ZYF776
+694,cons_1989,0.6099,AF-A0A1W7R721-F1-model_v4,0.5,0.92,0.989,5.68e-07,Aedes albopictus
+695,cons_1528,0.8729,AF-A0A146L586-F1-model_v4,0.302,0.826,0.164,0.0001211,Lygus hesperus
+696,cons_2123,0.5119,AF-A0A4Y2CXL1-F1-model_v4,0.108,0.876,0.978,6.654,Araneus ventricosus
+697,cons_1560,0.6456,AF-A0A1B6CBX3-F1-model_v4,0.66,0.982,0.519,0.0002857,Clastoptera arizonana
+698,cons_1261,0.8597,AF-A0A7G8FLA0-F1-model_v4,0.171,0.821,0.327,5.195,Synechococcus sp. RS9907
+699,cons_2120,0.9401,AF-A0A034V9H9-F1-model_v4,0.83,0.251,0.989,1.2199999999999998e-53,Bactrocera dorsalis
+700,cons_602,0.4148,AF-W8CBM4-F1-model_v4,0.563,1.0,0.355,1.388e-06,Ceratitis capitata
+701,cons_242,0.5192,AF-A0A6J2UEI2-F1-model_v4,0.514,0.812,0.977,1.708e-09,Scaptodrosophila lebanonensis
+702,cons_2,0.9767,AF-A0BD62-F1-model_v4,0.26,0.602,0.385,0.002877,Paramecium tetraurelia
+703,cons_1428,0.2568,AF-A0A3N4L8W3-F1-model_v4,0.142,0.882,0.472,6.826,Terfezia boudieri ATCC MYA-4762
+704,cons_2204,0.5921,AF-S7MVA0-F1-model_v4,0.459,0.77,0.729,2.286e-07,Myotis brandtii
+705,cons_1392,0.7154,AF-A0A3P6TYQ4-F1-model_v4,0.088,0.962,0.608,6.919,Litomosoides sigmodontis
+706,cons_2019,0.369,AF-A0A5C7UT00-F1-model_v4,0.14,0.97,0.22,8.638,Pelomonas sp.
+707,cons_1635,0.9799,AF-A0A0A9RG88-F1-model_v4,0.44,0.536,0.743,1.763e-05,Arundo donax
+708,cons_1770,0.3243,AF-A0A1D8DXF4-F1-model_v4,0.09,1.0,0.588,6.296,uncultured bacterium
+709,cons_439,0.3313,AF-A0A1Y2GKB8-F1-model_v4,0.153,0.955,0.528,7.485,Lobosporangium transversale
+710,cons_199,0.3823,AF-A0A261B736-F1-model_v4,0.166,0.968,0.291,8.65,Caenorhabditis remanei
+711,cons_1335,0.3231,AF-A0A6J1SVL4-F1-model_v4,0.237,0.992,1.0,0.006173,Frankliniella occidentalis
+712,cons_251,0.5531,AF-A0A5N6XIA9-F1-model_v4,0.163,0.917,0.739,7.745,Aspergillus sergii
+713,cons_1929,0.8807,AF-A0A1I7RMR9-F1-model_v4,0.322,0.523,0.047,0.002711,Bursaphelenchus xylophilus
+714,cons_1699,0.9716,AF-A0A151J254-F1-model_v4,0.627,0.836,0.785,4.075e-13,Trachymyrmex cornetzi
+715,cons_60,0.9944,AF-A0A0C9R1H3-F1-model_v4,0.688,0.972,0.879,1.6939999999999998e-23,Fopius arisanus
+716,cons_278,0.2581,AF-A0A0F8BVU9-F1-model_v4,0.209,0.948,0.17,9.485,Ceratocystis platani
+717,cons_2002,0.5651,AF-A0A7T9JJG0-F1-model_v4,0.124,0.823,0.235,5.479,Acidobacteria bacterium
+718,cons_1116,0.8479,AF-A0A224Y4V9-F1-model_v4,0.536,1.0,1.0,4.024e-05,Panstrongylus lignarius
+719,cons_1584,0.2532,AF-X6N613-F1-model_v4,0.11,1.0,0.401,8.923,Reticulomyxa filosa
+720,cons_190,0.9967,AF-A0A182W4K0-F1-model_v4,0.888,0.952,0.476,3.669e-18,Anopheles minimus
+721,cons_1762,0.7206,AF-A0A1B0EZ62-F1-model_v4,0.232,0.67,0.842,0.004367,Phlebotomus papatasi
+722,cons_2321,0.9924,AF-A0A7J6BFF4-F1-model_v4,0.651,0.856,0.781,2.667e-14,Ameiurus melas
+723,cons_1979,0.9423,AF-A0A811VAB9-F1-model_v4,0.298,0.824,0.944,3.981e-16,Ceratitis capitata
+724,cons_2161,0.1757,AF-A0A834IJS7-F1-model_v4,0.198,1.0,0.445,7.483,Rhynchophorus ferrugineus
+725,cons_2346,0.4287,AF-A0A2M4AVV5-F1-model_v4,0.335,0.739,1.0,1.143e-15,Anopheles triannulatus
+726,cons_867,0.8416,AF-A0A336L689-F1-model_v4,0.612,0.991,1.0,8.785e-09,Culicoides sonorensis
+727,cons_1885,0.41,AF-A0A0G0PAL9-F1-model_v4,0.224,0.839,0.257,9.388,candidate division CPR2 bacterium GW2011_GWC2_39_10
+728,cons_5,0.9529,AF-A0A7G7WYX9-F1-model_v4,0.428,0.746,0.698,1.393e-16,Pachycerianthus borealis
+729,cons_1602,0.3805,AF-A0A663MEI6-F1-model_v4,0.107,0.956,0.138,7.156,Athene cunicularia
+730,cons_759,0.9421,AF-A0A820MPS9-F1-model_v4,0.294,0.386,0.21,0.002353,Rotaria sp. Silwood2
+731,cons_1546,0.6995,AF-A0A182PKX6-F1-model_v4,0.436,0.685,0.952,6.197e-07,Anopheles epiroticus
+732,cons_2364,0.9528,AF-A0A1Y1LMV5-F1-model_v4,0.8,0.369,1.0,9.997000000000001e-46,Photinus pyralis
+733,cons_2169,0.8885,AF-A0A034WEQ3-F1-model_v4,0.423,0.389,0.997,8.307e-40,Bactrocera dorsalis
+734,cons_664,0.441,AF-A0A420WMA6-F1-model_v4,0.319,0.855,0.19,3.962,Litorimonas taeanensis
+735,cons_2322,0.9516,AF-A0A0A1WQU4-F1-model_v4,0.312,0.941,0.897,1.963e-11,Zeugodacus cucurbitae
+736,cons_450,0.9922,AF-A7UCI3-F1-model_v4,0.933,0.652,1.0,6.587e-07,Musca domestica
+737,cons_1418,0.8446,AF-A0A6J1WJA7-F1-model_v4,0.342,0.938,0.892,0.0004096,Galleria mellonella
+738,cons_1488,0.7075,AF-A0A084W6G2-F1-model_v4,0.4,0.747,0.671,1.767e-07,Anopheles sinensis
+739,cons_257,0.9825,AF-A0A482XFM8-F1-model_v4,0.377,0.319,0.381,3.882e-05,Laodelphax striatellus
+740,cons_1260,0.6727,AF-A0A348AEB5-F1-model_v4,0.2,0.41,0.056,9.086,Methylomusa anaerophila
+741,cons_878,0.2202,AF-A0A7Y5RLN0-F1-model_v4,0.102,0.754,0.796,0.7092,Dermatophilaceae bacterium
+742,cons_731,0.2445,AF-A0A4Y2K7J5-F1-model_v4,0.13,0.938,0.679,9.057,Araneus ventricosus
+743,cons_2386,0.9207,AF-A0A284VRC5-F1-model_v4,0.324,0.932,0.982,3.083e-16,Candidatus Methanoperedens nitroreducens
+744,cons_964,0.957,AF-A0A2X0M3E5-F1-model_v4,0.416,0.703,0.151,3.147e-05,Microbotryum silenes-dioicae
+745,cons_1375,0.9527,AF-A0A067RI49-F1-model_v4,0.293,0.926,1.0,5.318e-12,Zootermopsis nevadensis
+746,cons_1143,0.2811,AF-A0A6J2TW78-F1-model_v4,0.569,0.755,0.569,5.929e-08,Scaptodrosophila lebanonensis
+747,cons_1622,0.405,AF-A0A6P8LEN5-F1-model_v4,0.156,0.94,0.112,4.427,Bombus impatiens
+748,cons_283,0.9681,AF-A0A182PAA2-F1-model_v4,0.67,0.932,0.076,6.612e-07,Anopheles epiroticus
+749,cons_919,0.3657,AF-C5G002-F1-model_v4,0.144,0.985,0.605,6.166,Microsporum canis CBS 113480
+750,cons_2146,0.2218,AF-A0A2S2PBI2-F1-model_v4,0.169,0.888,0.919,9.465,Schizaphis graminum
+751,cons_2124,0.568,AF-A0A6J2TAY7-F1-model_v4,0.221,0.758,0.826,7.453e-05,Scaptodrosophila lebanonensis
+752,cons_267,0.5447,AF-A0A4Y7KZ02-F1-model_v4,0.118,0.971,0.476,5.904,Papaver somniferum
+753,cons_2329,0.6216,AF-A0A5A9P296-F1-model_v4,0.23,0.453,0.037,7.271,Triplophysa tibetana
+754,cons_853,0.3502,AF-A0A2H3CRZ2-F1-model_v4,0.169,0.897,0.356,7.703,Armillaria gallica
+755,cons_305,0.4877,AF-W2Z7P0-F1-model_v4,0.1,0.485,0.415,0.9822,Phytophthora parasitica P10297
+756,cons_747,0.631,AF-A0A0N0PEM8-F1-model_v4,0.322,0.897,0.689,0.5734,Papilio machaon
+757,cons_216,0.2364,AF-A0A834IPK7-F1-model_v4,0.134,0.937,0.081,9.139,Rhynchophorus ferrugineus
+758,cons_1894,0.6526,AF-A0A0L0BS39-F1-model_v4,0.072,0.883,0.451,6.929,Lucilia cuprina
+759,cons_1701,0.5929,AF-A0A0Q9L5T6-F1-model_v4,0.103,1.0,0.866,3.934,Arthrobacter sp. Soil736
+760,cons_714,0.4504,AF-A0A699MJI8-F1-model_v4,0.098,0.851,0.6,7.746,Tanacetum cinerariifolium
+761,cons_805,0.6511,AF-A0A6M1CRJ8-F1-model_v4,0.08,0.614,0.896,6.777,Klebsiella pneumoniae
+762,cons_1233,0.9838,AF-A0A023FC86-F1-model_v4,0.504,0.68,0.885,7.42e-14,Amblyomma cajennense
+763,cons_2133,0.6673,AF-A0A852HQI2-F1-model_v4,0.086,0.397,0.066,8.183,Nicator chloris
+764,cons_392,0.9635,AF-B7Z4L0-F1-model_v4,0.407,0.478,0.344,0.0007026,Homo sapiens
+765,cons_363,0.9987,AF-F0J9E0-F1-model_v4,0.976,0.955,1.0,2.374e-15,Amblyomma variegatum
+766,cons_1826,0.9697,AF-A0A1I8PPS4-F1-model_v4,0.801,1.0,0.767,3.4090000000000003e-28,Stomoxys calcitrans
+767,cons_678,0.4008,AF-A0A653C4F2-F1-model_v4,0.186,0.936,0.623,0.06879,Callosobruchus maculatus
+768,cons_2013,0.5363,AF-A0A146FFK0-F1-model_v4,0.155,0.818,0.577,6.532,Aspergillus luchuensis
+769,cons_1787,0.3931,AF-A0A2E7V1V1-F1-model_v4,0.118,1.0,0.855,8.975,Rickettsiales bacterium
+770,cons_2313,0.2405,AF-C8RWN8-F1-model_v4,0.17,0.826,0.511,8.923,Rhodobacter sp. SW2
+771,cons_1588,0.4722,AF-A0A336MLL6-F1-model_v4,0.441,0.903,0.919,0.07322,Culicoides sonorensis
+772,cons_2306,0.7155,AF-A0A316IA75-F1-model_v4,0.113,0.629,0.145,5.372,Fulvimonas soli
+773,cons_1698,0.9983,AF-A0A0N4U695-F1-model_v4,0.863,0.93,0.504,4.4989999999999996e-27,Dracunculus medinensis
+774,cons_294,0.9856,AF-A0A482RC64-F1-model_v4,0.524,0.262,0.67,3.526e-07,archaeon
+775,cons_952,0.9972,AF-R4WNW2-F1-model_v4,0.889,0.969,0.994,3.869e-19,Riptortus pedestris
+776,cons_657,0.6629,AF-A0A822DWT0-F1-model_v4,0.215,0.981,0.185,9.499,Rotaria sp. Silwood1
+777,cons_282,0.9567,AF-A0A0L1JAJ1-F1-model_v4,0.672,0.906,0.753,2.336e-07,Aspergillus nomiae NRRL 13137
+778,cons_1254,0.3086,AF-A0A2E9AVA3-F1-model_v4,0.094,1.0,0.645,8.864,Gammaproteobacteria bacterium
+779,cons_1840,0.3538,AF-A0A5B7G9Z6-F1-model_v4,0.101,0.541,0.824,6.592,Portunus trituberculatus
+780,cons_542,0.2556,AF-A0A1Z4SMM6-F1-model_v4,0.12,0.974,0.863,5.28,Calothrix sp. NIES-4105
+781,cons_440,0.4839,AF-A0A3M1N594-F1-model_v4,0.146,0.898,0.11,6.504,Chloroflexi bacterium
+782,cons_3,0.7764,AF-A0A1B0BUX6-F1-model_v4,0.353,0.873,0.85,6.506e-10,Glossina palpalis gambiensis
+783,cons_1479,0.9663,AF-A0A0G3Z679-F1-model_v4,0.566,0.754,0.989,1.105e-06,Bactrocera dorsalis
+784,cons_1344,0.9675,AF-Q25446-F1-model_v4,0.493,0.722,0.965,5.066e-06,Musca domestica
+785,cons_1745,0.2709,AF-A0A6G0SUZ3-F1-model_v4,0.181,0.925,0.2,9.786,Aphis glycines
+786,cons_707,0.6615,AF-A0A224YCZ7-F1-model_v4,0.137,0.772,0.738,1.563,Rhipicephalus zambeziensis
+787,cons_979,0.8514,AF-T0SH89-F1-model_v4,0.073,0.461,0.259,0.9622,Bacteriovorax sp. BSW11_IV
+788,cons_2274,0.9598,AF-A0A0S7EH60-F1-model_v4,0.529,0.144,0.992,2.306e-07,Poeciliopsis prolifica
+789,cons_1751,0.8378,AF-A0A814SQD9-F1-model_v4,0.56,1.0,0.985,4.056e-08,Rotaria sordida
+790,cons_1543,0.7472,AF-B7GD50-F1-model_v4,0.148,0.335,0.099,0.8452,Phaeodactylum tricornutum CCAP 1055/1
+791,cons_25,0.8329,AF-A0A1A9WC43-F1-model_v4,0.52,0.986,0.855,1.294e-24,Glossina brevipalpis
+792,cons_2229,0.3641,AF-V2WGK1-F1-model_v4,0.202,0.986,0.973,6.057,Moniliophthora roreri MCA 2997
+793,cons_959,0.3156,AF-A0A1Q3F773-F1-model_v4,0.146,0.92,0.626,3.995,Culex tarsalis
+794,cons_470,0.7609,AF-A0A1B0BUX6-F1-model_v4,0.335,0.875,0.843,1.439e-09,Glossina palpalis gambiensis
+795,cons_1933,0.8826,AF-A0A182LEW3-F1-model_v4,0.647,0.988,1.0,1.639e-10,Anopheles coluzzii
+796,cons_1213,0.4015,AF-A0A166WN21-F1-model_v4,0.095,0.958,0.618,1.764,Fibularhizoctonia sp. CBS 109695
+797,cons_1796,0.9906,AF-A0A287HMA0-F1-model_v4,0.521,0.967,0.536,1.297e-15,Hordeum vulgare subsp. vulgare
+798,cons_623,0.8172,AF-A0A7R9CY91-F1-model_v4,0.297,0.378,0.163,1.416,Timema poppensis
+799,cons_2089,0.7577,AF-A0A6L2N7W5-F1-model_v4,0.05,0.377,0.122,6.083,Tanacetum cinerariifolium
+800,cons_109,0.9863,AF-A0A7L0V174-F1-model_v4,0.423,0.736,0.989,7.823e-13,Leptocoma aspasia
+801,cons_182,0.4474,AF-Q16QL2-F1-model_v4,0.337,0.744,0.615,5.652e-10,Aedes aegypti
+802,cons_346,0.9651,AF-A0A653BU69-F1-model_v4,0.379,0.718,0.183,6.788e-07,Callosobruchus maculatus
+803,cons_601,0.9196,AF-A0A0A1WGW3-F1-model_v4,0.264,0.954,0.558,2.551e-05,Zeugodacus cucurbitae
+804,cons_1232,0.9417,AF-A0A0L7LEH4-F1-model_v4,0.203,0.651,0.185,0.02063,Operophtera brumata
+805,cons_2035,0.4851,AF-F6H689-F1-model_v4,0.202,0.965,0.322,4.892,Vitis vinifera
+806,cons_501,0.6333,AF-A0A5B7FBK4-F1-model_v4,0.175,0.761,0.584,9.887,Portunus trituberculatus
+807,cons_1302,0.991,AF-V4CR66-F1-model_v4,0.652,0.381,1.0,6.651e-07,Lottia gigantea
+808,cons_611,0.7905,AF-A0A535XZ50-F1-model_v4,0.13,0.677,0.348,4.783,Chloroflexi bacterium
+809,cons_2097,0.9827,AF-A0A7R9XNV5-F1-model_v4,0.485,0.833,0.507,1.618e-05,Pycnococcus provasolii
+810,cons_1662,0.3932,AF-A0A7C7LG66-F1-model_v4,0.105,0.859,0.914,7.238,Candidatus Poribacteria bacterium
+811,cons_431,0.6541,AF-A0A0L0BYW6-F1-model_v4,0.338,0.908,0.345,0.758,Lucilia cuprina
+812,cons_1141,0.5959,AF-A0A180GXA7-F1-model_v4,0.089,0.585,0.227,5.254,Puccinia triticina 1-1 BBBD Race 1
+813,cons_1763,0.7999,AF-A0A7W2TBH0-F1-model_v4,0.153,0.317,0.591,5.216,Colwellia sp. BRX10-4
+814,cons_927,0.9049,AF-A0A024UZ07-F1-model_v4,0.225,0.795,0.236,0.4232,Plasmodium falciparum Vietnam Oak-Knoll (FVO)
+815,cons_1539,0.9052,AF-A0A4S9E8X2-F1-model_v4,0.135,0.822,0.215,6.803,Aureobasidium pullulans
+816,cons_607,0.2793,AF-A0A7S0DPJ2-F1-model_v4,0.122,0.85,0.386,7.92,Amorphochlora amoebiformis
+817,cons_1547,0.5634,AF-A0A7Y2GKX4-F1-model_v4,0.111,0.711,0.614,4.151,Acidimicrobiales bacterium
+818,cons_769,0.9602,AF-A0A5N4AKC5-F1-model_v4,0.4,0.685,0.682,9.924e-07,Photinus pyralis
+819,cons_994,0.9781,AF-W0THA2-F1-model_v4,0.412,0.926,0.9,0.06668,Kluyveromyces marxianus DMKU3-1042
+820,cons_1538,0.8309,AF-A0A2D4JM54-F1-model_v4,0.245,0.438,0.482,0.008109,Micrurus lemniscatus lemniscatus
+821,cons_2173,0.4814,AF-U6MDI9-F1-model_v4,0.113,0.908,0.46,3.602,Eimeria maxima
+822,cons_1496,0.4621,AF-A0A2I1ITY7-F1-model_v4,0.202,0.93,0.179,2.592,Actinomyces oris
+823,cons_1248,0.969,AF-A0A6J2U0I7-F1-model_v4,0.623,0.605,0.676,5.396e-08,Scaptodrosophila lebanonensis
+824,cons_1905,0.5915,AF-A0A2S0MCH9-F1-model_v4,0.183,0.909,0.492,7.679,Ottowia oryzae
+825,cons_1087,0.8907,AF-A0A835I6S8-F1-model_v4,0.136,0.957,0.039,6.784,Coptis chinensis
+826,cons_1012,0.9944,AF-A0A2K5YVT0-F1-model_v4,0.802,0.826,0.987,1.13e-12,Mandrillus leucophaeus
+827,cons_1679,0.5597,AF-A0A1I8NK42-F1-model_v4,0.26,0.63,0.939,0.0001102,Musca domestica
+828,cons_641,0.2968,AF-K1WLI0-F1-model_v4,0.215,0.942,0.239,5.525,Drepanopeziza brunnea f. sp. 'multigermtubi' MB_m1
+829,cons_949,0.4172,AF-R1DYY1-F1-model_v4,0.125,0.988,0.268,7.837,Emiliania huxleyi
+830,cons_91,0.3744,AF-A0A834KV32-F1-model_v4,0.25,0.951,0.526,5.784,Vespula pensylvanica
+831,cons_359,0.9428,AF-A0A194PLI6-F1-model_v4,0.437,0.831,0.711,0.001897,Papilio xuthus
+832,cons_1049,0.9828,AF-F6Y5E2-F1-model_v4,0.418,0.948,0.902,0.0006943,Ciona intestinalis
+833,cons_555,0.4534,AF-A0A7C7T2Z9-F1-model_v4,0.166,0.983,0.853,3.2,Planctomycetaceae bacterium
+834,cons_2090,0.2398,AF-A0A0N5AUU3-F1-model_v4,0.261,0.985,0.268,1.609,Syphacia muris
+835,cons_1633,0.9904,AF-A0A5E4PWL2-F1-model_v4,0.777,0.935,0.554,1.717e-09,Leptidea sinapis
+836,cons_1184,0.6749,AF-A0A7J7JIB0-F1-model_v4,0.034,0.264,0.087,4.592,Bugula neritina
+837,cons_2171,0.5898,AF-A0A816Q0P6-F1-model_v4,0.188,0.905,0.616,2.036,Rotaria magnacalcarata
+838,cons_288,0.7275,AF-A0A4Y2SE53-F1-model_v4,0.38,0.856,1.0,1.459e-09,Araneus ventricosus
+839,cons_1365,0.787,AF-A0A177TS29-F1-model_v4,0.17,0.988,0.339,0.1215,Tilletia indica
+840,cons_1795,0.5517,AF-A0A1L8E845-F1-model_v4,0.63,0.685,0.877,3.319e-09,Haematobia irritans
+841,cons_1663,0.4514,AF-A0A1I8P4T1-F1-model_v4,0.868,0.818,0.385,4.855e-09,Stomoxys calcitrans
+842,cons_2168,0.9755,AF-A0A811V4R6-F1-model_v4,0.432,1.0,0.988,2.048e-06,Ceratitis capitata
+843,cons_69,0.3881,AF-A0A6V7VX61-F1-model_v4,0.123,1.0,0.793,8.936,Meloidogyne enterolobii
+844,cons_426,0.318,AF-A0A5N6XGW2-F1-model_v4,0.152,0.923,1.0,3.986,Aspergillus sergii
+845,cons_1221,0.2473,AF-A0A822ASD3-F1-model_v4,0.151,0.973,0.797,3.032,Rotaria socialis
+846,cons_1405,0.3433,AF-A0A7L3X199-F1-model_v4,0.139,0.918,0.47,6.79,Atlantisia rogersi
+847,cons_1704,0.4994,AF-A0A6G6WWG8-F1-model_v4,0.192,1.0,0.155,2.151,Nordella sp. HKS 07
+848,cons_2223,0.3527,AF-A0A3A5VQQ2-F1-model_v4,0.2,1.0,0.962,6.403,Candidatus Poseidoniales archaeon
+849,cons_2152,0.9745,AF-A0A151MEG3-F1-model_v4,0.512,0.603,0.163,0.005723,Alligator mississippiensis
+850,cons_1714,0.2775,AF-A0A094C8K9-F1-model_v4,0.212,1.0,0.398,7.43,Pseudogymnoascus sp. VKM F-4515 (FW-2607)
+851,cons_2100,0.9327,AF-A0A1W0X9Q5-F1-model_v4,0.376,0.875,0.128,0.001096,Hypsibius dujardini
+852,cons_691,0.3289,AF-A0A804Q593-F1-model_v4,0.105,0.99,0.913,5.259,Zea mays
+853,cons_1650,0.9577,AF-G7PX37-F1-model_v4,0.705,0.81,0.993,8.488e-19,Macaca fascicularis
+854,cons_970,0.1711,AF-A0A356KR23-F1-model_v4,0.236,0.866,0.384,8.912,Planctomycetota bacterium
+855,cons_1396,0.9097,AF-A0A7S1U9H3-F1-model_v4,0.236,0.752,0.11,0.1236,Phaeomonas parva
+856,cons_1721,0.9909,AF-A0A164YIG8-F1-model_v4,0.746,1.0,1.0,1.454e-12,Daphnia magna
+857,cons_1601,0.7655,AF-A0A2J7QMW1-F1-model_v4,0.392,0.623,1.0,1.466e-34,Cryptotermes secundus
+858,cons_2330,0.7975,AF-A0A0S8E9Q9-F1-model_v4,0.174,1.0,1.0,6.039,Planctomycetes bacterium SM23_25
+859,cons_1688,0.97,AF-A0A7R9SR86-F1-model_v4,0.352,0.823,0.52,0.4037,Argulus foliaceus
+860,cons_496,0.9819,AF-M1Z3X1-F1-model_v4,0.346,0.655,0.987,9.338e-16,Nitrospina gracilis 3/211
+861,cons_4,0.8929,AF-A0A7R8ZC27-F1-model_v4,0.302,0.987,0.328,1.211e-05,Timema douglasi
+862,cons_344,0.9751,AF-A7UCI3-F1-model_v4,0.644,0.634,1.0,2.381e-06,Musca domestica
+863,cons_1612,0.8534,AF-A0A1D2P7P5-F1-model_v4,0.121,0.813,0.261,0.04566,Scytonema millei VB511283
+864,cons_2193,0.9587,AF-Q17027-F1-model_v4,0.375,0.375,0.235,3.138,Anopheles gambiae
+865,cons_786,0.5871,AF-A0A0M3J1K2-F1-model_v4,0.166,0.986,0.277,5.439,Anisakis simplex
+866,cons_1465,0.3509,AF-A0A2V8J5U6-F1-model_v4,0.106,1.0,0.344,9.152,Acidobacteria bacterium
+867,cons_1051,0.9858,AF-A0A161MSH5-F1-model_v4,0.451,0.603,0.976,8.048e-07,Triatoma infestans
+868,cons_1978,0.9931,AF-A0A850YRI5-F1-model_v4,0.645,0.444,0.98,1.649e-12,Aegithalos caudatus
+869,cons_2325,0.5303,AF-A0A5D3YK62-F1-model_v4,0.155,0.608,1.0,1.176,Nitrosomonas communis
+870,cons_1201,0.9288,AF-A0A1S3SE26-F1-model_v4,0.371,0.365,0.181,0.07023,Salmo salar
+871,cons_993,0.2241,AF-A0A7U0IZQ3-F1-model_v4,0.168,0.937,1.0,6.494,Rickettsia tillamookensis
+872,cons_2384,0.3863,AF-X6NEN9-F1-model_v4,0.075,0.63,0.078,4.382,Reticulomyxa filosa
+873,cons_950,0.7978,AF-A0A7R8D597-F1-model_v4,0.626,0.974,0.758,3.658e-05,Lepeophtheirus salmonis
+874,cons_266,0.9953,AF-A0A0K8V8W1-F1-model_v4,0.76,0.741,0.995,2.802e-42,Bactrocera latifrons
+875,cons_1630,0.6584,AF-A0A1H4LXP6-F1-model_v4,0.049,0.918,0.919,0.8099,Beijerinckia sp. 28-YEA-48
+876,cons_171,0.9871,AF-A0A1Y3AZ31-F1-model_v4,0.743,0.607,0.976,6.495e-08,Euroglyphus maynei
+877,cons_1920,0.8372,AF-A0A0L0BSX1-F1-model_v4,0.658,0.839,0.96,3.153e-16,Lucilia cuprina
+878,cons_800,0.9815,AF-A0A4T0FU91-F1-model_v4,0.25,0.638,0.5,0.9019,Wallemia hederae
+879,cons_161,0.9731,AF-W0THA2-F1-model_v4,0.428,0.926,0.9,0.06135,Kluyveromyces marxianus DMKU3-1042
+880,cons_1822,0.9257,AF-R4WE35-F1-model_v4,0.292,0.797,0.989,3.207e-07,Riptortus pedestris
+881,cons_591,0.9861,AF-A0A7R9K8N3-F1-model_v4,0.553,0.622,0.181,4.508e-06,Timema genevievae
+882,cons_31,0.974,AF-A0A2A6BAY9-F1-model_v4,0.351,0.325,0.058,0.02469,Pristionchus pacificus
+883,cons_1476,0.795,AF-A0A7R8D597-F1-model_v4,0.626,0.974,0.758,7.202e-05,Lepeophtheirus salmonis
+884,cons_620,0.76,AF-A0A0A1XJ30-F1-model_v4,0.918,0.878,0.825,1.222e-11,Zeugodacus cucurbitae
+885,cons_78,0.9919,AF-A0A7R9P051-F1-model_v4,0.747,0.551,0.989,1.423e-13,Timema tahoe
+886,cons_1798,0.2501,AF-A0A086LT93-F1-model_v4,0.222,0.763,0.385,3.975,Toxoplasma gondii RUB
+887,cons_6,0.3497,AF-A0A6J4USB0-F1-model_v4,0.225,0.932,0.734,8.259,uncultured Thermomicrobiales bacterium
+888,cons_167,0.5528,AF-A0A6J5IWB3-F1-model_v4,0.152,0.905,0.3,6.431,Burkholderia cenocepacia
+889,cons_636,0.3118,AF-A0A0P0XPZ5-F1-model_v4,0.156,0.832,0.99,4.85,Oryza sativa Japonica Group
+890,cons_419,0.2345,AF-A0A2W7KPQ4-F1-model_v4,0.242,0.977,0.771,5.176,Paraburkholderia tropica
+891,cons_503,0.9122,AF-A0A016UQE8-F1-model_v4,0.41,0.375,0.506,0.004857,Ancylostoma ceylanicum
+892,cons_1458,0.478,AF-A0A834GL84-F1-model_v4,0.123,0.991,0.739,7.588,Rhododendron simsii
+893,cons_66,0.7777,AF-A0A7S2ARV2-F1-model_v4,0.107,0.298,0.188,5.481,Alexandrium andersonii
+894,cons_1675,0.2183,AF-A0A7S2EBS1-F1-model_v4,0.168,0.992,0.394,2.935,Ditylum brightwellii
+895,cons_1158,0.2976,AF-A0A416K176-F1-model_v4,0.177,0.863,0.408,6.483,Lachnospiraceae bacterium AM48-27BH
+896,cons_448,0.8826,AF-A0A7R8UUQ8-F1-model_v4,0.4,0.728,0.587,5.178e-12,Hermetia illucens
+897,cons_2108,0.3545,AF-A0A5J9UHZ3-F1-model_v4,0.232,0.658,0.412,4.346,Eragrostis curvula
+898,cons_753,0.9895,AF-A0A182XJ59-F1-model_v4,0.516,0.652,0.952,0.006351,Anopheles quadriannulatus
+899,cons_420,0.8986,AF-A0A6A4JT33-F1-model_v4,0.196,0.663,0.733,0.0005835,Apolygus lucorum
+900,cons_1058,0.9628,AF-A0A0K8UIY0-F1-model_v4,0.43,0.998,1.0,1.335e-40,Bactrocera latifrons
+901,cons_526,0.5099,AF-A0A238LAT3-F1-model_v4,0.23,1.0,0.612,3.318,Flavimaricola marinus
+902,cons_1850,0.9225,AF-A0A6H0D4J1-F1-model_v4,0.484,0.79,0.907,1.118e-10,Episyrphus balteatus
+903,cons_1841,0.9426,AF-A0A2H1W0B7-F1-model_v4,0.265,0.731,0.57,3.91,Spodoptera frugiperda
+904,cons_2170,0.5534,AF-A0A336N593-F1-model_v4,0.152,0.975,0.87,0.01946,Culicoides sonorensis
+905,cons_1686,0.2928,AF-A0A6J2TU62-F1-model_v4,0.811,1.0,0.813,6.546e-55,Scaptodrosophila lebanonensis
+906,cons_933,0.2514,AF-J3PCM0-F1-model_v4,0.193,1.0,0.527,5.75,Gaeumannomyces tritici R3-111a-1
+907,cons_1185,0.992,AF-D3TNV5-F1-model_v4,0.795,0.894,0.989,6.475e-17,Glossina morsitans morsitans
+908,cons_1957,0.2094,AF-A0A7R8Z677-F1-model_v4,0.191,1.0,0.481,7.724,Timema douglasi
+909,cons_946,0.4508,AF-A0A1G6LIC8-F1-model_v4,0.186,0.872,0.268,4.149,Actinokineospora iranica
+910,cons_2363,0.244,AF-A0A2H3CNZ1-F1-model_v4,0.19,0.962,0.484,4.184,Armillaria gallica
+911,cons_1755,0.3446,AF-W2RPX2-F1-model_v4,0.245,0.99,0.134,5.864,Cyphellophora europaea CBS 101466
+912,cons_1605,0.625,AF-E2BZJ8-F1-model_v4,0.227,0.399,0.4,2.486,Harpegnathos saltator
+913,cons_219,0.7833,AF-A0A653C6M9-F1-model_v4,0.343,0.636,0.911,1.695e-10,Callosobruchus maculatus
+914,cons_923,0.3526,AF-A0A0M9A1J5-F1-model_v4,0.13,0.979,0.327,6.096,Melipona quadrifasciata
+915,cons_1420,0.2639,AF-A0A835MFG9-F1-model_v4,0.138,0.959,0.774,6.323,Salix dunnii
+916,cons_238,0.08969,AF-A0A845RAV6-F1-model_v4,0.133,0.998,0.766,4.822,Colidextribacter sp. OB.20
+917,cons_106,0.5235,AF-A0A550BSV5-F1-model_v4,0.133,0.822,0.154,6.301,Auriculariopsis ampla
+918,cons_144,0.8925,AF-A0A034VZ81-F1-model_v4,0.579,0.95,0.976,1.54e-57,Bactrocera dorsalis
+919,cons_583,0.4363,AF-A0A0J8B3F3-F1-model_v4,0.096,0.692,0.638,7.544,Beta vulgaris subsp. vulgaris
+920,cons_16,0.3519,AF-A0A0F7UXV3-F1-model_v4,0.2,0.914,0.243,9.47,Toxoplasma gondii VEG
+921,cons_1086,0.3222,AF-A0A250XHE5-F1-model_v4,0.142,0.991,0.145,7.657,Chlamydomonas eustigma
+922,cons_519,0.2716,AF-A0A3R7N4D1-F1-model_v4,0.209,0.933,0.199,0.0554,Penaeus vannamei
+923,cons_1737,0.7415,AF-A0A139WEN7-F1-model_v4,0.473,0.697,0.835,2.175e-05,Tribolium castaneum
+924,cons_1579,0.2992,AF-A0A834KE97-F1-model_v4,0.2,0.924,0.571,3.514,Vespula vulgaris
+925,cons_630,0.3533,AF-A0A7S2R9U3-F1-model_v4,0.156,0.798,0.654,4.04,labyrinthulid quahog parasite QPX
+926,cons_487,0.9367,AF-Q969S6-F1-model_v4,0.411,0.972,0.985,2.306e-07,Homo sapiens
+927,cons_1502,0.4544,AF-A0A7Y3CXL7-F1-model_v4,0.229,0.986,0.602,4.862,Pseudomonadales bacterium
+928,cons_767,0.546,AF-A0A2A4Z0R1-F1-model_v4,0.053,0.824,0.786,2.574,Alphaproteobacteria bacterium
+929,cons_2339,0.9544,AF-A0A0J0XY04-F1-model_v4,0.185,0.458,0.947,0.1776,Cutaneotrichosporon oleaginosum
+930,cons_1194,0.9973,AF-C0JKE5-F1-model_v4,0.877,0.885,1.0,3.7739999999999995e-23,Cavia porcellus
+931,cons_764,0.8475,AF-A0A6A0GTV5-F1-model_v4,0.28,0.988,0.863,0.001142,Hyalella azteca
+932,cons_118,0.7405,AF-A0A3D0DBX8-F1-model_v4,0.09,0.611,0.234,4.473,candidate division Zixibacteria bacterium
+933,cons_1080,0.9973,AF-A0A6J0B808-F1-model_v4,0.814,1.0,1.0,9.248e-13,Neodiprion lecontei
+934,cons_178,0.5648,AF-A1HN07-F1-model_v4,0.152,0.954,0.621,5.591,Thermosinus carboxydivorans Nor1
+935,cons_2352,0.4078,AF-A8QFG6-F1-model_v4,0.188,0.969,0.305,6.343,Brugia malayi
+936,cons_1836,0.2731,AF-T1PP10-F1-model_v4,0.211,1.0,0.348,5.588,Musca domestica
+937,cons_72,0.3651,AF-A0A6J2T401-F1-model_v4,0.339,0.859,0.995,2.657e-14,Scaptodrosophila lebanonensis
+938,cons_1536,0.4073,AF-A0A6J2UD67-F1-model_v4,0.327,0.973,0.982,6.346e-06,Scaptodrosophila lebanonensis
+939,cons_1140,0.4797,AF-A0A7G6A7W3-F1-model_v4,0.191,0.835,0.43,9.811,Massilia sp. Se16.2.3
+940,cons_680,0.846,AF-H9IS96-F1-model_v4,0.465,0.816,0.72,3.02e-07,Bombyx mori
+941,cons_299,0.9267,AF-Q29257-F1-model_v4,0.553,0.415,0.945,6.243e-05,Sus scrofa
+942,cons_1821,0.9833,AF-A0A1J1HYJ4-F1-model_v4,0.633,0.915,0.739,7.874e-19,Clunio marinus
+943,cons_1477,0.2196,AF-A0A830I624-F1-model_v4,0.172,0.979,0.265,5.171,Pycnococcus provasolii
+944,cons_504,0.2991,AF-A0A6I9V3L3-F1-model_v4,0.289,1.0,0.842,0.6003,Bactrocera dorsalis
+945,cons_1252,0.3561,AF-A0A336K2I0-F1-model_v4,0.305,0.922,0.591,7.371e-05,Culicoides sonorensis
+946,cons_982,0.9925,AF-A0A0L0C9Z2-F1-model_v4,0.901,0.659,0.989,5.516e-15,Lucilia cuprina
+947,cons_1570,0.7171,AF-A0A1L9QXY6-F1-model_v4,0.144,0.986,0.829,9.043,Roseofilum reptotaenium AO1-A
+948,cons_943,0.566,AF-A0A7V1EBV1-F1-model_v4,0.126,0.863,0.784,6.3,Spirochaetes bacterium
+949,cons_1555,0.6548,AF-A0A6J2TA52-F1-model_v4,0.314,1.0,0.263,2.334e-06,Scaptodrosophila lebanonensis
+950,cons_1161,0.9306,AF-A0A1W0X9Q5-F1-model_v4,0.415,0.875,0.128,0.0003948,Hypsibius dujardini
+951,cons_2331,0.8623,AF-A0A177BCK1-F1-model_v4,0.467,0.544,0.525,0.0004915,Intoshia linei
+952,cons_1340,0.8909,AF-A0A7R9EVZ0-F1-model_v4,0.453,0.529,0.314,2.896e-05,Timema bartmani
+953,cons_285,0.4076,AF-A0A0E0E6R4-F1-model_v4,0.181,0.846,0.183,3.942,Oryza meridionalis
+954,cons_1497,0.5185,AF-A0A1A9UPW9-F1-model_v4,0.325,0.828,0.982,2.979e-06,Glossina austeni
+955,cons_1204,0.9857,AF-A0A7R9L8P5-F1-model_v4,0.55,0.841,0.836,1.283e-13,Medioppia subpectinata
+956,cons_96,0.9658,AF-A0A811V8I8-F1-model_v4,0.698,0.969,0.414,2.822e-05,Ceratitis capitata
+957,cons_1209,0.3095,AF-A0A1W1BH78-F1-model_v4,0.126,0.887,0.32,6.024,hydrothermal vent metagenome
+958,cons_2015,0.8278,AF-A0A7S4UUW4-F1-model_v4,0.193,0.298,0.265,2.122,Ditylum brightwellii
+959,cons_1966,0.2295,AF-A0A0M9FYV8-F1-model_v4,0.135,0.842,0.355,8.607,Leptomonas pyrrhocoris
+960,cons_613,0.565,AF-A0A7S2WKJ2-F1-model_v4,0.067,0.615,0.443,1.56,Rhizochromulina marina
+961,cons_1076,0.9638,AF-A0A182N865-F1-model_v4,0.812,1.0,0.646,3.073e-09,Anopheles dirus
+962,cons_422,0.596,AF-A0A345NJT1-F1-model_v4,0.23,0.962,0.437,4.87,Ornithinimicrobium avium
+963,cons_68,0.2668,AF-A0A327VQF7-F1-model_v4,0.186,0.989,0.291,8.757,Streptomyces sp. Amel2xB2
+964,cons_2184,0.4348,AF-Q7QAJ1-F1-model_v4,0.336,1.0,0.962,2.553e-31,Anopheles gambiae
+965,cons_1782,0.3808,AF-A0A2S2NW20-F1-model_v4,0.116,0.922,0.5,8.704,Schizaphis graminum
+966,cons_456,0.9074,AF-A0A5E4QGP0-F1-model_v4,0.171,0.598,0.632,0.0003722,Leptidea sinapis
+967,cons_1985,0.6049,AF-A0A3L8DQM1-F1-model_v4,0.241,0.966,0.691,3.616,Ooceraea biroi
+968,cons_159,0.4936,AF-G3HLW1-F1-model_v4,0.2,0.897,0.806,2.756,Cricetulus griseus
+969,cons_1932,0.254,AF-A0A5E8BV38-F1-model_v4,0.175,0.904,0.597,2.091,Saprochaete ingens
+970,cons_1169,0.8701,AF-U9TNR9-F1-model_v4,0.045,0.423,0.393,5.112,Rhizophagus irregularis DAOM 181602=DAOM 197198
+971,cons_1577,0.3906,AF-A0A0C9R4G5-F1-model_v4,0.584,1.0,0.941,4.271e-05,Fopius arisanus
+972,cons_799,0.2569,AF-A0A1L8D903-F1-model_v4,0.111,0.993,0.144,9.87,Nyssomyia neivai
+973,cons_468,0.4819,AF-A0A165Z2N4-F1-model_v4,0.208,0.632,0.485,6.21,Fibularhizoctonia sp. CBS 109695
+974,cons_2299,0.9958,AF-A0A084WLV5-F1-model_v4,0.892,0.871,1.0,3.5139999999999995e-22,Anopheles sinensis
+975,cons_1377,0.7906,AF-A0A226E2S8-F1-model_v4,0.428,0.521,0.145,0.08161,Folsomia candida
+976,cons_845,0.986,AF-V4ATJ5-F1-model_v4,0.544,0.745,1.0,1.761e-16,Lottia gigantea
+977,cons_790,0.5411,AF-A0A397JJ74-F1-model_v4,0.134,0.945,0.452,8.776,Diversispora epigaea
+978,cons_53,0.7385,AF-A0A182K5N0-F1-model_v4,0.53,0.953,0.403,8.069e-05,Anopheles christyi
+979,cons_142,0.7147,AF-A0A0L0BKQ0-F1-model_v4,0.355,0.712,0.933,0.0003709,Lucilia cuprina
+980,cons_471,0.4694,AF-B9S747-F1-model_v4,0.128,0.929,0.122,6.631,Ricinus communis
+981,cons_256,0.4668,AF-A0A1B0F9T8-F1-model_v4,0.659,0.989,0.44,7.13e-15,Glossina morsitans morsitans
+982,cons_1430,0.1487,AF-A0A2G8RS64-F1-model_v4,0.182,1.0,0.291,9.311,Ganoderma sinense ZZ0214-1
+983,cons_987,0.6025,AF-A0A7S1LJH7-F1-model_v4,0.203,1.0,0.344,9.225,Neobodo designis
+984,cons_1639,0.9201,AF-A0A2L2Y0H0-F1-model_v4,0.348,0.47,0.989,0.002957,Parasteatoda tepidariorum
+985,cons_1122,0.3802,AF-A0A7C8PKL1-F1-model_v4,0.107,0.636,0.625,8.404,Orbilia oligospora
+986,cons_766,0.2889,AF-A0A1H9FIG1-F1-model_v4,0.297,0.8,0.53,1.182,Chelativorans sp. A52C2
+987,cons_1925,0.4742,AF-A0A132A062-F1-model_v4,0.189,0.866,0.265,9.171,Sarcoptes scabiei
+988,cons_544,0.3773,AF-A0A849I1T2-F1-model_v4,0.111,0.942,0.722,2.672,Enterovirga sp. DB1703
+989,cons_2091,0.4744,AF-A0A314V3B7-F1-model_v4,0.229,0.953,0.756,8.097,Prunus yedoensis var. nudiflora
+990,cons_700,0.9952,AF-A0A7L3EPH8-F1-model_v4,0.778,0.991,0.95,3.389e-18,Chaetops frenatus
+991,cons_157,0.681,AF-A0A6N8F5X9-F1-model_v4,0.179,1.0,0.162,6.632,Paenibacillus macerans
+992,cons_64,0.6392,AF-U4TYD6-F1-model_v4,0.301,0.471,0.206,0.0002012,Dendroctonus ponderosae
+993,cons_841,0.5515,AF-A0A2W4KWW3-F1-model_v4,0.141,0.901,0.621,7.208,Proteobacteria bacterium
+994,cons_1253,0.5045,AF-A0A6J2U9Y5-F1-model_v4,0.583,1.0,0.727,8.793e-06,Scaptodrosophila lebanonensis
+995,cons_1554,0.9786,AF-A0A2L2YU83-F1-model_v4,0.298,0.858,1.0,1.489e-09,Parasteatoda tepidariorum
+996,cons_1624,0.8754,AF-A0A7R8YL41-F1-model_v4,0.304,0.802,0.279,0.0006528,Hermetia illucens
+997,cons_590,0.5112,AF-A0A6J2UIF3-F1-model_v4,0.575,1.0,1.0,2.166e-10,Scaptodrosophila lebanonensis
+998,cons_345,0.6914,AF-A0A097ERS5-F1-model_v4,0.128,0.381,0.091,5.205,Francisella sp. FSC1006
+999,cons_137,0.9811,AF-A0A1Y1XIS8-F1-model_v4,0.378,0.779,0.733,0.000225,Anaeromyces robustus
+1000,cons_1891,0.9599,AF-A0A818DJ19-F1-model_v4,0.269,0.553,0.5,0.02221,Rotaria sp. Silwood2
+1001,cons_1178,0.8397,AF-A0A450T1R1-F1-model_v4,0.078,0.535,0.048,1.132,Candidatus Kentron sp. DK
+1002,cons_1432,0.9819,AF-Q9GSM1-F1-model_v4,0.706,0.68,0.989,1.058e-24,Chrysomya bezziana
+1003,cons_566,0.393,AF-A0A1B6FZR7-F1-model_v4,0.195,0.616,0.379,2.489e-05,Cuerna arida
+1004,cons_227,0.3595,AF-A0A1Y2LQ80-F1-model_v4,0.136,1.0,0.134,7.462,Epicoccum nigrum
+1005,cons_1700,0.4733,AF-A0A6N7AWG1-F1-model_v4,0.163,0.957,0.139,2.83,Firmicutes bacterium
+1006,cons_353,0.3745,AF-A0A6M1YKT1-F1-model_v4,0.126,0.875,0.269,8.733,Candidatus Anoxychlamydiales bacterium
+1007,cons_302,0.4614,AF-A0A4C1ZI82-F1-model_v4,0.153,0.882,0.367,0.1449,Eumeta japonica
+1008,cons_210,0.4408,AF-A0A7C4D8X9-F1-model_v4,0.142,0.768,0.129,7.692,Candidatus Bathyarchaeota archaeon
+1009,cons_408,0.3701,AF-A0A0M0LHJ5-F1-model_v4,0.107,0.966,0.789,9.13,Priestia koreensis
+1010,cons_2147,0.2988,AF-A0A646KLG0-F1-model_v4,0.183,0.93,0.509,6.912,Streptomyces jumonjinensis
+1011,cons_195,0.6253,AF-M7A2H3-F1-model_v4,0.09,0.592,0.898,8.181,Leptospira interrogans serovar Pyrogenes str. 200701872
+1012,cons_2051,0.9803,AF-A0A433QFR7-F1-model_v4,0.375,0.62,0.889,3.589e-08,Jimgerdemannia flammicorona
+1013,cons_1860,0.9281,AF-A0A7H9SQX2-F1-model_v4,0.342,0.514,0.716,0.0007493,Procecidochares utilis
+1014,cons_1771,0.9043,AF-A0A3R7PLI4-F1-model_v4,0.292,0.985,0.234,0.7374,Penaeus vannamei
+1015,cons_1189,0.3356,AF-A0A854PYQ9-F1-model_v4,0.149,1.0,0.97,9.38,Achromobacter sp. KAs 3-5
+1016,cons_2107,0.5899,AF-W8BK10-F1-model_v4,0.277,0.57,0.979,2.034e-07,Ceratitis capitata
+1017,cons_716,0.4779,AF-A0A4Q3GLK9-F1-model_v4,0.112,0.807,0.342,8.833,Sphingobacteriales bacterium
+1018,cons_1801,0.4693,AF-A0A2V1E031-F1-model_v4,0.085,0.988,0.444,4.0,Periconia macrospinosa
+1019,cons_2252,0.4212,AF-A0A6G1K8Z3-F1-model_v4,0.14,0.78,0.401,8.346,Pleomassaria siparia CBS 279.74
+1020,cons_1307,0.9746,AF-A0A6M2DQ42-F1-model_v4,0.442,0.897,0.735,0.00471,Xenopsylla cheopis
+1021,cons_1026,0.3362,AF-A0A7J0G7W9-F1-model_v4,0.196,0.925,0.49,5.881,Actinidia rufa
+1022,cons_1680,0.9194,AF-S4S7G1-F1-model_v4,0.475,0.736,0.512,7.701e-09,Choristoneura fumiferana
+1023,cons_1917,0.9867,AF-A0A351XAP8-F1-model_v4,0.527,0.834,0.97,1.293e-26,Oscillospiraceae bacterium
+1024,cons_90,0.6076,AF-A0A0B0P980-F1-model_v4,0.148,0.869,0.587,8.185,Gossypium arboreum
+1025,cons_387,0.942,AF-A0A2I2UC18-F1-model_v4,0.5,0.569,0.236,0.0007533,Felis catus
+1026,cons_152,0.9405,AF-A0A182TMD9-F1-model_v4,0.712,0.988,0.548,4.233e-05,Anopheles melas
+1027,cons_866,0.9313,AF-A0A834I3B5-F1-model_v4,0.25,0.774,0.47,0.0001096,Rhynchophorus ferrugineus
+1028,cons_2213,0.3143,AF-A0A6P4BD13-F1-model_v4,0.192,1.0,0.396,3.549,Arachis duranensis
+1029,cons_233,0.962,AF-Q207P8-F1-model_v4,0.452,0.677,0.636,0.06707,Ictalurus punctatus
+1030,cons_478,0.3984,AF-J3NS84-F1-model_v4,0.207,0.988,0.271,7.509,Gaeumannomyces tritici R3-111a-1
+1031,cons_2273,0.2689,AF-A0A154PU48-F1-model_v4,0.364,0.908,1.0,7.357e-27,Dufourea novaeangliae
+1032,cons_46,0.9968,AF-C6K0C7-F1-model_v4,0.883,0.726,0.975,1.866e-12,Anopheles arabiensis
+1033,cons_1190,0.6063,AF-A0A0B7JQ10-F1-model_v4,0.22,0.61,0.505,6.281,Clonostachys rosea
+1034,cons_2129,0.299,AF-A0A2T7PMV6-F1-model_v4,0.239,0.987,0.137,6.551,Pomacea canaliculata
+1035,cons_2216,0.445,AF-A0A212FC30-F1-model_v4,0.454,0.75,0.786,3.167,Danaus plexippus plexippus
+1036,cons_625,0.9081,AF-A0A1L8D7A5-F1-model_v4,0.542,0.714,0.723,2.85e-13,Nyssomyia neivai
+1037,cons_1317,0.2649,AF-J3L6F9-F1-model_v4,0.139,0.977,0.347,3.704,Oryza brachyantha
+1038,cons_1457,0.9132,AF-A0A7I8VFC2-F1-model_v4,0.22,0.67,0.148,3.028e-06,Dimorphilus gyrociliatus
+1039,cons_518,0.1685,AF-K5VG00-F1-model_v4,0.165,0.93,0.632,9.131,Phanerochaete carnosa HHB-10118-sp
+1040,cons_1887,0.9006,AF-A0A0B6YK79-F1-model_v4,0.444,0.565,0.986,0.0006778,Arion vulgaris
+1041,cons_1838,0.9893,AF-A0A6P7FXJ3-F1-model_v4,0.565,0.821,0.993,3.2660000000000002e-21,Diabrotica virgifera virgifera
+1042,cons_17,0.3017,AF-A0A3D4YYL9-F1-model_v4,0.129,1.0,0.484,8.738,Deltaproteobacteria bacterium
+1043,cons_1378,0.1912,AF-A0A7W8M5C4-F1-model_v4,0.132,1.0,0.803,6.398,Catenibacillus scindens
+1044,cons_2333,0.5319,AF-A0A4Y2Q3G8-F1-model_v4,0.125,0.889,0.653,6.431,Araneus ventricosus
+1045,cons_863,0.9162,AF-A0A1A9Z7Y3-F1-model_v4,0.227,0.336,0.046,0.06364,Glossina pallidipes
+1046,cons_1552,0.9082,AF-E0W395-F1-model_v4,0.266,0.974,0.701,0.0006267,Pediculus humanus corporis
+1047,cons_188,0.2451,AF-A0A552U848-F1-model_v4,0.173,0.904,0.309,9.214,Glacieibacterium frigidum
+1048,cons_1293,0.7708,AF-A0A2V7E8Q8-F1-model_v4,0.086,0.605,0.071,3.237,Candidatus Rokubacteria bacterium
+1049,cons_73,0.378,AF-A0A506UQC3-F1-model_v4,0.205,0.986,0.67,9.513,Oecophyllibacter saccharovorans
+1050,cons_1311,0.9747,AF-A0A7R9BZE2-F1-model_v4,0.552,0.576,0.395,1.739e-10,Notodromas monacha
+1051,cons_548,0.854,AF-A0A1L8EAA7-F1-model_v4,0.961,0.907,0.987,3.487e-08,Haematobia irritans
+1052,cons_628,0.9908,AF-B0X6C1-F1-model_v4,0.895,0.778,0.989,1.3099999999999998e-29,Culex quinquefasciatus
+1053,cons_1294,0.4086,AF-U6LNB3-F1-model_v4,0.194,0.904,0.548,5.343,Eimeria brunetti
+1054,cons_2068,0.9487,AF-A0A353IZD6-F1-model_v4,0.09,0.6,0.767,4.44,Clostridium sp.
+1055,cons_1295,0.5933,AF-I4YJK8-F1-model_v4,0.107,1.0,0.062,8.928,Wallemia mellicola CBS 633.66
+1056,cons_520,0.5642,AF-A0A0G0HH94-F1-model_v4,0.127,0.94,0.47,9.297,Candidatus Woesebacteria bacterium GW2011_GWA1_37_7
+1057,cons_1345,0.5792,AF-W8GMC0-F1-model_v4,0.14,0.964,0.167,5.301,Candidatus Hepatoplasma crinochetorum Av
+1058,cons_1387,0.9714,AF-A0A2M4AY62-F1-model_v4,0.731,0.823,0.989,1.037e-08,Anopheles triannulatus
+1059,cons_2356,0.5007,AF-A0A7S6SF66-F1-model_v4,0.106,0.935,0.408,5.815,Ignavibacteriales bacterium
+1060,cons_961,0.962,AF-T1H6Z9-F1-model_v4,0.706,0.904,0.962,8.303e-08,Megaselia scalaris
+1061,cons_775,0.8645,AF-A0A1A9XQF5-F1-model_v4,0.517,0.745,0.838,4.446e-12,Glossina fuscipes fuscipes
+1062,cons_94,0.2623,AF-A0A6E8V035-F1-model_v4,0.253,1.0,0.298,4.394,Anopheles coluzzii
+1063,cons_763,0.9917,AF-A0A1W6QYP9-F1-model_v4,0.545,0.497,0.794,2.986e-06,Pachypeltis micranthus
+1064,cons_1331,0.7685,AF-A0A812BG23-F1-model_v4,0.184,0.309,0.055,5.036,Sepia pharaonis
+1065,cons_600,0.5644,AF-G8DLY7-F1-model_v4,0.12,0.72,0.806,5.211,Aurelia aurita
+1066,cons_556,0.6551,AF-F6NMA4-F1-model_v4,0.608,0.873,0.75,0.0001757,Danio rerio
+1067,cons_275,0.2971,AF-D7L9B9-F1-model_v4,0.202,0.925,0.55,3.724,Arabidopsis lyrata subsp. lyrata
+1068,cons_2156,0.9365,AF-A0A6J2U7U5-F1-model_v4,0.266,0.723,0.353,0.002299,Scaptodrosophila lebanonensis
+1069,cons_745,0.4487,AF-A0A842PEG3-F1-model_v4,0.204,0.943,0.424,8.145,Nitrosopumilus sp.
+1070,cons_779,0.8845,AF-A0A6B2EH67-F1-model_v4,0.333,0.658,0.926,3.262e-06,Phlebotomus kandelakii
+1071,cons_1509,0.5016,AF-A0A6J0RIC6-F1-model_v4,0.395,1.0,0.857,0.1438,Bactrocera dorsalis
+1072,cons_1879,0.8304,AF-A0A100I0U9-F1-model_v4,0.092,0.667,0.915,0.8404,Mycobacterium pseudoshottsii JCM 15466
+1073,cons_1915,0.897,AF-T1JKZ4-F1-model_v4,0.5,0.972,0.766,1.401e-05,Strigamia maritima
+1074,cons_1228,0.9526,AF-A0A820P3N4-F1-model_v4,0.223,0.494,0.938,0.0002121,Adineta steineri
+1075,cons_1043,0.9832,AF-A0A077ZET4-F1-model_v4,0.413,0.637,0.054,7.42e-06,Trichuris trichiura
+1076,cons_1245,0.5399,AF-A0A2Y9GNS1-F1-model_v4,0.402,0.905,0.94,0.001889,Neomonachus schauinslandi
+1077,cons_914,0.5943,AF-A0A1I8PBF2-F1-model_v4,0.289,0.676,0.237,0.3524,Stomoxys calcitrans
+1078,cons_319,0.9976,AF-Q53LH8-F1-model_v4,0.846,0.97,0.878,7.066e-09,Oryza sativa Japonica Group
+1079,cons_1480,0.9974,AF-A0A1B0DD66-F1-model_v4,0.72,0.428,0.997,2.027e-37,Phlebotomus papatasi
+1080,cons_476,0.3055,AF-A0A6G0Z7U7-F1-model_v4,0.158,0.98,0.13,1.675,Aphis craccivora
+1081,cons_70,0.8134,AF-A0A1E1W8B4-F1-model_v4,0.409,0.471,0.953,1.731e-18,Pectinophora gossypiella
+1082,cons_255,0.3722,AF-A0A819KLN3-F1-model_v4,0.135,1.0,0.486,6.056,Rotaria sp. Silwood1
+1083,cons_1290,0.9923,AF-A7UCI3-F1-model_v4,0.733,0.652,1.0,3.661e-06,Musca domestica
+1084,cons_1224,0.3325,AF-A0A2H2JG12-F1-model_v4,0.305,0.895,0.886,9.159,Caenorhabditis japonica
+1085,cons_1210,0.4952,AF-A0A1N7FA90-F1-model_v4,0.111,0.947,0.229,6.206,Haladaptatus litoreus
+1086,cons_1963,0.9293,AF-B9VSZ7-F1-model_v4,0.816,0.621,0.956,3.229e-15,Bombyx mori
+1087,cons_920,0.3935,AF-R5T2P9-F1-model_v4,0.123,0.97,0.454,5.812,Clostridium sp. CAG:762
+1088,cons_162,0.9759,AF-A0A158PIH2-F1-model_v4,0.461,0.433,0.21,0.006145,Angiostrongylus costaricensis
+1089,cons_1162,0.9538,AF-A0A674NMF8-F1-model_v4,1.0,0.796,0.882,5.241e-11,Takifugu rubripes
+1090,cons_2092,0.9376,AF-A0A7R9LT87-F1-model_v4,0.288,0.511,0.363,0.00317,Medioppia subpectinata
+1091,cons_571,0.2909,AF-A0A4U6TWQ7-F1-model_v4,0.216,0.921,0.76,6.829,Setaria viridis
+1092,cons_1292,0.9447,AF-A0A6G5AEF9-F1-model_v4,0.408,0.392,0.986,6.724e-05,Rhipicephalus microplus
+1093,cons_968,0.5165,AF-A0A182FKA0-F1-model_v4,0.208,0.895,0.205,1.953,Anopheles albimanus
+1094,cons_2132,0.2023,AF-A0A1I7SUR1-F1-model_v4,0.136,1.0,0.884,8.492,Bursaphelenchus xylophilus
+1095,cons_1111,0.9758,AF-A0A182N865-F1-model_v4,0.812,1.0,0.646,3.657e-09,Anopheles dirus
+1096,cons_1136,0.9511,AF-A0A7R9ID95-F1-model_v4,0.628,0.633,0.755,3.32e-12,Timema tahoe
+1097,cons_2072,0.9663,AF-A0A0L0CPT5-F1-model_v4,0.62,0.954,0.199,1.75e-20,Lucilia cuprina
+1098,cons_29,0.9177,AF-A0A0L0CDJ7-F1-model_v4,0.531,0.828,0.94,1.479e-08,Lucilia cuprina
+1099,cons_2341,0.6639,AF-A0A2V8PEJ5-F1-model_v4,0.166,0.958,0.585,3.537,Acidobacteria bacterium
+1100,cons_2260,0.4633,AF-A0A7E4RZE3-F1-model_v4,0.253,0.457,0.969,2.372e-05,Cimex lectularius
+1101,cons_2066,0.3756,AF-A0A3M2D0F6-F1-model_v4,0.235,1.0,0.961,9.095,Planctomycetota bacterium
+1102,cons_48,0.9886,AF-I3EM80-F1-model_v4,0.651,0.768,0.672,1.802e-05,Nematocida parisii ERTm1
+1103,cons_1515,0.5116,AF-A0A2W1BGQ5-F1-model_v4,0.379,0.844,0.983,3.714e-07,Helicoverpa armigera
+1104,cons_136,0.9674,AF-A0A183VB69-F1-model_v4,0.3,0.611,0.879,0.01342,Toxocara canis
+1105,cons_1400,0.3554,AF-A0A6P9C4V5-F1-model_v4,0.182,0.991,0.154,9.206,Pantherophis guttatus
+1106,cons_176,0.5126,AF-A0A0S9QW96-F1-model_v4,0.2,1.0,0.331,7.133,Microbacterium sp. Leaf288
+1107,cons_659,0.7978,AF-A0A6J2TK49-F1-model_v4,0.471,0.883,0.984,2.4519999999999996e-22,Scaptodrosophila lebanonensis
+1108,cons_1776,0.9897,AF-I3EM80-F1-model_v4,0.651,0.768,0.672,2.742e-05,Nematocida parisii ERTm1
+1109,cons_1886,0.9467,AF-A0A6A4IUD0-F1-model_v4,0.261,0.667,0.562,0.1088,Apolygus lucorum
+1110,cons_2227,0.6559,AF-I1J7M8-F1-model_v4,0.156,0.99,0.182,9.741,Glycine max
+1111,cons_71,0.2164,AF-A0A812J267-F1-model_v4,0.145,0.78,0.086,7.747,Symbiodinium sp. CCMP2592
+1112,cons_1550,0.5639,AF-A0A6N7CWZ9-F1-model_v4,0.183,0.759,0.881,0.6249,Xylophilus sp.
+1113,cons_2194,0.7573,AF-A0A354GEG2-F1-model_v4,0.137,0.699,0.347,0.1682,Tenacibaculum sp.
+1114,cons_569,0.5252,AF-Q5KXF0-F1-model_v4,0.045,0.863,0.629,6.991,Geobacillus kaustophilus HTA426
+1115,cons_1330,0.423,AF-W8BDS4-F1-model_v4,0.18,1.0,0.093,7.818,Ceratitis capitata
+1116,cons_2253,0.9573,AF-A0A7J6B4I5-F1-model_v4,0.441,0.483,0.344,0.0002872,Ameiurus melas
+1117,cons_1889,0.6881,AF-A0A7S1NSV5-F1-model_v4,0.057,0.385,0.133,5.977,Eutreptiella gymnastica
+1118,cons_1308,0.6301,AF-A0A834HXZ8-F1-model_v4,0.428,0.988,0.977,7.656e-05,Rhynchophorus ferrugineus
+1119,cons_1046,0.2465,AF-A0A836LLQ6-F1-model_v4,0.144,0.885,0.958,2.849,Porcisia hertigi
+1120,cons_133,0.9977,AF-A0A0K8WJ82-F1-model_v4,0.852,1.0,1.0,3.2089999999999997e-29,Bactrocera latifrons
+1121,cons_1084,0.9655,AF-A0A5A7S925-F1-model_v4,0.206,0.829,0.159,5.056,Rhodococcus cavernicola
+1122,cons_1431,0.1991,AF-A0A7V2H930-F1-model_v4,0.171,1.0,0.164,1.22,Phycisphaerae bacterium
+1123,cons_186,0.3959,AF-A0A6J4TDB9-F1-model_v4,0.171,1.0,0.551,6.465,uncultured Sphingomonas sp.
+1124,cons_42,0.9905,AF-A0A834MCA5-F1-model_v4,0.673,0.505,0.925,2.098e-05,Rhynchophorus ferrugineus
+1125,cons_1567,0.9685,AF-A0A4Z0Z525-F1-model_v4,0.358,0.53,0.064,0.0001753,Xylaria hypoxylon
+1126,cons_2098,0.8415,AF-J9IHB6-F1-model_v4,0.173,0.92,0.246,4.264,Oxytricha trifallax
+1127,cons_792,0.6644,AF-A0A367WQC3-F1-model_v4,0.193,1.0,0.871,9.991,Thalassospira profundimaris
+1128,cons_1119,0.7754,AF-A0A6H5HUT1-F1-model_v4,0.4,0.685,0.43,3.612e-07,Nesidiocoris tenuis
+1129,cons_930,0.5484,AF-A0A814QC19-F1-model_v4,0.192,0.965,0.195,7.212,Adineta steineri
+1130,cons_2279,0.8938,AF-A0A6U0M843-F1-model_v4,0.093,0.403,0.711,5.323,Prasinoderma coloniale
+1131,cons_1262,0.2365,AF-A0A6G6X423-F1-model_v4,0.168,0.972,0.82,4.525,Nordella sp. HKS 07
+1132,cons_2106,0.415,AF-B0W0N4-F1-model_v4,0.493,0.986,0.328,0.003788,Culex quinquefasciatus
+1133,cons_1829,0.4405,AF-A0A1B1AS16-F1-model_v4,0.144,0.992,0.471,1.85,Streptomyces griseochromogenes
+1134,cons_407,0.8468,AF-W5P6Y9-F1-model_v4,0.37,0.649,1.0,0.02029,Ovis aries
+1135,cons_1845,0.9944,AF-B2FYK3-F1-model_v4,0.48,0.352,1.0,4.206e-16,Anopheles gambiae
+1136,cons_1173,0.9195,AF-A0A3P7MCX7-F1-model_v4,0.214,0.575,0.538,0.3968,Dibothriocephalus latus
+1137,cons_1437,0.9938,AF-E2BSX6-F1-model_v4,0.519,0.536,0.881,7.118e-05,Harpegnathos saltator
+1138,cons_1406,0.9912,AF-A0A7R9DPU8-F1-model_v4,0.67,0.441,0.79,5.965e-12,Timema poppensis
+1139,cons_2350,0.1831,AF-A0A0Q4GC61-F1-model_v4,0.184,1.0,0.301,8.671,Sphingomonas sp. Leaf20
+1140,cons_1852,0.9863,AF-A0A336MYW7-F1-model_v4,0.775,0.83,0.996,5.188e-59,Culicoides sonorensis
+1141,cons_1524,0.9893,AF-A0A182VB29-F1-model_v4,0.504,0.595,0.616,8.967e-16,Anopheles merus
+1142,cons_2125,0.3907,AF-A0A352C5V9-F1-model_v4,0.287,0.957,0.259,2.445,Legionellales bacterium
+1143,cons_374,0.769,AF-A0A670ZHE8-F1-model_v4,0.258,0.806,0.491,0.0344,Pseudonaja textilis
+1144,cons_2183,0.5239,AF-A0A2V8J6K4-F1-model_v4,0.166,0.83,0.277,6.703,Acidobacteria bacterium
+1145,cons_1413,0.3787,AF-A0A7W5WCG8-F1-model_v4,0.117,0.746,0.219,9.193,Rhizobium sp. BK700
+1146,cons_2006,0.295,AF-A0A816QIC9-F1-model_v4,0.16,0.875,0.596,7.955,Brassica napus
+1147,cons_2337,0.8346,AF-I4DPE8-F1-model_v4,0.318,0.367,0.484,0.05239,Papilio xuthus
+1148,cons_2389,0.5198,AF-A0A7S0SXW6-F1-model_v4,0.132,0.883,0.571,6.499,Mantoniella antarctica
+1149,cons_403,0.9089,AF-A0A6J3FA15-F1-model_v4,0.73,0.819,0.99,1.667e-12,Sapajus apella
+1150,cons_2224,0.9029,AF-A0A1B0G1C9-F1-model_v4,0.655,0.783,0.489,1.283e-12,Glossina morsitans morsitans
+1151,cons_51,0.6996,AF-A0A1A9ZFL3-F1-model_v4,0.522,0.985,0.893,6.602e-05,Glossina pallidipes
+1152,cons_1794,0.847,AF-A0A812DI20-F1-model_v4,0.098,0.895,0.157,3.434,Sepia pharaonis
+1153,cons_936,0.9938,AF-A0A7S3PRU8-F1-model_v4,0.513,0.835,0.528,6.774e-11,Aplanochytrium stocchinoi
+1154,cons_2214,0.9165,AF-A0A7L2ZCL0-F1-model_v4,0.376,0.434,0.426,4.539e-09,Jacana jacana
+1155,cons_222,0.8905,AF-A0A6A4JT33-F1-model_v4,0.2,0.679,0.75,0.0006253,Apolygus lucorum
+1156,cons_1023,0.965,AF-A0A5J5CY08-F1-model_v4,0.377,0.679,0.342,1.832e-05,Etheostoma spectabile
+1157,cons_1144,0.8464,AF-A0A182PN56-F1-model_v4,0.481,0.831,0.36,0.001458,Anopheles epiroticus
+1158,cons_1958,0.7892,AF-A0A1A9X1G0-F1-model_v4,0.404,0.4,0.408,0.02506,Glossina brevipalpis
+1159,cons_1195,0.4429,AF-A0A109CBI4-F1-model_v4,0.176,0.977,0.702,4.742,Candidatus Magnetominusculus xianensis
+1160,cons_1586,0.9034,AF-A0A0C9UUJ7-F1-model_v4,0.21,0.667,0.216,0.852,Sphaerobolus stellatus SS14
+1161,cons_781,0.6154,AF-A0A2H3DXD4-F1-model_v4,0.142,0.789,0.129,9.736,Armillaria gallica
+1162,cons_1501,0.3163,AF-A0A220SU46-F1-model_v4,0.138,1.0,0.821,5.804,Alcanivorax sp. N3-2A
+1163,cons_804,0.5405,AF-A0A094CNY7-F1-model_v4,0.189,0.938,0.642,5.247,Pseudogymnoascus sp. VKM F-4515 (FW-2607)
+1164,cons_2261,0.3975,AF-A0A4W4HJX5-F1-model_v4,0.137,0.953,0.144,9.927,Electrophorus electricus
+1165,cons_260,0.9939,AF-A0A067R284-F1-model_v4,0.763,0.818,0.727,5.387e-07,Zootermopsis nevadensis
+1166,cons_2088,0.379,AF-A0A811RDW3-F1-model_v4,0.15,0.981,0.609,4.562,Miscanthus lutarioriparius
+1167,cons_1109,0.6932,AF-Q0W620-F1-model_v4,0.097,0.534,0.477,5.883,Methanocella arvoryzae MRE50
+1168,cons_909,0.9889,AF-F1MB80-F1-model_v4,0.487,0.842,0.87,4.918e-11,Bos taurus
+1169,cons_560,0.9764,AF-A0A154PH63-F1-model_v4,0.443,0.89,0.98,3.247e-11,Dufourea novaeangliae
+1170,cons_1451,0.9968,AF-A0A5E4N5Q0-F1-model_v4,0.714,1.0,0.992,8.227e-23,Cinara cedri
+1171,cons_1521,0.9874,AF-A0A811V4R6-F1-model_v4,0.719,1.0,1.0,1.315e-10,Ceratitis capitata
+1172,cons_2153,0.5869,AF-G0N4T9-F1-model_v4,0.145,0.489,0.062,1.619,Caenorhabditis brenneri
+1173,cons_1447,0.7864,AF-A0A834IYM3-F1-model_v4,0.19,0.755,0.37,1.885e-06,Rhynchophorus ferrugineus
+1174,cons_1687,0.5615,AF-A0A2H9TG83-F1-model_v4,0.073,0.263,0.237,9.779,Paramicrosporidium saccamoebae
+1175,cons_1544,0.4123,AF-A0A8B2EWK3-F1-model_v4,0.142,0.906,0.708,4.359,Arachnia propionica
+1176,cons_2094,0.9593,AF-A0A1I8GLU2-F1-model_v4,0.25,0.396,0.188,0.2881,Macrostomum lignano
+1177,cons_2307,0.9897,AF-A0A131Y6B4-F1-model_v4,0.714,0.621,0.897,1.072e-16,Ixodes ricinus
+1178,cons_2083,0.9427,AF-A0A7D9CVX0-F1-model_v4,0.628,0.972,0.986,9.299e-06,Brettanomyces bruxellensis
+1179,cons_380,0.2678,AF-D4DNU1-F1-model_v4,0.147,0.885,0.731,6.226,Neisseria elongata subsp. glycolytica ATCC 29315
+1180,cons_1772,0.1824,AF-A0A176VC35-F1-model_v4,0.142,0.993,0.628,9.435,Marchantia polymorpha subsp. ruderalis
+1181,cons_666,0.404,AF-A0A1S2KUZ8-F1-model_v4,0.157,0.986,0.273,9.451,Anaerobacillus isosaccharinicus
+1182,cons_802,0.6909,AF-A0A6S7MKV5-F1-model_v4,0.102,0.803,0.282,4.02,Lactuca saligna
+1183,cons_49,0.7,AF-A0A6L2Q243-F1-model_v4,0.125,0.8,0.107,8.714,Coptotermes formosanus
+1184,cons_901,0.4793,AF-A0A1B0BR80-F1-model_v4,0.463,0.969,0.979,5.162e-06,Glossina palpalis gambiensis
+1185,cons_1667,0.9832,AF-A0A7S0G3A6-F1-model_v4,0.312,0.842,0.684,1.275e-08,Rhodosorus marinus
+1186,cons_277,0.24,AF-A4HW28-F1-model_v4,0.125,1.0,0.103,6.4,Leishmania infantum
+1187,cons_1222,0.35,AF-A0A316VTM8-F1-model_v4,0.128,0.856,0.153,8.286,Ceraceosorus guamensis
+1188,cons_1830,0.927,AF-A0A1V5J4Q7-F1-model_v4,0.127,1.0,0.873,9.044,bacterium ADurb.BinA028
+1189,cons_1356,0.7626,AF-A0A1B0DJ18-F1-model_v4,0.408,0.907,0.766,0.5599,Phlebotomus papatasi
+1190,cons_1646,0.8997,AF-W8BM37-F1-model_v4,0.361,0.992,0.709,1.546e-09,Ceratitis capitata
+1191,cons_100,0.2543,AF-A0A5B0PPC5-F1-model_v4,0.179,0.917,0.884,2.327,Puccinia graminis f. sp. tritici
+1192,cons_103,0.9922,AF-A0A0N5D3T2-F1-model_v4,0.411,0.958,1.0,7.278e-08,Thelazia callipaeda
+1193,cons_1372,0.549,AF-A0A4Q5PJN7-F1-model_v4,0.079,0.85,0.772,4.772,Comamonadaceae bacterium
+1194,cons_1435,0.5074,AF-J9KWL5-F1-model_v4,0.219,0.465,0.132,0.00118,Acyrthosiphon pisum
+1195,cons_2241,0.4645,AF-A0A4Q6G5B1-F1-model_v4,0.168,0.974,0.705,1.903,Xanthomonadaceae bacterium
+1196,cons_606,0.9097,AF-A0A1I8MMG3-F1-model_v4,0.725,0.637,0.716,9.553e-13,Musca domestica
+1197,cons_1780,0.7701,AF-A0A0L0BKQ0-F1-model_v4,0.412,0.826,1.0,6.739e-06,Lucilia cuprina
+1198,cons_2067,0.8477,AF-A0A1J1HJV4-F1-model_v4,0.7,0.878,0.8,8.521e-05,Clunio marinus
+1199,cons_154,0.5656,AF-E7S009-F1-model_v4,0.111,0.986,0.784,4.277,Lautropia mirabilis ATCC 51599
+1200,cons_214,0.737,AF-A0A139I650-F1-model_v4,0.111,0.507,0.172,5.006,Pseudocercospora musae
+1201,cons_105,0.2577,AF-A0A7J6GWA5-F1-model_v4,0.174,0.977,0.358,9.124,Cannabis sativa
+1202,cons_1098,0.2614,AF-A0A1V6F7J7-F1-model_v4,0.258,0.989,0.408,8.546,Alphaproteobacteria bacterium ADurb.Bin100
+1203,cons_1313,0.4958,AF-A0A5E4PUZ9-F1-model_v4,0.115,0.958,0.286,7.255,Leptidea sinapis
+1204,cons_660,0.3816,AF-A0A7J5XI69-F1-model_v4,0.151,0.755,0.597,8.754,Dissostichus mawsoni
+1205,cons_1183,0.6926,AF-A0A0D2Y2U5-F1-model_v4,0.17,0.971,0.845,6.401,Fusarium oxysporum f. sp. lycopersici 4287
+1206,cons_2018,0.288,AF-B9SD35-F1-model_v4,0.219,0.855,0.141,9.698,Ricinus communis
+1207,cons_1226,0.952,AF-A0A0K8W0U5-F1-model_v4,0.53,0.875,0.59,1.07e-09,Bactrocera latifrons
+1208,cons_1017,0.572,AF-A0A140DKW9-F1-model_v4,0.858,0.867,0.539,1.556e-06,Rhynchophorus ferrugineus
+1209,cons_777,0.5768,AF-A0A225VB22-F1-model_v4,0.166,0.962,0.63,1.567,Phytophthora megakarya
+1210,cons_416,0.9731,AF-A0A2J7RRB6-F1-model_v4,0.727,0.505,0.982,1.634e-07,Cryptotermes secundus
+1211,cons_2073,0.6076,AF-A0A6P8TF25-F1-model_v4,0.242,0.782,0.15,0.3038,Gymnodraco acuticeps
+1212,cons_1575,0.209,AF-A0A843XD00-F1-model_v4,0.181,1.0,0.328,8.156,Colocasia esculenta
+1213,cons_902,0.6024,AF-A0A6V6YLP2-F1-model_v4,0.1,1.0,0.624,2.413,Flavobacterium chungangense
+1214,cons_350,0.3709,AF-A0A7T8Q2V9-F1-model_v4,0.177,0.989,0.899,9.536,Stenotrophomonas maltophilia
+1215,cons_744,0.7384,AF-A0A4R1EZ29-F1-model_v4,0.115,0.975,0.464,4.646,Cocleimonas flava
+1216,cons_1749,0.9891,AF-A0A6V7HSE4-F1-model_v4,0.773,0.627,0.991,1.598e-11,Bracon brevicornis
+1217,cons_404,0.9823,AF-H6ABW8-F1-model_v4,0.642,0.282,1.0,0.0002051,Strongyloides papillosus
+1218,cons_511,0.4326,AF-A0A0N0I4P6-F1-model_v4,0.076,0.881,0.348,6.893,Geobacillus sp. BCO2
+1219,cons_900,0.941,AF-A0A0G3Z6E6-F1-model_v4,0.276,0.537,0.895,1.83e-05,Bactrocera dorsalis
+1220,cons_239,0.9905,AF-A0A2P2HWS3-F1-model_v4,0.654,0.671,0.675,9.417e-12,Hirondellea gigas
+1221,cons_1527,0.2725,AF-A0A285ZVE3-F1-model_v4,0.218,1.0,0.168,9.928,Fibrobacter sp. UWB16
+1222,cons_713,0.2063,AF-A0A7S2LIH9-F1-model_v4,0.12,0.979,0.516,1.073,Skeletonema marinoi
+1223,cons_2024,0.9778,AF-A0A0L7LQH8-F1-model_v4,0.323,0.793,0.929,0.003257,Operophtera brumata
+1224,cons_80,0.9108,AF-A0A6J2TZ81-F1-model_v4,0.177,0.653,0.169,0.05086,Scaptodrosophila lebanonensis
+1225,cons_1578,0.9119,AF-A0A5N5FKR0-F1-model_v4,0.28,0.227,0.316,1.918,Pyrus ussuriensis x Pyrus communis
+1226,cons_749,0.6701,AF-A0A524RQZ1-F1-model_v4,0.153,0.433,0.203,4.601,Aphanocapsa feldmannii 277cV
+1227,cons_1559,0.9901,AF-A0A1J3E8V5-F1-model_v4,0.759,0.643,0.491,9.413e-06,Noccaea caerulescens
+1228,cons_1908,0.9173,AF-A0A0N4XN14-F1-model_v4,0.377,0.536,0.106,0.002394,Nippostrongylus brasiliensis
+1229,cons_721,0.9934,AF-B8P362-F1-model_v4,0.75,0.773,0.958,4.26e-10,Postia placenta Mad-698-R
+1230,cons_1647,0.5671,AF-A0A7G1IAZ7-F1-model_v4,0.209,0.811,0.406,0.4066,Mycobacterium kansasii
+1231,cons_104,0.9679,AF-A0A3M6V6F2-F1-model_v4,0.46,0.854,0.854,2.175e-06,Pocillopora damicornis
+1232,cons_2110,0.1594,AF-A0A3M1Y5R5-F1-model_v4,0.158,0.942,0.231,8.385,Chloroflexi bacterium
+1233,cons_243,0.472,AF-A0A2G8JDZ7-F1-model_v4,0.147,0.932,0.206,7.185,Apostichopus japonicus
+1234,cons_2231,0.1844,AF-A0A7J4M3H0-F1-model_v4,0.161,0.957,0.17,5.743,Nanoarchaeota archaeon
+1235,cons_2016,0.9549,AF-A0A6P5A060-F1-model_v4,0.355,0.57,0.09,0.00157,Branchiostoma belcheri
+1236,cons_276,0.2752,AF-A0A4Y2I954-F1-model_v4,0.085,0.936,0.677,9.897,Araneus ventricosus
+1237,cons_1251,0.559,AF-A0A1G7TPH7-F1-model_v4,0.183,0.959,0.899,3.253,Chitinophaga filiformis
+1238,cons_20,0.7795,AF-A0A4C1TT73-F1-model_v4,0.671,0.814,0.522,0.0001809,Eumeta japonica
+1239,cons_1171,0.5536,AF-A0A0G4FSA6-F1-model_v4,0.119,0.568,0.035,5.289,Vitrella brassicaformis CCMP3155
+1240,cons_2361,0.9877,AF-A0A1E1XFD5-F1-model_v4,0.6,0.686,0.481,3.25e-17,Amblyomma aureolatum
+1241,cons_568,0.9403,AF-A0A0K8W0U5-F1-model_v4,0.54,0.875,0.59,9.093e-09,Bactrocera latifrons
+1242,cons_1758,0.3138,AF-A0A6P4ASA1-F1-model_v4,0.153,0.765,0.382,6.843,Ziziphus jujuba
+1243,cons_2305,0.9496,AF-A0A6J0RNQ7-F1-model_v4,0.416,0.89,0.996,9.968e-35,Bactrocera dorsalis
+1244,cons_453,0.2161,AF-A0A072TFV1-F1-model_v4,0.176,0.99,0.803,9.76,Medicago truncatula
+1245,cons_2036,0.3148,AF-A0A2Y9HTA7-F1-model_v4,0.09,0.907,0.342,5.757,Neomonachus schauinslandi
+1246,cons_561,0.2633,AF-A0A4Q4MDV2-F1-model_v4,0.192,0.887,0.249,2.254,Alternaria tenuissima
+1247,cons_1145,0.3581,AF-A0A3P6DQG3-F1-model_v4,0.166,0.957,0.61,8.609,Brassica oleracea
+1248,cons_1948,0.9871,AF-A0A6I9NHL2-F1-model_v4,0.666,0.767,0.971,3.318e-13,Notothenia coriiceps
+1249,cons_1523,0.5411,AF-A0A6J2U7E9-F1-model_v4,0.54,1.0,0.871,1.359e-07,Scaptodrosophila lebanonensis
+1250,cons_1367,0.9202,AF-A0A0L0CAL6-F1-model_v4,0.107,0.632,0.218,8.059,Lucilia cuprina
+1251,cons_785,0.4553,AF-A0A2T9YB22-F1-model_v4,0.152,0.923,0.459,3.367,Smittium simulii
+1252,cons_524,0.9849,AF-D9MX50-F1-model_v4,0.505,0.936,0.998,3.84e-61,Apis mellifera
+1253,cons_581,0.7584,AF-A0A6J2TA52-F1-model_v4,0.419,0.949,0.247,1.378e-07,Scaptodrosophila lebanonensis
+1254,cons_1105,0.9692,AF-A0A1L8E818-F1-model_v4,0.891,0.779,0.987,2.052e-07,Haematobia irritans
+1255,cons_2191,0.9658,AF-A0A1I8NUX4-F1-model_v4,0.977,0.521,0.989,3.599e-11,Stomoxys calcitrans
+1256,cons_2154,0.314,AF-A0A5B0NWH6-F1-model_v4,0.108,0.983,0.85,9.674,Puccinia graminis f. sp. tritici
+1257,cons_822,0.942,AF-A0A0N0U5I0-F1-model_v4,0.354,0.745,0.182,1.186e-06,Melipona quadrifasciata
+1258,cons_1231,0.9733,AF-A0A482W7M1-F1-model_v4,0.49,0.502,0.9,2.471e-08,Asbolus verrucosus
+1259,cons_1565,0.8092,AF-A0A7U7G8M2-F1-model_v4,0.264,0.971,0.405,8.765,Candidatus Contendobacter odensis Run_B_J11
+1260,cons_2338,0.3563,AF-V5G1B5-F1-model_v4,0.426,0.997,0.81,3.676e-19,Anoplophora glabripennis
+1261,cons_213,0.9861,AF-A0A3N0Y8M7-F1-model_v4,0.529,0.836,0.689,0.05092,Anabarilius grahami
+1262,cons_1665,0.4235,AF-A0A2K5QA08-F1-model_v4,0.388,0.921,0.979,2.595e-05,Cebus imitator
+1263,cons_1593,0.7684,AF-A0A699Q208-F1-model_v4,0.196,1.0,0.196,8.218,Tanacetum cinerariifolium
+1264,cons_514,0.9909,AF-A0A170Y5Z5-F1-model_v4,0.676,0.755,0.991,8.492e-13,Triatoma infestans
+1265,cons_879,0.5647,AF-A0A3M7SKP8-F1-model_v4,0.177,1.0,0.939,7.519,Brachionus plicatilis
+1266,cons_1324,0.9913,AF-A0A7L3ER18-F1-model_v4,0.846,0.612,0.929,1.005e-05,Chaetops frenatus
+1267,cons_1882,0.9176,AF-A0A6J2TUK1-F1-model_v4,0.475,0.973,0.755,2.312e-10,Scaptodrosophila lebanonensis
+1268,cons_1048,0.9308,AF-A0A6J2TZT8-F1-model_v4,0.184,1.0,1.0,0.0001053,Scaptodrosophila lebanonensis
+1269,cons_2084,0.9829,AF-A0A182T970-F1-model_v4,0.556,0.435,0.995,3.083e-16,Anopheles maculatus
+1270,cons_1541,0.9637,AF-A0A7L4BX57-F1-model_v4,0.387,0.653,0.785,1.069e-05,Nyctiprogne leucopyga
+1271,cons_715,0.951,AF-A0A482VPK6-F1-model_v4,0.252,0.844,0.438,2.408e-07,Asbolus verrucosus
+1272,cons_1611,0.2416,AF-A0A0S3RF00-F1-model_v4,0.144,0.935,0.494,9.928,Vigna angularis var. angularis
+1273,cons_2296,0.3953,AF-A0A6J2UEP2-F1-model_v4,0.42,0.947,1.0,6.216e-18,Scaptodrosophila lebanonensis
+1274,cons_1187,0.9311,AF-Q0P4E8-F1-model_v4,0.518,1.0,0.982,0.0001025,Danio rerio
+1275,cons_423,0.984,AF-A0A446MVN0-F1-model_v4,0.531,0.348,0.881,5.602e-16,Triticum turgidum subsp. durum
+1276,cons_986,0.4378,AF-A0A2P4YTJ0-F1-model_v4,0.141,1.0,0.404,9.41,Phytophthora palmivora var. palmivora
+1277,cons_506,0.1985,AF-A0A1B0AED8-F1-model_v4,0.386,0.854,0.581,1.769e-31,Glossina pallidipes
+1278,cons_2262,0.9715,AF-A0A5K1JY69-F1-model_v4,0.779,0.855,0.444,4.084e-07,Ganoderma boninense
+1279,cons_973,0.4922,AF-A0A0L6X258-F1-model_v4,0.254,1.0,0.148,7.892,Termitomyces sp. J132
+1280,cons_903,0.3088,AF-A0A328DVC2-F1-model_v4,0.233,0.978,0.708,5.805,Cuscuta australis
+1281,cons_1456,0.3379,AF-A0A388KAR8-F1-model_v4,0.181,0.977,0.216,6.064,Chara braunii
+1282,cons_2280,0.9004,AF-A0A6J2U3Y8-F1-model_v4,0.53,0.799,0.877,2.639e-10,Scaptodrosophila lebanonensis
+1283,cons_2220,0.167,AF-A0A061GS32-F1-model_v4,0.193,0.989,0.565,3.744,Theobroma cacao
+1284,cons_2042,0.2698,AF-A0A7R9LD20-F1-model_v4,0.135,0.929,0.97,6.011,Medioppia subpectinata
+1285,cons_1884,0.4493,AF-A0A7D9LHS9-F1-model_v4,0.187,1.0,0.647,7.17,Paramuricea clavata
+1286,cons_151,0.5375,AF-A0A7L1IXL6-F1-model_v4,0.159,0.71,0.055,9.244,Rhinoptilus africanus
+1287,cons_2103,0.7017,AF-A0A3S4ZV47-F1-model_v4,0.21,0.623,0.826,0.2119,Actinobacillus equuli
+1288,cons_340,0.9781,AF-A0A2G9UC90-F1-model_v4,0.406,0.894,0.44,0.001017,Teladorsagia circumcincta
+1289,cons_1934,0.2214,AF-A0A7J7AA83-F1-model_v4,0.143,0.974,0.74,6.561,Abscondita terminalis
+1290,cons_2131,0.5381,AF-Q7PE75-F1-model_v4,0.407,0.654,1.0,2.011e-07,Anopheles gambiae
+1291,cons_1088,0.9809,AF-A0A250X091-F1-model_v4,0.581,0.632,0.831,5.691e-09,Chlamydomonas eustigma
+1292,cons_405,0.2755,AF-U6K607-F1-model_v4,0.201,1.0,0.181,9.196,Eimeria mitis
+1293,cons_617,0.9767,AF-W0THA2-F1-model_v4,0.428,0.926,0.9,0.06135,Kluyveromyces marxianus DMKU3-1042
+1294,cons_1029,0.3629,AF-A0A6I9VBU7-F1-model_v4,0.215,0.929,0.214,4.201,Bactrocera dorsalis
+1295,cons_1739,0.2867,AF-A0A0H2QWY7-F1-model_v4,0.195,0.988,0.217,7.272,Schizopora paradoxa
+1296,cons_2164,0.7752,AF-A0A1I8NE71-F1-model_v4,0.323,0.54,0.548,0.0002963,Musca domestica
+1297,cons_1729,0.5104,AF-A0A1I8PQG2-F1-model_v4,0.102,0.722,0.136,6.604,Stomoxys calcitrans
+1298,cons_1062,0.2527,AF-A0A314Y7K5-F1-model_v4,0.115,1.0,0.4,6.965,Prunus yedoensis var. nudiflora
+1299,cons_164,0.9745,AF-A0A653DKT1-F1-model_v4,0.537,0.5,0.931,1.643e-05,Callosobruchus maculatus
+1300,cons_689,0.9377,AF-A0A811UA31-F1-model_v4,0.312,0.696,0.674,4.88e-06,Ceratitis capitata
+1301,cons_513,0.6055,AF-A0A2P5MAA1-F1-model_v4,0.215,0.868,0.302,9.25,Methylobacter sp.
+1302,cons_1362,0.2308,AF-A0A812KI50-F1-model_v4,0.11,0.914,0.808,7.471,Symbiodinium natans
+1303,cons_2102,0.741,AF-A0A1I8MQI3-F1-model_v4,0.666,0.93,0.93,0.0003766,Musca domestica
+1304,cons_433,0.4712,AF-E2C1G0-F1-model_v4,0.196,0.902,0.328,9.997,Harpegnathos saltator
+1305,cons_1895,0.9187,AF-D8LZT4-F1-model_v4,0.56,0.658,0.943,0.001177,Blastocystis hominis
+1306,cons_1278,0.9788,AF-A0A834REY9-F1-model_v4,0.508,0.701,0.299,7.356e-05,Sarcoptes scabiei
+1307,cons_1218,0.4528,AF-A0A6G0K0J1-F1-model_v4,0.189,0.987,0.295,7.753,Phytophthora fragariae
+1308,cons_347,0.3244,AF-A0A6F9CTE8-F1-model_v4,0.175,0.973,0.481,5.456,Coregonus sp. 'balchen'
+1309,cons_2268,0.4769,AF-A0A0L0CMC2-F1-model_v4,0.813,1.0,0.411,1.166e-19,Lucilia cuprina
+1310,cons_2045,0.9965,AF-A0A0C3C1T4-F1-model_v4,0.972,0.686,0.847,1.231e-13,Hebeloma cylindrosporum h7
+1311,cons_1693,0.4353,AF-A0A0R3SG06-F1-model_v4,0.127,0.948,0.314,6.773,Hymenolepis diminuta
+1312,cons_751,0.9963,AF-A0A328B3F2-F1-model_v4,0.987,1.0,0.582,1.776e-12,Hymenobacter edaphi
+1313,cons_279,0.4689,AF-A0A5K3FJ84-F1-model_v4,0.259,0.949,0.537,3.135,Mesocestoides corti
+1314,cons_507,0.8784,AF-A0A1A9WGI1-F1-model_v4,0.905,0.937,1.0,1.119e-07,Glossina brevipalpis
+1315,cons_1052,0.3266,AF-A0A843XU87-F1-model_v4,0.164,1.0,0.425,8.651,Colocasia esculenta
+1316,cons_1854,0.9809,AF-A0A1I8N3B2-F1-model_v4,0.525,0.994,0.84,7.378e-23,Musca domestica
+1317,cons_875,0.8317,AF-A0A0K8U7A6-F1-model_v4,0.338,0.31,0.956,2.265e-07,Bactrocera latifrons
+1318,cons_854,0.9708,AF-Q7QB03-F1-model_v4,0.714,0.969,0.397,3.707e-21,Anopheles gambiae
+1319,cons_1903,0.9534,AF-A0A1I8Q2V9-F1-model_v4,0.302,0.908,0.939,5.74e-20,Stomoxys calcitrans
+1320,cons_1063,0.9896,AF-A0A7R9GFV2-F1-model_v4,0.443,0.922,0.249,1.632e-29,Notodromas monacha
+1321,cons_1953,0.9704,AF-A0A672TLP8-F1-model_v4,0.613,0.404,0.564,6.669e-05,Strigops habroptila
+1322,cons_893,0.9716,AF-A0A7R9JYP9-F1-model_v4,0.5,0.558,0.166,0.06378,Timema genevievae
+1323,cons_1146,0.971,AF-A0A7R8UIG2-F1-model_v4,0.461,0.542,0.066,2.819e-09,Hermetia illucens
+1324,cons_436,0.179,AF-J9K5H1-F1-model_v4,0.161,0.967,0.666,4.704,Acyrthosiphon pisum
+1325,cons_358,0.3925,AF-A0A6G3Z0A2-F1-model_v4,0.196,1.0,0.471,9.402,Leptolyngbya sp. SIO1D8
+1326,cons_1055,0.6407,AF-A0A8B6C0G9-F1-model_v4,0.161,0.447,0.23,1.156,Mytilus galloprovincialis
+1327,cons_1013,0.8955,AF-Q8T4J9-F1-model_v4,0.266,0.806,0.406,0.0004378,Manduca sexta
+1328,cons_2122,0.6434,AF-A0A540VPH0-F1-model_v4,0.184,0.765,0.774,2.459,Spiribacter salinus
+1329,cons_2053,0.2694,AF-A2HPW1-F1-model_v4,0.145,0.981,0.297,7.724,Trichomonas vaginalis
+1330,cons_400,0.6637,AF-A0A6J2UHD4-F1-model_v4,0.259,0.89,0.977,0.000263,Scaptodrosophila lebanonensis
+1331,cons_980,0.8474,AF-B0XFW8-F1-model_v4,0.744,0.839,0.712,0.001118,Culex quinquefasciatus
+1332,cons_1354,0.99,AF-Q90YP2-F1-model_v4,0.785,1.0,1.0,1.046e-09,Ictalurus punctatus
+1333,cons_1422,0.3785,AF-A0A151I1H7-F1-model_v4,0.166,1.0,0.356,7.751,Atta colombica
+1334,cons_508,0.2536,AF-A0A554J5Q7-F1-model_v4,0.15,0.978,0.989,5.211,Parcubacteria group bacterium Gr01-1014_106
+1335,cons_966,0.9365,AF-A0A7R9PXD2-F1-model_v4,0.2,0.655,0.271,0.6306,Medioppia subpectinata
+1336,cons_1805,0.3503,AF-A0A2G2YYW1-F1-model_v4,0.123,0.922,0.111,6.811,Capsicum annuum
+1337,cons_1347,0.921,AF-A0A0C9QZJ2-F1-model_v4,0.384,0.488,0.3,0.02526,Amblyomma americanum
+1338,cons_1558,0.9851,AF-A0A818JLJ0-F1-model_v4,0.574,0.73,0.129,4.151e-06,Rotaria socialis
+1339,cons_778,0.765,AF-A0A655Z6Y9-F1-model_v4,0.27,0.54,0.613,0.5172,Vibrio cholerae
+1340,cons_2373,0.3094,AF-A0A5P1FQ28-F1-model_v4,0.116,0.9,0.717,0.7168,Asparagus officinalis
+1341,cons_1467,0.3482,AF-A0A699NZT9-F1-model_v4,0.178,0.949,0.149,7.207,Tanacetum cinerariifolium
+1342,cons_2248,0.4708,AF-A0A1X7VFM1-F1-model_v4,0.178,0.982,0.598,2.391,Amphimedon queenslandica
+1343,cons_669,0.2803,AF-A0A0V0GCU2-F1-model_v4,0.544,0.392,0.996,5.583e-25,Triatoma dimidiata
+1344,cons_2348,0.994,AF-A0A2J7Q0G9-F1-model_v4,0.891,0.334,0.977,9.693e-41,Cryptotermes secundus
+1345,cons_1338,0.3997,AF-E2QRK7-F1-model_v4,0.254,0.959,0.876,6.424,Homo sapiens
+1346,cons_1057,0.9511,AF-A0A1J1IXL7-F1-model_v4,0.492,1.0,0.117,0.000149,Clunio marinus
+1347,cons_1433,0.8221,AF-N6UUY5-F1-model_v4,0.167,0.799,0.956,1.363e-05,Dendroctonus ponderosae
+1348,cons_1257,0.9324,AF-B8RJ97-F1-model_v4,0.79,0.644,0.981,3.308e-13,Culex tarsalis
+1349,cons_2326,0.4998,AF-A0A7S1M647-F1-model_v4,0.173,0.92,0.451,9.92,Neobodo designis
+1350,cons_198,0.5694,AF-W2GVI3-F1-model_v4,0.096,0.912,0.58,7.791,Phytophthora parasitica
+1351,cons_1968,0.9954,AF-Q53LH8-F1-model_v4,0.848,0.985,0.892,7.739e-09,Oryza sativa Japonica Group
+1352,cons_114,0.9414,AF-A0A267H514-F1-model_v4,0.178,0.778,0.982,0.0005152,Macrostomum lignano
+1353,cons_1732,0.9518,AF-A0A1E7FTC0-F1-model_v4,0.317,0.569,0.988,9.985e-05,Fragilariopsis cylindrus CCMP1102
+1354,cons_1800,0.5409,AF-A0A2N9F7S8-F1-model_v4,0.071,0.889,0.299,3.743,Fagus sylvatica
+1355,cons_1207,0.7926,AF-A0A1I7TPT1-F1-model_v4,0.135,0.5,0.435,0.6709,Caenorhabditis tropicalis
+1356,cons_2172,0.3163,AF-A0A3D1UDH6-F1-model_v4,0.176,0.802,0.626,8.546,Verrucomicrobia bacterium
+1357,cons_667,0.3144,AF-A0A6P7W7B3-F1-model_v4,0.094,0.991,0.239,1.034,Ixodes scapularis
+1358,cons_1877,0.2784,AF-A0A2C9WA54-F1-model_v4,0.209,1.0,0.521,6.973,Manihot esculenta
+1359,cons_2157,0.4291,AF-A0A521ZN89-F1-model_v4,0.09,0.797,0.577,9.429,Verrucomicrobia bacterium
+1360,cons_1124,0.41,AF-A0A699MUC2-F1-model_v4,0.079,0.955,0.508,7.884,Tanacetum cinerariifolium
+1361,cons_990,0.4943,AF-W6UPU9-F1-model_v4,0.139,0.568,0.191,5.846,Echinococcus granulosus
+1362,cons_2150,0.8982,AF-A0A182XGD5-F1-model_v4,0.585,1.0,0.072,4.35e-06,Anopheles quadriannulatus
+1363,cons_77,0.7448,AF-A0A0A9RVH0-F1-model_v4,0.153,0.897,0.351,9.054,Arundo donax
+1364,cons_2218,0.8522,AF-A0A7H9ART5-F1-model_v4,0.1,0.769,0.548,0.7994,Costertonia aggregata
+1365,cons_945,0.3512,AF-A0A5C3KKR5-F1-model_v4,0.21,0.982,0.224,5.809,Coprinopsis marcescibilis
+1366,cons_1235,0.9741,AF-A0A1A9ZTH6-F1-model_v4,0.432,0.713,0.77,0.000808,Glossina pallidipes
+1367,cons_940,0.9921,AF-A0A1A9YIA1-F1-model_v4,0.5,0.991,0.764,4.949e-15,Glossina fuscipes fuscipes
+1368,cons_57,0.7343,AF-A0A1Q3FVD9-F1-model_v4,0.85,0.92,0.962,9.895e-13,Culex tarsalis
+1369,cons_37,0.3666,AF-A0A2H2IAQ3-F1-model_v4,0.165,0.954,0.145,7.539,Caenorhabditis japonica
+1370,cons_394,0.438,AF-R6FP03-F1-model_v4,0.134,0.985,1.0,8.943,Bacteroides sp. CAG:633
+1371,cons_318,0.2375,AF-A0A2S5B2C3-F1-model_v4,0.149,0.964,0.383,5.957,Rhodotorula taiwanensis
+1372,cons_1312,0.9667,AF-A0A0K8TPN8-F1-model_v4,0.65,0.902,0.976,2.754e-09,Tabanus bromius
+1373,cons_1341,0.3181,AF-A0A4C1VEZ4-F1-model_v4,0.09,0.552,0.263,3.795,Eumeta japonica
+1374,cons_259,0.2359,AF-A0A024GRL1-F1-model_v4,0.166,0.973,0.338,7.861,Albugo candida
+1375,cons_1576,0.9862,AF-A0A4D9A2F3-F1-model_v4,0.387,0.961,0.824,1.971e-12,Salvia splendens
+1376,cons_2298,0.5985,AF-A0A4Y2HZZ1-F1-model_v4,0.131,0.349,0.184,7.3,Araneus ventricosus
+1377,cons_719,0.4914,AF-A0A523DEV1-F1-model_v4,0.089,0.882,0.182,9.674,Acidobacteria bacterium
+1378,cons_410,0.9096,AF-A0A0L0CH42-F1-model_v4,0.28,0.523,0.983,0.01369,Lucilia cuprina
+1379,cons_2292,0.2476,AF-A0A0A1X5M0-F1-model_v4,0.234,1.0,0.204,3.536,Zeugodacus cucurbitae
+1380,cons_2259,0.9947,AF-A0A0K8W6S6-F1-model_v4,0.681,0.602,0.994,3.158e-14,Bactrocera latifrons
+1381,cons_1381,0.9174,AF-A0A6A5DBC7-F1-model_v4,0.322,0.642,0.102,4.565e-05,Schistosoma haematobium
+1382,cons_683,0.2366,AF-A0A0A9FHP4-F1-model_v4,0.14,0.828,0.821,5.084,Arundo donax
+1383,cons_454,0.8415,AF-A0A139WEK3-F1-model_v4,0.513,0.965,1.0,2.712e-06,Tribolium castaneum
+1384,cons_1498,0.1221,AF-A0A4U5UZD8-F1-model_v4,0.137,0.538,0.763,0.3044,Collichthys lucidus
+1385,cons_300,0.401,AF-A0A252F5M1-F1-model_v4,0.113,0.919,0.823,9.137,Butyricicoccus porcorum
+1386,cons_1125,0.4176,AF-A0A4C1YP54-F1-model_v4,0.085,0.681,0.388,2.376,Eumeta japonica
+1387,cons_1520,0.3566,AF-A0A3D0L6L8-F1-model_v4,0.147,1.0,0.979,9.679,Treponema sp.
+1388,cons_1241,0.3165,AF-A0A822FN78-F1-model_v4,0.141,0.989,0.509,0.7776,Rotaria sp. Silwood1
+1389,cons_315,0.3592,AF-W8B881-F1-model_v4,0.132,1.0,0.686,3.601,Ceratitis capitata
+1390,cons_341,0.6213,AF-A0A4P9XAC9-F1-model_v4,0.182,0.993,0.32,4.061,Caulochytrium protostelioides
+1391,cons_1395,0.1982,AF-A0A671T6Q4-F1-model_v4,0.216,0.976,0.111,6.536,Sinocyclocheilus anshuiensis
+1392,cons_2370,0.9651,AF-A0A7S0NC31-F1-model_v4,0.292,0.244,0.52,0.2445,Hanusia phi
+1393,cons_1348,0.9891,AF-A0A0R3SM16-F1-model_v4,0.384,0.46,0.222,1.735e-05,Hymenolepis diminuta
+1394,cons_462,0.8554,AF-A0A7R8CBV5-F1-model_v4,0.274,0.969,0.176,0.0002019,Lepeophtheirus salmonis
+1395,cons_1289,0.9563,AF-W8BJJ8-F1-model_v4,0.732,1.0,1.0,5.462e-13,Ceratitis capitata
+1396,cons_977,0.8876,AF-A0A076P6C0-F1-model_v4,0.062,0.593,0.099,8.556,Flavobacterium psychrophilum
+1397,cons_2215,0.9469,AF-A0A6H5I2H7-F1-model_v4,0.296,0.453,0.779,0.006834,Trichogramma brassicae
+1398,cons_876,0.3471,AF-A0A151GQY3-F1-model_v4,0.119,0.917,0.851,3.232,Drechmeria coniospora
+1399,cons_918,0.3005,AF-A0A6P8N8Y0-F1-model_v4,0.164,0.859,0.48,4.134,Geotrypetes seraphini
+1400,cons_1093,0.6908,AF-A0A2K3JQK8-F1-model_v4,0.239,0.902,0.776,7.231,Trifolium pratense
+1401,cons_1916,0.9989,AF-A0A7L0MWH3-F1-model_v4,0.731,0.866,0.974,4.894e-27,Amazona guildingii
+1402,cons_1442,0.7865,AF-A0A6A4WDP2-F1-model_v4,0.263,0.57,0.679,0.00158,Amphibalanus amphitrite
+1403,cons_492,0.6117,AF-A0A661X402-F1-model_v4,0.052,0.567,0.088,3.956,candidate division KSB1 bacterium
+1404,cons_2145,0.3191,AF-A0A380UAF2-F1-model_v4,0.193,0.952,0.968,7.895,Acinetobacter johnsonii
+1405,cons_437,0.5627,AF-A0A0B8NLP6-F1-model_v4,0.098,0.587,0.365,8.473,Nocardia seriolae
+1406,cons_754,0.9833,AF-U5EX30-F1-model_v4,0.517,0.812,0.889,2.424e-15,Corethrella appendiculata
+1407,cons_975,0.3973,AF-A0A1I7WHJ9-F1-model_v4,0.141,0.914,0.411,2.312,Heterorhabditis bacteriophora
+1408,cons_337,0.5926,AF-A6VXV8-F1-model_v4,0.116,0.811,0.355,9.72,Marinomonas sp. MWYL1
+1409,cons_798,0.9712,AF-A0A453YJV5-F1-model_v4,0.385,0.606,0.504,4.621e-06,Anopheles arabiensis
+1410,cons_1563,0.7204,AF-A0A6G5AGZ6-F1-model_v4,0.086,0.911,0.645,0.3309,Rhipicephalus microplus
+1411,cons_1965,0.3872,AF-A0A182TUT9-F1-model_v4,0.454,0.786,0.779,4.332e-05,Anopheles melas
+1412,cons_1627,0.5623,AF-A0A6J2U389-F1-model_v4,0.341,1.0,0.981,2.364e-05,Scaptodrosophila lebanonensis
+1413,cons_28,0.2299,AF-A0A0W0FP77-F1-model_v4,0.131,0.966,0.82,4.278,Moniliophthora roreri
+1414,cons_1532,0.9631,AF-A0A0J0XY04-F1-model_v4,0.2,0.466,0.965,0.07605,Cutaneotrichosporon oleaginosum
+1415,cons_816,0.2579,AF-A0A0A1XNM7-F1-model_v4,0.095,0.996,0.703,6.279,Zeugodacus cucurbitae
+1416,cons_1927,0.3399,AF-A0A2Z7BJI0-F1-model_v4,0.091,0.978,1.0,8.794,Dorcoceras hygrometricum
+1417,cons_2096,0.9699,AF-A0A813NS29-F1-model_v4,0.569,0.801,0.913,3.825e-12,Brachionus calyciflorus
+1418,cons_1716,0.3769,AF-A0A195CJ69-F1-model_v4,0.111,0.913,0.992,1.595,Cyphomyrmex costatus
+1419,cons_58,0.2747,AF-J2UIH2-F1-model_v4,0.094,0.847,0.89,5.804,Pseudomonas sp. GM67
+1420,cons_2251,0.6951,AF-A0A822BXQ2-F1-model_v4,0.181,0.297,0.344,8.073,Rotaria socialis
+1421,cons_831,0.9555,AF-A0A3M1UZD1-F1-model_v4,0.116,0.912,0.88,0.001151,Euryarchaeota archaeon
+1422,cons_47,0.7351,AF-A0A811VAM5-F1-model_v4,0.435,0.899,0.899,0.003757,Ceratitis capitata
+1423,cons_1468,0.2127,AF-W4KG32-F1-model_v4,0.117,0.888,0.492,4.338,Heterobasidion irregulare TC 32-1
+1424,cons_1072,0.6821,AF-A0A3M0JZZ4-F1-model_v4,0.081,0.778,0.653,5.033,Hirundo rustica rustica
+1425,cons_1990,0.4579,AF-A0A1L8E849-F1-model_v4,0.484,0.788,1.0,0.01505,Haematobia irritans
+1426,cons_1685,0.9711,AF-L5JY26-F1-model_v4,0.3,0.435,0.301,0.02373,Pteropus alecto
+1427,cons_2021,0.9898,AF-C1BR75-F1-model_v4,0.589,0.918,1.0,6.742e-08,Caligus rogercresseyi
+1428,cons_712,0.3397,AF-A0A5R9J1J4-F1-model_v4,0.162,0.896,0.363,7.595,Lichenicoccus roseus
+1429,cons_2354,0.999,AF-T1G3M0-F1-model_v4,1.0,1.0,1.0,2.047e-08,Helobdella robusta
+1430,cons_1416,0.3739,AF-A0A842ZHH4-F1-model_v4,0.169,1.0,0.395,6.007,Candidatus Bathyarchaeota archaeon
+1431,cons_2076,0.908,AF-A0A1A9V848-F1-model_v4,0.654,0.743,0.277,1.072e-05,Glossina austeni
+1432,cons_2221,0.86,AF-A0A6J2TQ54-F1-model_v4,0.299,0.451,0.687,8.888e-12,Scaptodrosophila lebanonensis
+1433,cons_132,0.4099,AF-D3TLN6-F1-model_v4,0.519,0.981,1.0,1.197e-05,Glossina morsitans morsitans
+1434,cons_1166,0.8408,AF-R2QUP0-F1-model_v4,0.104,0.696,0.369,3.021,Enterococcus moraviensis ATCC BAA-383
+1435,cons_1256,0.4094,AF-A0A1Y1LYR4-F1-model_v4,0.144,0.973,0.136,4.783,Photinus pyralis
+1436,cons_857,0.4847,AF-A0A1A9YPZ6-F1-model_v4,0.778,0.859,0.425,2.068e-09,Glossina fuscipes fuscipes
+1437,cons_1007,0.9748,AF-A0A1V9XXF6-F1-model_v4,0.333,0.863,0.958,0.001473,Tropilaelaps mercedesae
+1438,cons_1073,0.9653,AF-A0A3B3HI94-F1-model_v4,0.559,0.811,0.861,6.264000000000001e-25,Oryzias latipes
+1439,cons_2141,0.3183,AF-A0A812CXJ5-F1-model_v4,0.113,0.898,0.748,2.573,Sepia pharaonis
+1440,cons_1610,0.9896,AF-I3EM80-F1-model_v4,0.651,0.768,0.672,2.788e-05,Nematocida parisii ERTm1
+1441,cons_1322,0.9781,AF-A0A7R9GSW8-F1-model_v4,0.576,0.675,0.963,9.255e-11,Timema cristinae
+1442,cons_2246,0.977,AF-A0A182JYH9-F1-model_v4,0.509,0.561,0.579,2.002e-06,Anopheles christyi
+1443,cons_2135,0.2395,AF-A0A1V4GCF9-F1-model_v4,0.208,0.905,0.527,9.596,Chryseobacterium mucoviscidosis
+1444,cons_1147,0.8288,AF-A0A7L4PAB5-F1-model_v4,0.162,0.473,0.683,1.039,Pyrobaculum arsenaticum
+1445,cons_894,0.2824,AF-A0A0M2DKJ4-F1-model_v4,0.221,1.0,0.989,8.963,Comamonas sp. E6
+1446,cons_2270,0.8958,AF-A0A0K8V5Y3-F1-model_v4,0.354,0.94,0.825,1.426e-08,Bactrocera latifrons
+1447,cons_1861,0.8035,AF-A0A1J1HX72-F1-model_v4,0.552,0.914,0.932,6.91e-10,Clunio marinus
+1448,cons_1766,0.9907,AF-A0A0K8UZB5-F1-model_v4,0.743,0.976,0.828,6.522e-09,Bactrocera latifrons
+1449,cons_125,0.9981,AF-A0A6P6NST6-F1-model_v4,0.835,1.0,0.682,2.742e-12,Carassius auratus
+1450,cons_1923,0.4405,AF-A0A2P6Q4R3-F1-model_v4,0.212,0.989,0.74,8.883,Rosa chinensis
+1451,cons_2009,0.4504,AF-A0A6J1MZU4-F1-model_v4,0.257,0.606,0.333,2.403e-05,Bicyclus anynana
+1452,cons_1175,0.954,AF-A0A2H8TX54-F1-model_v4,0.73,0.662,0.86,1.447e-18,Melanaphis sacchari
+1453,cons_1350,0.3685,AF-U6K959-F1-model_v4,0.141,0.987,0.497,6.928,Eimeria mitis
+1454,cons_1008,0.3492,AF-A0A0B2V683-F1-model_v4,0.15,0.833,0.973,1.666e-06,Toxocara canis
+1455,cons_1044,0.438,AF-A0A154LM65-F1-model_v4,0.142,0.889,0.427,9.336,Thalassospira sp. MCCC 1A01148
+1456,cons_537,0.9843,AF-A0A0K0E0F9-F1-model_v4,0.45,0.755,0.877,7.776e-05,Strongyloides stercoralis
+1457,cons_2192,0.3605,AF-A0A3M7Q2T2-F1-model_v4,0.2,0.776,0.536,9.902,Brachionus plicatilis
+1458,cons_122,0.2488,AF-F7VQJ4-F1-model_v4,0.142,0.852,0.621,9.477,Sordaria macrospora k-hell
+1459,cons_748,0.3932,AF-A0A7Y6QKT1-F1-model_v4,0.306,0.925,0.787,9.62,Massilia sp. BJB1822
+1460,cons_997,0.7471,AF-A0A2U3K273-F1-model_v4,0.125,0.525,0.305,5.016,Candidatus Sulfotelmatobacter kueseliae
+1461,cons_1364,0.2903,AF-A0A2U2S1E7-F1-model_v4,0.157,0.978,0.817,7.112,Anaerolineae bacterium
+1462,cons_76,0.2515,AF-A0A182FIX8-F1-model_v4,0.137,0.983,0.369,5.67,Anopheles albimanus
+1463,cons_1333,0.9959,AF-V9LKA7-F1-model_v4,0.662,0.989,0.864,1.627e-11,Callorhinchus milii
+1464,cons_1571,0.3059,AF-A0A0C9TLV7-F1-model_v4,0.106,1.0,0.987,5.717,Paxillus involutus ATCC 200175
+1465,cons_1949,0.2638,AF-C7H1A4-F1-model_v4,0.085,0.945,0.972,3.694,Faecalibacterium duncaniae
+1466,cons_23,0.9279,AF-A0A7R9J7J3-F1-model_v4,0.482,0.88,0.593,2.647e-16,Timema californicum
+1467,cons_1079,0.8911,AF-A0A7R9RU54-F1-model_v4,0.025,0.667,0.563,3.295,Argulus foliaceus
+1468,cons_650,0.9969,AF-A0A7R9D9G3-F1-model_v4,0.853,0.621,0.986,3.347e-23,Timema poppensis
+1469,cons_1897,0.9098,AF-A0A3S3Q1R7-F1-model_v4,0.353,0.536,1.0,1.619e-05,Dinothrombium tinctorium
+1470,cons_1738,0.323,AF-A0A0C2XAU1-F1-model_v4,0.148,0.766,0.191,6.927,Serendipita vermifera MAFF 305830
+1471,cons_2222,0.8618,AF-H9JKI8-F1-model_v4,0.176,0.785,0.66,0.03748,Bombyx mori
+1472,cons_1211,0.8615,AF-A0A3Q0JCW9-F1-model_v4,0.537,0.829,0.97,4.636e-14,Diaphorina citri
+1473,cons_803,0.3152,AF-A0A4Z0EFR8-F1-model_v4,0.144,0.83,0.974,3.293,Methylorubrum sp. Q1
+1474,cons_293,0.4992,AF-A0A645ECZ0-F1-model_v4,0.107,1.0,0.726,4.829,bioreactor metagenome
+1475,cons_383,0.4246,AF-J9HWZ5-F1-model_v4,0.1,0.833,0.264,4.977,Oxytricha trifallax
+1476,cons_150,0.4207,AF-A0A7R9VBI8-F1-model_v4,0.095,0.571,0.245,4.174,Pseudictyota dubia
+1477,cons_485,0.7967,AF-A0A2P8YK15-F1-model_v4,0.263,0.281,0.407,0.563,Blattella germanica
+1478,cons_1148,0.9972,AF-Q53LH8-F1-model_v4,0.846,0.97,0.878,9.753e-09,Oryza sativa Japonica Group
+1479,cons_2190,0.7665,AF-A0A023GDA4-F1-model_v4,0.216,0.578,0.17,1.732,Amblyomma triste
+1480,cons_1856,0.4615,AF-A0A7R9Y9Z5-F1-model_v4,0.203,1.0,0.196,3.549,Pinguiococcus pyrenoidosus
+1481,cons_992,0.3279,AF-A0A0V0QS61-F1-model_v4,0.143,1.0,0.447,3.534,Pseudocohnilembus persalinus
+1482,cons_2385,0.9917,AF-A0A7R9GU43-F1-model_v4,0.937,0.985,0.877,1.41e-09,Timema cristinae
+1483,cons_477,0.2757,AF-A0A6C0ENG0-F1-model_v4,0.078,1.0,0.119,7.064,viral metagenome
+1484,cons_570,0.5031,AF-A0A0U5MI20-F1-model_v4,0.18,0.909,0.331,4.685,Magnetospirillum sp. XM-1
+1485,cons_1319,0.4645,AF-A0A2J8P8B2-F1-model_v4,0.115,1.0,0.468,9.837,Pan troglodytes
+1486,cons_115,0.8602,AF-A0A5E4QIC5-F1-model_v4,0.56,0.494,0.879,6.803e-07,Leptidea sinapis
+1487,cons_1689,0.9577,AF-A0A0L0CK79-F1-model_v4,0.827,0.978,0.967,2.49e-10,Lucilia cuprina
+1488,cons_589,0.1543,AF-A0A1W2EIR9-F1-model_v4,0.168,0.906,0.95,9.474,Lentzea albidocapillata
+1489,cons_1996,0.994,AF-L7M016-F1-model_v4,0.528,0.824,0.714,5.973e-05,Rhipicephalus pulchellus
+1490,cons_329,0.9733,AF-A0A851JX95-F1-model_v4,0.567,0.398,0.86,5.617e-13,Donacobius atricapilla
+1491,cons_1460,0.6845,AF-A0A087UVT8-F1-model_v4,0.464,0.893,0.949,0.00168,Stegodyphus mimosarum
+1492,cons_412,0.9905,AF-A0A2N5UQV6-F1-model_v4,0.505,0.693,0.99,8.072e-07,Puccinia coronata f. sp. avenae
+1493,cons_819,0.8596,AF-A0A6J1T359-F1-model_v4,0.263,0.5,0.124,7.353,Frankliniella occidentalis
+1494,cons_2055,0.9625,AF-A0A6Q2XB30-F1-model_v4,0.42,0.834,0.851,5.174e-09,Esox lucius
+1495,cons_1464,0.9536,AF-W8BWP7-F1-model_v4,0.759,0.716,0.996,3.6069999999999996e-47,Ceratitis capitata
+1496,cons_2037,0.5213,AF-A0A7S4A9P8-F1-model_v4,0.141,0.969,0.564,5.128,Pseudo-nitzschia australis
+1497,cons_702,0.928,AF-A0A170W1Y8-F1-model_v4,0.553,0.433,0.985,6.604e-05,Triatoma infestans
+1498,cons_1099,0.9316,AF-A0A6J2TA83-F1-model_v4,0.467,0.898,0.903,5.929e-20,Scaptodrosophila lebanonensis
+1499,cons_1066,0.9298,AF-A0A6V7J543-F1-model_v4,0.412,0.99,0.851,4.811e-10,Bracon brevicornis
+1500,cons_834,0.5597,AF-A0A6N7HAG7-F1-model_v4,0.095,0.921,0.338,4.844,Actinophytocola sp.
+1501,cons_1512,0.5882,AF-A0A1I8NRR9-F1-model_v4,0.449,0.972,0.814,1.581e-05,Stomoxys calcitrans
+1502,cons_627,0.981,AF-L8Y367-F1-model_v4,0.577,0.96,0.291,2.356e-08,Tupaia chinensis
+1503,cons_892,0.4119,AF-A0A6A5AQR4-F1-model_v4,0.137,0.94,0.19,1.693,Aphanomyces astaci
+1504,cons_1691,0.8022,AF-A0A225WV23-F1-model_v4,0.281,0.953,0.99,1.565e-06,Phytophthora megakarya
+1505,cons_797,0.4767,AF-A0A1S3XLB9-F1-model_v4,0.172,0.978,0.185,6.835,Nicotiana tabacum
+1506,cons_889,0.9253,AF-B0W3A4-F1-model_v4,0.638,0.77,0.553,1.33e-05,Culex quinquefasciatus
+1507,cons_1259,0.9914,AF-A0A182PSW7-F1-model_v4,0.677,1.0,1.0,3.737e-06,Anopheles epiroticus
+1508,cons_2335,0.3039,AF-A0A167P746-F1-model_v4,0.144,0.898,0.331,1.969,Sporothrix insectorum RCEF 264
+1509,cons_1272,0.6352,AF-A0A183EU92-F1-model_v4,0.466,1.0,0.771,6.106e-05,Gongylonema pulchrum
+1510,cons_1074,0.9592,AF-A0A6G1RKX3-F1-model_v4,0.642,0.891,0.976,2.197e-14,Hypotaenidia okinawae
+1511,cons_1393,0.5076,AF-A0A7C2USB4-F1-model_v4,0.092,0.985,0.378,2.609,Armatimonadetes bacterium
+1512,cons_1127,0.9975,AF-A0A7S4UIF2-F1-model_v4,0.666,0.54,0.453,1.71e-29,Guillardia theta
+1513,cons_1553,0.924,AF-A0A6J2U5P1-F1-model_v4,0.394,1.0,1.0,3.551e-12,Scaptodrosophila lebanonensis
+1514,cons_1779,0.9475,AF-A0A3P9LWX7-F1-model_v4,0.254,0.543,0.248,0.2325,Oryzias latipes
+1515,cons_1692,0.3007,AF-A0A177B1X0-F1-model_v4,0.118,1.0,0.076,7.412,Intoshia linei
+1516,cons_947,0.9432,AF-A0A0K8VDW9-F1-model_v4,0.5,1.0,1.0,4.7450000000000004e-20,Bactrocera latifrons
+1517,cons_1641,0.4582,AF-A0A0K8V2C4-F1-model_v4,0.769,0.853,0.8,1.142e-15,Bactrocera latifrons
+1518,cons_1407,0.6714,AF-A0A811UBM0-F1-model_v4,0.72,0.987,1.0,2.395e-07,Ceratitis capitata
+1519,cons_342,0.9748,AF-U6GRE5-F1-model_v4,0.339,0.667,0.265,7.554e-05,Eimeria acervulina
+1520,cons_237,0.4709,AF-A0A1I8Q435-F1-model_v4,0.386,1.0,0.978,4.262e-07,Stomoxys calcitrans
+1521,cons_75,0.3239,AF-E9G3D7-F1-model_v4,0.133,1.0,0.517,9.792,Daphnia pulex
+1522,cons_1078,0.7225,AF-A0A428ZVV7-F1-model_v4,0.131,0.701,0.698,1.226,Streptomyces sp. WAC 01420
+1523,cons_2074,0.9953,AF-A0A811UK58-F1-model_v4,0.795,0.643,1.0,4.712e-58,Ceratitis capitata
+1524,cons_1301,0.7708,AF-A0A034V0A4-F1-model_v4,0.517,0.832,0.678,4.894e-08,Bactrocera dorsalis
+1525,cons_1757,0.9544,AF-A0A7K8X905-F1-model_v4,0.466,0.752,0.972,5.258e-07,Eubucco bourcierii
+1526,cons_1816,0.9477,AF-A0BIW0-F1-model_v4,0.244,0.682,0.239,0.2034,Paramecium tetraurelia
+1527,cons_1281,0.4735,AF-A0A182GRA8-F1-model_v4,0.287,1.0,0.952,2.548e-24,Aedes albopictus
+1528,cons_2368,0.2822,AF-A0A1U8F0J7-F1-model_v4,0.174,0.823,0.566,0.0001448,Capsicum annuum
+1529,cons_1042,0.6389,AF-A0A498JI88-F1-model_v4,0.115,0.857,0.897,6.682,Malus domestica
+1530,cons_505,0.9887,AF-A0A0K8UZB5-F1-model_v4,0.734,0.988,0.838,3.818e-09,Bactrocera latifrons
+1531,cons_1004,0.9791,AF-A0A1B0D8I5-F1-model_v4,0.695,0.831,0.531,1.096e-07,Phlebotomus papatasi
+1532,cons_1380,0.6037,AF-A0A822GJS4-F1-model_v4,0.159,0.789,0.764,7.885,Ranitomeya imitator
+1533,cons_974,0.9752,AF-A0A7R9GI24-F1-model_v4,0.741,0.959,0.12,2.566e-12,Notodromas monacha
+1534,cons_385,0.9671,AF-A0A7R8YY10-F1-model_v4,0.428,0.322,0.185,0.3369,Hermetia illucens
+1535,cons_1819,0.4275,AF-A0A6A6CHY9-F1-model_v4,0.102,0.86,0.164,8.334,Zasmidium cellare ATCC 36951
+1536,cons_370,0.9693,AF-A0A7R8YQJ4-F1-model_v4,0.726,0.969,0.994,6.01e-17,Hermetia illucens
+1537,cons_1572,0.986,AF-A0A7R9PHM0-F1-model_v4,0.686,0.925,0.832,1.575e-13,Timema genevievae
+1538,cons_1463,0.3064,AF-G2J761-F1-model_v4,0.156,1.0,0.678,5.573,Candidatus Glomeribacter gigasporarum BEG34
+1539,cons_546,0.9929,AF-A0A4P7YEQ2-F1-model_v4,0.752,0.969,0.989,2.809e-12,Gasterophilus nigricornis
+1540,cons_1835,0.5654,AF-A0A2T7P231-F1-model_v4,0.266,0.417,0.056,3.329,Pomacea canaliculata
+1541,cons_323,0.6233,AF-A0A0W0TU86-F1-model_v4,0.148,0.953,0.273,9.432,Legionella geestiana
+1542,cons_1632,0.946,AF-A0A6I9UV58-F1-model_v4,0.32,0.815,0.915,1.035e-07,Bactrocera dorsalis
+1543,cons_1946,0.4818,AF-A0A2I1HWY2-F1-model_v4,0.216,0.949,0.629,0.7496,Rhizophagus irregularis
+1544,cons_1394,0.932,AF-A0A6P7GBR7-F1-model_v4,0.333,0.895,0.383,0.1719,Diabrotica virgifera virgifera
+1545,cons_2121,0.706,AF-A0A3B8STE9-F1-model_v4,0.05,0.5,0.217,9.487,Gammaproteobacteria bacterium
+1546,cons_772,0.4766,AF-A0A2P4XC40-F1-model_v4,0.212,0.978,0.549,6.813,Phytophthora palmivora var. palmivora
+1547,cons_610,0.791,AF-A0A182PG51-F1-model_v4,0.376,0.686,0.482,2.974e-07,Anopheles epiroticus
+1548,cons_1068,0.399,AF-A0A7S9CLN4-F1-model_v4,0.228,0.921,0.507,3.912,Bradyrhizobium genosp. L
+1549,cons_2287,0.9974,AF-A0A1X0NXF4-F1-model_v4,0.622,0.651,0.747,1.367e-30,Trypanosoma theileri
+1550,cons_1620,0.9183,AF-A0A1A9W166-F1-model_v4,0.545,1.0,0.809,1.5540000000000003e-20,Glossina brevipalpis
+1551,cons_742,0.8621,AF-A0A0J9VSQ3-F1-model_v4,0.7,0.769,0.49,0.00151,Fusarium oxysporum f. sp. lycopersici 4287
+1552,cons_595,0.6132,AF-A0A3P1SGL1-F1-model_v4,0.08,0.678,0.897,4.813,Schaalia canis
+1553,cons_840,0.8778,AF-A0A1M7ABG4-F1-model_v4,0.134,0.628,0.659,0.000343,Fibrobacter sp. UWH4
+1554,cons_1977,0.1657,AF-A0A357K4S4-F1-model_v4,0.169,0.882,0.273,2.935,Flavobacteriales bacterium
+1555,cons_402,0.3198,AF-A0A6C0CUH0-F1-model_v4,0.126,0.92,0.877,6.694,viral metagenome
+1556,cons_938,0.9803,AF-A0A822H3J6-F1-model_v4,0.638,0.59,0.571,2.684e-10,Rotaria sp. Silwood1
+1557,cons_1339,0.4528,AF-A0A2E7N8M5-F1-model_v4,0.2,0.859,0.429,5.027,Parcubacteria group bacterium
+1558,cons_1888,0.9993,AF-A0A310SQJ0-F1-model_v4,0.878,0.982,0.872,9.211e-33,Eufriesea mexicana
+1559,cons_2289,0.3496,AF-A0A834IS78-F1-model_v4,0.099,1.0,0.841,3.559,Rhynchophorus ferrugineus
+1560,cons_1002,0.4677,AF-A0A3N0WWH8-F1-model_v4,0.187,1.0,0.985,6.38,Kaistella haifensis
+1561,cons_612,0.9611,AF-A0A670JSZ2-F1-model_v4,0.576,0.926,0.901,8.698e-16,Podarcis muralis
+1562,cons_830,0.9234,AF-A0A3M0ZL61-F1-model_v4,0.074,0.346,0.108,6.17,Lentisphaerae bacterium
+1563,cons_1107,0.9262,AF-W8BXX8-F1-model_v4,0.533,0.849,0.701,1.453e-09,Ceratitis capitata
+1564,cons_740,0.9922,AF-A0A6L2PNU9-F1-model_v4,0.942,0.873,1.0,4.748e-10,Coptotermes formosanus
+1565,cons_1128,0.8832,AF-A0A6J2UGA1-F1-model_v4,0.415,0.757,0.785,1.576e-06,Scaptodrosophila lebanonensis
+1566,cons_173,0.6015,AF-N6UA01-F1-model_v4,0.529,1.0,0.988,4.018e-06,Dendroctonus ponderosae
+1567,cons_746,0.7689,AF-A0A6J2U890-F1-model_v4,0.317,0.818,0.441,0.02746,Scaptodrosophila lebanonensis
+1568,cons_62,0.4192,AF-W7XI22-F1-model_v4,0.086,0.873,0.468,7.755,Tetrahymena thermophila SB210
+1569,cons_313,0.3745,AF-A0A2D8U755-F1-model_v4,0.207,0.788,0.072,4.15,Euryarchaeota archaeon
+1570,cons_2187,0.9981,AF-A0A6P6NST6-F1-model_v4,0.849,1.0,0.682,4.494e-12,Carassius auratus
+1571,cons_1806,0.2196,AF-A0A6I5SWQ5-F1-model_v4,0.163,0.951,0.589,5.612,Wolbachia pipientis
+1572,cons_1444,0.3921,AF-A0A847FM78-F1-model_v4,0.181,0.916,0.106,8.657,Anaerolineaceae bacterium
+1573,cons_1452,0.8945,AF-Q38M67-F1-model_v4,0.513,0.649,0.457,2.745e-05,Solanum tuberosum
+1574,cons_890,0.6874,AF-A0A0C3IL21-F1-model_v4,0.175,0.656,0.301,7.235,Pisolithus tinctorius Marx 270
+1575,cons_2189,0.9912,AF-A0A023ELS4-F1-model_v4,0.902,0.964,1.0,3.793e-30,Aedes albopictus
+1576,cons_1336,0.9275,AF-A0A0H5BXX4-F1-model_v4,0.218,0.489,0.18,0.07372,Cyberlindnera jadinii NRRL Y-1542
+1577,cons_1353,0.796,AF-T1GZ44-F1-model_v4,0.358,0.672,0.452,4.999e-06,Megaselia scalaris
+1578,cons_1722,0.935,AF-A0A3M7SPS6-F1-model_v4,0.26,0.485,0.213,1.823,Brachionus plicatilis
+1579,cons_2402,0.9932,AF-A0A834ZCH7-F1-model_v4,0.6,0.804,0.789,1.773e-09,Tetracentron sinense
+1580,cons_1902,0.4723,AF-A0A1G1XWK5-F1-model_v4,0.219,0.818,0.212,1.343,Candidatus Buchananbacteria bacterium RIFCSPHIGHO2_01_FULL_39_14
+1581,cons_2342,0.9371,AF-A0A182M334-F1-model_v4,0.382,0.536,0.978,8.273e-13,Anopheles culicifacies
+1582,cons_2174,0.1945,AF-U6JRK9-F1-model_v4,0.2,0.821,0.373,5.711,Eimeria mitis
+1583,cons_1181,0.497,AF-A0A1J1IXI6-F1-model_v4,0.278,1.0,1.0,4.97e-06,Clunio marinus
+1584,cons_2281,0.9967,AF-A0A1I8BI79-F1-model_v4,0.805,1.0,1.0,1.531e-09,Meloidogyne hapla
+1585,cons_24,0.2892,AF-A0A3P7NB23-F1-model_v4,0.142,0.989,0.571,2.672,Dibothriocephalus latus
+1586,cons_1424,0.5706,AF-A0A5E4NJL7-F1-model_v4,0.215,0.989,0.344,1.534,Cinara cedri
+1587,cons_2240,0.992,AF-A0A0C9PJF4-F1-model_v4,0.777,0.32,1.0,5.138e-25,Fopius arisanus
+1588,cons_449,0.6844,AF-A0A699RC99-F1-model_v4,0.129,0.659,0.27,7.626,Tanacetum cinerariifolium
+1589,cons_208,0.9889,AF-E4WUS9-F1-model_v4,0.55,0.645,0.079,0.0002248,Oikopleura dioica
+1590,cons_2119,0.2592,AF-A0A498SPD6-F1-model_v4,0.132,1.0,0.428,8.962,Acanthocheilonema viteae
+1591,cons_1425,0.9018,AF-A0A7S4P544-F1-model_v4,0.245,0.548,0.937,1.119e-16,Paramoeba aestuarina
+1592,cons_1359,0.956,AF-F2TN61-F1-model_v4,0.568,0.75,0.37,0.0008678,Blastomyces dermatitidis ATCC 18188
+1593,cons_54,0.9756,AF-A0A834J8I4-F1-model_v4,0.322,0.756,0.413,0.05371,Vespula vulgaris
+1594,cons_1010,0.2734,AF-A0A852WFF5-F1-model_v4,0.224,0.983,0.452,6.759,Pedococcus badiiscoriae
+1595,cons_1713,0.2982,AF-A0A329CIZ3-F1-model_v4,0.203,0.985,0.068,8.444,Pseudomonas sp. URMO17WK12:I7
+1596,cons_796,0.5394,AF-A0A4V2AY62-F1-model_v4,0.106,0.307,0.148,6.578,Proteobacteria bacterium
+1597,cons_1909,0.1734,AF-A0A7S1I5E0-F1-model_v4,0.143,0.912,0.926,2.332,Eutreptiella gymnastica
+1598,cons_92,0.9565,AF-A0A0K8TPN8-F1-model_v4,0.662,0.902,0.976,7.244e-09,Tabanus bromius
+1599,cons_1404,0.4706,AF-A0A367ZXC8-F1-model_v4,0.164,0.453,0.293,5.147,Candidatus Tokpelaia sp. JSC189
+1600,cons_2166,0.999,AF-A0A671PD92-F1-model_v4,0.883,0.917,1.0,7.517e-15,Sinocyclocheilus anshuiensis
+1601,cons_2093,0.9616,AF-W6NMN6-F1-model_v4,0.645,0.432,0.988,1.22e-08,Haemonchus contortus
+1602,cons_196,0.9944,AF-A0A6P6CS37-F1-model_v4,0.722,0.935,0.618,5.0639999999999996e-24,Pteropus vampyrus
+1603,cons_676,0.2503,AF-A0A4Q3E0J7-F1-model_v4,0.15,1.0,0.208,9.952,Rickettsiales bacterium
+1604,cons_1672,0.7397,AF-A0A1A9X1E2-F1-model_v4,0.625,0.932,0.957,1.334e-11,Glossina brevipalpis
+1605,cons_2160,0.4546,AF-D8S7N9-F1-model_v4,0.25,0.973,0.32,8.431,Selaginella moellendorffii
+1606,cons_1305,0.3041,AF-A0A2F0B780-F1-model_v4,0.177,0.773,0.145,5.32,Eschrichtius robustus
+1607,cons_2052,0.8435,AF-A0A6I8TY57-F1-model_v4,0.275,0.464,0.111,0.01007,Aedes aegypti
+1608,cons_1061,0.5512,AF-X0NUB4-F1-model_v4,0.16,0.986,0.688,4.645,Fusarium oxysporum f. sp. vasinfectum 25433
+1609,cons_2080,0.3287,AF-A0A7S1V9H6-F1-model_v4,0.181,0.985,0.189,9.812,Grammatophora oceanica
+1610,cons_1172,0.7543,AF-A0A139WL94-F1-model_v4,0.397,0.963,0.951,0.005169,Tribolium castaneum
+1611,cons_201,0.3055,AF-A0A7C9PP41-F1-model_v4,0.301,0.804,0.724,6.205,Galbitalea soli
+1612,cons_2263,0.1641,AF-A0A2T8IK17-F1-model_v4,0.186,0.961,0.572,3.309,Panicum hallii
+1613,cons_2211,0.9397,AF-A0A7M3R7M9-F1-model_v4,0.3,0.899,0.155,2.659e-05,Spirometra erinaceieuropaei
+1614,cons_780,0.311,AF-A0A1I8QCZ5-F1-model_v4,0.19,1.0,0.592,1.752,Stomoxys calcitrans
+1615,cons_1094,0.2574,AF-A0A1M3TZV5-F1-model_v4,0.167,0.978,0.48,4.337,Aspergillus luchuensis CBS 106.47
+1616,cons_2062,0.2706,AF-A0A7K3YQS8-F1-model_v4,0.116,1.0,0.984,5.581,Crenarchaeota archaeon
+1617,cons_1569,0.985,AF-A7T8S7-F1-model_v4,0.576,0.123,0.983,3.264e-19,Nematostella vectensis
+1618,cons_808,0.9807,AF-A0A7R9CZL5-F1-model_v4,0.713,0.782,0.336,7.877e-15,Timema cristinae
+1619,cons_2247,0.4772,AF-A0A6B0RFU7-F1-model_v4,0.192,0.875,0.222,9.649,Bos mutus
+1620,cons_1037,0.5666,AF-A0A4Z2EEL3-F1-model_v4,0.16,1.0,0.8,9.368,Liparis tanakae
+1621,cons_356,0.3652,AF-A0A250XNC1-F1-model_v4,0.098,0.922,0.329,6.445,Chlamydomonas eustigma
+1622,cons_806,0.4171,AF-A0A3F2RQL9-F1-model_v4,0.128,0.776,0.216,3.201,Phytophthora kernoviae
+1623,cons_10,0.9026,AF-A0A0B6XW96-F1-model_v4,0.255,0.43,0.956,3.42e-06,Arion vulgaris
+1624,cons_958,0.7011,AF-A0A0G3BAS7-F1-model_v4,0.142,0.549,0.091,7.664,Leclercia adecarboxylata
+1625,cons_730,0.6535,AF-A0A842D0Q6-F1-model_v4,0.045,0.815,0.657,9.645,Listeria booriae
+1626,cons_2085,0.9688,AF-A0A6L2PJ19-F1-model_v4,0.5,0.805,0.6,0.000653,Coptotermes formosanus
+1627,cons_1597,0.8204,AF-A0A0M3IFR7-F1-model_v4,0.191,0.49,0.362,0.4031,Ascaris lumbricoides
+1628,cons_1556,0.9615,AF-Q0P4E8-F1-model_v4,0.518,1.0,0.982,0.0002865,Danio rerio
+1629,cons_268,0.9973,AF-A0A0K2S3W8-F1-model_v4,0.74,0.895,0.987,2.208e-11,Mogera imaizumii
+1630,cons_2044,0.6567,AF-A0A6J2UJF7-F1-model_v4,0.5,0.603,0.706,5.106e-06,Scaptodrosophila lebanonensis
+1631,cons_316,0.9275,AF-A0A0L0CG19-F1-model_v4,0.27,0.869,0.994,5.397e-16,Lucilia cuprina
+1632,cons_1139,0.704,AF-Q0VC33-F1-model_v4,0.108,0.676,0.32,9.056,Bos taurus
+1633,cons_1542,0.6331,AF-A0A5B7G5H6-F1-model_v4,0.104,0.89,0.38,4.29,Portunus trituberculatus
+1634,cons_1596,0.959,AF-A0A672PAG5-F1-model_v4,0.432,0.402,0.101,0.08101,Sinocyclocheilus grahami
+1635,cons_458,0.9461,AF-H0Z8V3-F1-model_v4,0.571,0.636,0.56,0.07549,Taeniopygia guttata
+1636,cons_1811,0.2552,AF-A0A0K9RVM4-F1-model_v4,0.157,0.905,0.345,9.446,Spinacia oleracea
+1637,cons_181,0.272,AF-A0A0N4W9S0-F1-model_v4,0.182,0.989,0.462,3.575,Haemonchus placei
+1638,cons_13,0.7387,AF-B0WJS1-F1-model_v4,0.525,0.655,0.35,8.419e-09,Culex quinquefasciatus
+1639,cons_2304,0.4805,AF-A0A7C9HNK8-F1-model_v4,0.192,1.0,0.444,6.402,Lysobacter gilvus
+1640,cons_498,0.9729,AF-A0A1B0CWT9-F1-model_v4,0.642,0.596,0.789,9.912e-07,Lutzomyia longipalpis
+1641,cons_312,0.9691,AF-A0A183W4R2-F1-model_v4,0.379,0.408,0.674,1.448e-06,Trichobilharzia regenti
+1642,cons_2117,0.9574,AF-M7AVC9-F1-model_v4,0.267,0.953,0.305,2.227e-08,Chelonia mydas
+1643,cons_43,0.7844,AF-T1GCJ9-F1-model_v4,0.56,0.614,0.966,1.389e-14,Megaselia scalaris
+1644,cons_1036,0.4575,AF-A0A6J2U6V8-F1-model_v4,0.217,0.958,0.191,0.2446,Scaptodrosophila lebanonensis
+1645,cons_1674,0.4143,AF-A0A815NLR4-F1-model_v4,0.183,0.961,0.389,5.001,Didymodactylos carnosus
+1646,cons_531,0.5274,AF-M5WB45-F1-model_v4,0.196,0.967,0.804,0.6194,Prunus persica
+1647,cons_679,0.5368,AF-A0A849BIY8-F1-model_v4,0.257,0.97,0.273,8.29,Pseudokineococcus marinus
+1648,cons_897,0.8484,AF-A0A6J2UH08-F1-model_v4,0.409,1.0,0.992,2.233e-08,Scaptodrosophila lebanonensis
+1649,cons_1071,0.95,AF-A0A6S6TMC7-F1-model_v4,0.083,0.612,0.42,4.329,uncultured Sulfurovum sp.
+1650,cons_1924,0.3491,AF-A0A015IKS4-F1-model_v4,0.135,0.957,0.849,3.263,Rhizophagus irregularis DAOM 197198w
+1651,cons_829,0.9959,AF-D8M211-F1-model_v4,0.817,0.738,0.846,2.544e-14,Blastocystis hominis
+1652,cons_656,0.2535,AF-A0A6L2M8S8-F1-model_v4,0.14,0.889,0.281,9.322,Tanacetum cinerariifolium
+1653,cons_981,0.7717,AF-A0A0C2MZ49-F1-model_v4,0.132,1.0,1.0,8.438,Thelohanellus kitauei
+1654,cons_1277,0.9567,AF-A0A1I8MEZ2-F1-model_v4,0.339,0.919,0.902,1.926e-18,Musca domestica
+1655,cons_1150,0.5875,AF-C1M270-F1-model_v4,0.506,1.0,1.0,1.793e-10,Schistosoma mansoni
+1656,cons_971,0.5261,AF-A0A7R9SHR3-F1-model_v4,0.081,0.787,0.937,2.985,Argulus foliaceus
+1657,cons_1423,0.6039,AF-A0A3B3QQR3-F1-model_v4,0.303,0.33,0.994,4.836e-38,Paramormyrops kingsleyae
+1658,cons_2143,0.9207,AF-A0A6J2JGA0-F1-model_v4,0.486,0.961,0.583,6.114e-08,Bombyx mandarina
+1659,cons_382,0.912,AF-A0A821SHV2-F1-model_v4,0.277,0.615,0.427,1.574e-05,Rotaria sp. Silwood2
+1660,cons_2101,0.3539,AF-A0A2M6W801-F1-model_v4,0.102,1.0,0.281,8.043,Candidatus Levybacteria bacterium CG10_big_fil_rev_8_21_14_0_10_36_7
+1661,cons_2048,0.9657,AF-A0A6J2TDN8-F1-model_v4,0.544,0.815,0.971,5.113e-12,Scaptodrosophila lebanonensis
+1662,cons_1320,0.9705,AF-A0A023F7S6-F1-model_v4,0.477,0.904,0.983,1.535e-14,Triatoma infestans
+1663,cons_584,0.9173,AF-A0A1I8M2F8-F1-model_v4,0.726,0.564,0.639,1.695e-17,Musca domestica
+1664,cons_912,0.1791,AF-A0A6J1SW97-F1-model_v4,0.252,0.996,0.715,4.046,Frankliniella occidentalis
+1665,cons_1263,0.967,AF-A0A811LNS9-F1-model_v4,0.25,0.833,0.748,2.753e-05,Bursaphelenchus okinawaensis
+1666,cons_1767,0.9724,AF-A0A182P484-F1-model_v4,0.686,0.872,1.0,5.325e-17,Anopheles epiroticus
+1667,cons_1355,0.2116,AF-A0A2J6PG01-F1-model_v4,0.218,0.966,0.407,9.652,Hyaloscypha hepaticicola
+1668,cons_2014,0.4476,AF-U6H2M1-F1-model_v4,0.263,0.919,0.687,4.702,Eimeria praecox
+1669,cons_26,0.5001,AF-A0A445AT04-F1-model_v4,0.177,1.0,0.321,4.81,Arachis hypogaea
+1670,cons_1702,0.9087,AF-A0A814S407-F1-model_v4,0.187,0.762,0.727,5.684,Brachionus calyciflorus
+1671,cons_541,0.9686,AF-A0A087SEU4-F1-model_v4,0.553,0.723,1.0,1.108e-09,Auxenochlorella protothecoides
+1672,cons_1032,0.9344,AF-P81902-F1-model_v4,0.383,0.732,1.0,1.458e-05,Bombyx mori
+1673,cons_686,0.993,AF-A0A6P3DHZ1-F1-model_v4,0.671,0.933,0.737,9.171e-11,Bombus terrestris
+1674,cons_868,0.4325,AF-A0A6V7KVI6-F1-model_v4,0.112,0.938,0.537,5.04,Bracon brevicornis
+1675,cons_8,0.7101,AF-A0A1W0E5Y2-F1-model_v4,0.174,0.968,0.399,9.936,Enterocytozoon hepatopenaei
+1676,cons_494,0.9543,AF-A0A2M4BYD4-F1-model_v4,0.511,0.897,0.863,8.386e-30,Anopheles marajoara
+1677,cons_371,0.3121,AF-A0A484CI73-F1-model_v4,0.191,1.0,0.957,7.329,Perca flavescens
+1678,cons_1114,0.7801,AF-A0A6J2TKY1-F1-model_v4,0.475,0.719,0.988,9.432e-09,Scaptodrosophila lebanonensis
+1679,cons_1280,0.7706,AF-E2AQK6-F1-model_v4,0.524,0.746,0.925,3.299e-09,Camponotus floridanus
+1680,cons_770,0.44,AF-A0A6I9VG68-F1-model_v4,0.642,0.946,0.986,7.156e-05,Bactrocera dorsalis
+1681,cons_35,0.2156,AF-A0A226NZS1-F1-model_v4,0.169,0.992,0.332,5.205,Colinus virginianus
+1682,cons_522,0.4659,AF-A0A7V3XEG0-F1-model_v4,0.121,0.606,0.524,5.515,bacterium
+1683,cons_309,0.3322,AF-A0A1Z5K1K2-F1-model_v4,0.18,0.98,0.099,4.398,Fistulifera solaris
+1684,cons_1159,0.8437,AF-A0A1D2N6S5-F1-model_v4,0.315,0.851,0.836,0.003805,Orchesella cincta
+1685,cons_1493,0.3738,AF-A0A182YIN9-F1-model_v4,0.445,0.898,0.566,0.01249,Anopheles stephensi
+1686,cons_1988,0.9691,AF-A0A6I9UV58-F1-model_v4,0.323,0.747,0.866,2.14e-07,Bactrocera dorsalis
+1687,cons_7,0.8939,AF-A0A1I8PX08-F1-model_v4,0.323,0.509,0.861,1.84e-11,Stomoxys calcitrans
+1688,cons_1534,0.2396,AF-A0A4U5NW09-F1-model_v4,0.17,1.0,0.305,9.897,Steinernema carpocapsae
+1689,cons_910,0.8842,AF-A0A3Q1D1Q8-F1-model_v4,0.902,0.837,0.936,2.214e-13,Amphiprion ocellaris
+1690,cons_1804,0.5802,AF-A0A1B0AA63-F1-model_v4,0.454,0.835,0.897,1.714e-07,Glossina pallidipes
+1691,cons_1014,0.8892,AF-Q9GYU6-F1-model_v4,0.681,0.494,0.772,0.0001113,Aedes albopictus
+1692,cons_1443,0.8398,AF-A0A059LC85-F1-model_v4,0.343,0.783,0.994,1.971e-08,Helicosporidium sp. ATCC 50920
+1693,cons_185,0.2074,AF-A0A4Y9XY63-F1-model_v4,0.134,0.913,0.467,0.206,Dentipellis fragilis
+1694,cons_1179,0.3045,AF-A0A2E1T143-F1-model_v4,0.136,0.76,0.24,9.818,Actinomycetia bacterium
+1695,cons_874,0.4352,AF-A0A7Y3J6Y6-F1-model_v4,0.201,0.944,0.386,0.4529,Steroidobacteraceae bacterium
+1696,cons_365,0.9051,AF-A0A4Y7NIW0-F1-model_v4,0.648,0.573,0.66,1.933e-28,Moina brachiata
+1697,cons_2151,0.2641,AF-A0A6J2T638-F1-model_v4,0.658,1.0,1.0,1.099e-11,Scaptodrosophila lebanonensis
+1698,cons_2272,0.9891,AF-A0A7L3ER18-F1-model_v4,0.846,0.612,0.929,2.924e-05,Chaetops frenatus
+1699,cons_1943,0.9726,AF-A0A401Q2P6-F1-model_v4,0.507,0.967,1.0,1.5120000000000001e-28,Scyliorhinus torazame
+1700,cons_2046,0.9133,AF-A0A5E4M3C1-F1-model_v4,0.2,0.496,0.484,0.004072,Cinara cedri
+1701,cons_1389,0.9839,AF-A0A452C8Z1-F1-model_v4,0.564,0.422,0.899,3.964e-06,Balaenoptera acutorostrata scammoni
+1702,cons_1899,0.2444,AF-F1R1I5-F1-model_v4,0.15,1.0,0.08,4.973,Danio rerio
+1703,cons_858,0.9892,AF-A0A1L8E9J5-F1-model_v4,0.82,0.87,0.985,1.607e-10,Haematobia irritans
+1704,cons_956,0.9699,AF-A0A182N865-F1-model_v4,0.796,1.0,0.646,3.026e-09,Anopheles dirus
+1705,cons_1408,0.3864,AF-A0A7J6N777-F1-model_v4,0.1,0.976,0.857,2.376,Perkinsus olseni
+1706,cons_1598,0.9986,AF-F0J9E0-F1-model_v4,0.964,0.955,1.0,1.302e-15,Amblyomma variegatum
+1707,cons_27,0.2619,AF-A0A1G2W546-F1-model_v4,0.155,1.0,0.966,8.936,Desulfuromonadaceae bacterium GWC2_58_13
+1708,cons_2391,0.3766,AF-A0A5M6DKY9-F1-model_v4,0.12,0.975,0.451,8.444,Adhaeribacter rhizoryzae
+1709,cons_1121,0.7729,AF-A0A3S7SJW4-F1-model_v4,0.246,0.852,0.902,0.03482,Leptinotarsa decemlineata
+1710,cons_1940,0.3499,AF-A0A4S4MML8-F1-model_v4,0.142,0.972,0.363,5.97,Antrodiella citrinella
+1711,cons_248,0.989,AF-A0A2S2QFC8-F1-model_v4,0.496,0.918,0.884,1.2889999999999998e-22,Sipha flava
+1712,cons_165,0.2712,AF-A0A3M0IX67-F1-model_v4,0.135,0.973,0.347,9.708,Hirundo rustica rustica
+1713,cons_89,0.9982,AF-A0A6P6NST6-F1-model_v4,0.849,1.0,0.682,2.706e-12,Carassius auratus
+1714,cons_192,0.2598,AF-A0A6S7PQP6-F1-model_v4,0.154,1.0,0.303,7.51,Lactuca saligna
+1715,cons_886,0.9963,AF-A0A1L8EFA9-F1-model_v4,0.792,0.953,0.976,1.777e-08,Haematobia irritans
+1716,cons_1568,0.9866,AF-A0A093QE65-F1-model_v4,0.661,0.484,0.969,0.00035,Manacus vitellinus
+1717,cons_435,0.9971,AF-E9J439-F1-model_v4,0.709,0.948,0.809,1.4410000000000002e-20,Solenopsis invicta
+1718,cons_2111,0.9862,AF-A0A3Q3F3Y1-F1-model_v4,0.546,0.744,0.52,0.000119,Labrus bergylta
+1719,cons_1907,0.8684,AF-A0A7J9L8S3-F1-model_v4,0.078,0.235,0.273,4.466,Gossypium schwendimanii
+1720,cons_44,0.991,AF-A0A1B0AYQ2-F1-model_v4,0.674,0.965,0.175,2.785e-13,Glossina palpalis gambiensis
+1721,cons_2038,0.8607,AF-A0A182NRD3-F1-model_v4,0.482,0.967,0.983,2.023e-05,Anopheles dirus
+1722,cons_1360,0.9463,AF-A0A1B0FGN2-F1-model_v4,0.445,0.723,0.977,6.262e-14,Glossina morsitans morsitans
+1723,cons_464,0.3667,AF-A0A7S0NJC0-F1-model_v4,0.203,0.865,0.211,6.139,Micromonas pusilla
+1724,cons_2301,0.7868,AF-T1GZ44-F1-model_v4,0.333,0.748,0.442,7.758e-06,Megaselia scalaris
+1725,cons_1276,0.3253,AF-A0A1G7Q7L4-F1-model_v4,0.108,0.987,0.679,9.19,Klenkia brasiliensis
+1726,cons_732,0.9884,AF-N6TAJ0-F1-model_v4,0.777,0.733,0.926,9.594e-07,Dendroctonus ponderosae
+1727,cons_1585,0.973,AF-A6MKX9-F1-model_v4,0.375,0.727,0.976,0.03977,Callithrix jacchus
+1728,cons_484,0.3941,AF-A0A507FMF1-F1-model_v4,0.129,0.578,0.143,3.016,Chytriomyces confervae
+1729,cons_862,0.1827,AF-A0A3R8RMT7-F1-model_v4,0.146,0.98,0.681,9.443,Streptomyces sp. RP5T
+1730,cons_1130,0.3865,AF-A0A7M7MCX2-F1-model_v4,0.308,1.0,0.851,0.0001217,Varroa destructor
+1731,cons_1120,0.9843,AF-E2R5L0-F1-model_v4,0.404,0.512,0.067,0.0006779,Canis lupus familiaris
+1732,cons_295,0.996,AF-A0A261B6A1-F1-model_v4,0.738,0.595,0.903,1.518e-31,Caenorhabditis remanei
+1733,cons_579,0.9888,AF-A0A3P9K198-F1-model_v4,0.863,0.802,0.76,4.843e-11,Oryzias latipes
+1734,cons_1239,0.4611,AF-A0A087UMU5-F1-model_v4,0.128,0.987,0.235,5.54,Stegodyphus mimosarum
+1735,cons_1358,0.7417,AF-A0A482VL97-F1-model_v4,0.589,0.847,0.969,2.728e-09,Asbolus verrucosus
+1736,cons_1813,0.2935,AF-Q5RH85-F1-model_v4,0.179,0.77,0.222,4.622,Danio rerio
+1737,cons_1351,0.8032,AF-K1SBZ9-F1-model_v4,0.093,0.64,0.337,8.093,human gut metagenome
+1738,cons_758,0.4357,AF-A0A7L5YQ77-F1-model_v4,0.18,1.0,0.968,8.524,Anaerolineae bacterium
+1739,cons_1638,0.9341,AF-N6T228-F1-model_v4,0.462,0.786,0.989,4.067e-06,Dendroctonus ponderosae
+1740,cons_864,0.4863,AF-E2AKH7-F1-model_v4,0.137,0.989,0.165,4.152,Camponotus floridanus
+1741,cons_726,0.6801,AF-A0A2P8ZPA5-F1-model_v4,0.158,0.988,0.105,5.228,Blattella germanica
+1742,cons_101,0.9443,AF-A0A7I0Z529-F1-model_v4,0.679,0.976,1.0,7.084e-09,Danaus plexippus plexippus
+1743,cons_1267,0.5482,AF-A0A0L0C763-F1-model_v4,0.33,0.793,0.635,0.0002109,Lucilia cuprina
+1744,cons_1736,0.9923,AF-A0A0B6XZV1-F1-model_v4,0.557,0.761,0.959,3.77e-06,Arion vulgaris
+1745,cons_442,0.9906,AF-A0A170XEM3-F1-model_v4,0.919,0.738,1.0,1.639e-10,Triatoma infestans
+1746,cons_375,0.9884,AF-C4N185-F1-model_v4,0.884,1.0,1.0,8.646e-12,Stomoxys calcitrans
+1747,cons_1133,0.4493,AF-A0A5J5EBP7-F1-model_v4,0.187,1.0,0.836,7.328,Sphaerosporella brunnea
+1748,cons_338,0.9425,AF-T1PB42-F1-model_v4,0.251,0.769,0.757,4.14e-06,Musca domestica
+1749,cons_1115,0.99,AF-K1QUV6-F1-model_v4,0.637,0.445,0.895,1.987e-11,Crassostrea gigas
+1750,cons_1440,0.8886,AF-E0VEE2-F1-model_v4,0.342,0.646,0.239,2.476e-06,Pediculus humanus corporis
+1751,cons_737,0.9475,AF-A0A6M2CLF0-F1-model_v4,0.393,0.825,0.862,2.641e-09,Rhipicephalus microplus
+1752,cons_187,0.1887,AF-A0A0W0FSK7-F1-model_v4,0.157,1.0,0.379,2.427,Moniliophthora roreri
+1753,cons_1283,0.4447,AF-C3YK55-F1-model_v4,0.102,0.929,0.491,9.846,Branchiostoma floridae
+1754,cons_391,0.9672,AF-A0A1B6G030-F1-model_v4,0.42,0.639,0.683,1.259e-05,Cuerna arida
+1755,cons_1138,0.9748,AF-P69140-F1-model_v4,0.91,0.992,0.976,7.532e-18,Parechinus angulosus
+1756,cons_1065,0.3671,AF-A0A7S0KCR1-F1-model_v4,0.174,0.995,0.426,1.266,Ostreococcus mediterraneus
+1757,cons_658,0.4214,AF-A0A1G0Y075-F1-model_v4,0.109,0.891,0.461,7.974,Lentisphaerae bacterium GWF2_45_14
+1758,cons_1370,0.916,AF-A0A811U3B0-F1-model_v4,0.26,0.847,0.379,2.11e-15,Ceratitis capitata
+1759,cons_1995,0.4575,AF-A0A6J2T7U1-F1-model_v4,0.457,0.984,0.515,0.01082,Scaptodrosophila lebanonensis
+1760,cons_1217,0.2569,AF-E4ZXV2-F1-model_v4,0.215,0.802,0.37,4.522,Leptosphaeria maculans JN3
+1761,cons_1768,0.7294,AF-A0A0K0E1D4-F1-model_v4,0.188,0.824,0.121,0.3891,Strongyloides stercoralis
+1762,cons_2196,0.9748,AF-A0A6B2EJP4-F1-model_v4,0.738,0.535,0.915,7.397e-28,Phlebotomus kandelakii
+1763,cons_665,0.4719,AF-A0A3R7WRH3-F1-model_v4,0.155,0.921,0.121,5.261,Peronospora effusa
+1764,cons_1126,0.5441,AF-A0A6I4M630-F1-model_v4,0.075,0.914,0.288,8.357,Actinomadura physcomitrii
+1765,cons_490,0.9416,AF-B3S4L9-F1-model_v4,0.375,0.3,0.832,3.969e-07,Trichoplax adhaerens
+1766,cons_573,0.9921,AF-A0A315VRD0-F1-model_v4,0.413,0.626,0.989,7.199e-12,Gambusia affinis
+1767,cons_220,0.7482,AF-A0A177WH00-F1-model_v4,0.42,0.945,0.802,0.003666,Batrachochytrium dendrobatidis JEL423
+1768,cons_145,0.3465,AF-A0A7S2Z3H4-F1-model_v4,0.137,0.925,0.321,7.138,Chloropicon laureae
+1769,cons_2109,0.9216,AF-A0A7K9DKM1-F1-model_v4,0.549,0.785,0.903,2.01e-06,Hemiprocne comata
+1770,cons_1082,0.4117,AF-A0A7S2T7D6-F1-model_v4,0.176,0.817,0.495,8.736,Chloropicon roscoffensis
+1771,cons_83,0.9053,AF-A0A0K8STJ3-F1-model_v4,0.47,0.356,0.307,2.755e-05,Lygus hesperus
+1772,cons_481,0.372,AF-A0A6S7I459-F1-model_v4,0.177,0.989,0.268,7.798,Paramuricea clavata
+1773,cons_1104,0.8496,AF-A0A818U9E9-F1-model_v4,0.178,0.389,0.034,8.975,Rotaria sp. Silwood1
+1774,cons_413,0.9035,AF-A0A1I8N1D1-F1-model_v4,0.279,0.995,0.96,4.704e-21,Musca domestica
+1775,cons_1040,0.6102,AF-W6W8N1-F1-model_v4,0.068,0.543,0.71,2.125,Rhizobium sp. CF080
+1776,cons_1227,0.4241,AF-A0A3L7S4I3-F1-model_v4,0.159,1.0,0.852,5.588,Planctomycetota bacterium
+1777,cons_1299,0.5132,AF-A0A7V5I5B2-F1-model_v4,0.138,0.96,1.0,7.597,bacterium
+1778,cons_2278,0.9623,AF-A0A6V7LMD9-F1-model_v4,0.529,0.683,0.987,1.124e-09,Bracon brevicornis
+1779,cons_554,0.2663,AF-A0A5A9PDR8-F1-model_v4,0.173,0.987,0.463,9.783,Triplophysa tibetana
+1780,cons_21,0.8594,AF-A0A0P7WBT1-F1-model_v4,0.194,0.725,0.977,4.315e-08,Scleropages formosus
+1781,cons_1730,0.7671,AF-T1GZE6-F1-model_v4,0.2,0.753,0.433,0.04857,Megaselia scalaris
+1782,cons_421,0.6045,AF-A0A671PRE9-F1-model_v4,0.156,1.0,0.141,1.032,Sinocyclocheilus anshuiensis
+1783,cons_729,0.6768,AF-A0A6N8F5X9-F1-model_v4,0.179,1.0,0.162,3.657,Paenibacillus macerans
+1784,cons_1050,0.2825,AF-A0A0B1T3V7-F1-model_v4,0.218,1.0,0.225,7.69,Oesophagostomum dentatum
+1785,cons_2369,0.3698,AF-A0A1V6D1I2-F1-model_v4,0.114,0.819,0.378,5.967,Planctomycetes bacterium ADurb.Bin126
+1786,cons_1384,0.2931,AF-W9CJW6-F1-model_v4,0.149,0.938,0.86,8.008,Sclerotinia borealis F-4128
+1787,cons_1735,0.3409,AF-A0A6L5DBK3-F1-model_v4,0.292,0.644,0.672,2.549,Ephemera danica
+1788,cons_1417,0.2602,AF-A0A6A4TEY3-F1-model_v4,0.159,1.0,0.885,6.156,Scophthalmus maximus
+1789,cons_1298,0.3019,AF-A0A0F3KK17-F1-model_v4,0.239,0.789,0.313,8.524,Luteibacter yeojuensis
+1790,cons_191,0.9262,AF-A0A5N5SW69-F1-model_v4,0.413,0.979,1.0,7.314e-06,Armadillidium nasatum
+1791,cons_1041,0.9979,AF-A0A151X3J8-F1-model_v4,0.662,0.981,0.713,1.4100000000000001e-25,Trachymyrmex zeteki
+1792,cons_2290,0.6814,AF-A0A834FCI2-F1-model_v4,0.139,0.333,0.065,5.578,Oryzias melastigma
+1793,cons_194,0.4972,AF-A0A1D2A685-F1-model_v4,0.153,0.821,0.262,9.927,Auxenochlorella protothecoides
+1794,cons_648,0.9214,AF-G0U8G1-F1-model_v4,0.269,0.664,0.986,1.019e-12,Trypanosoma vivax Y486
+1795,cons_1834,0.6888,AF-A0A2E3VYP0-F1-model_v4,0.2,0.439,0.067,8.567,Halobacteriovoraceae bacterium
+1796,cons_250,0.7713,AF-A0A2V7KXV9-F1-model_v4,0.097,0.804,0.519,5.206,Gemmatimonadetes bacterium
+1797,cons_1896,0.3303,AF-A0A426ZQZ2-F1-model_v4,0.192,1.0,0.746,3.344,Ensete ventricosum
+1798,cons_1750,0.9123,AF-A0A1J1HX61-F1-model_v4,0.31,0.725,0.643,4.206e-05,Clunio marinus
+1799,cons_2336,0.9701,AF-A0A6A4VDN3-F1-model_v4,0.451,0.897,0.49,3.221e-15,Amphibalanus amphitrite
+1800,cons_842,0.7247,AF-R4IRY2-F1-model_v4,0.377,1.0,1.0,0.08003,Cermatobius longicornis
+1801,cons_1677,0.3578,AF-A0A0C3BXB6-F1-model_v4,0.139,0.478,0.193,7.083,Piloderma croceum F 1598
+1802,cons_2237,0.2237,AF-U6LUB1-F1-model_v4,0.2,0.988,0.476,8.978,Eimeria brunetti
+1803,cons_38,0.9773,AF-A0A482VB33-F1-model_v4,0.621,0.402,0.617,1.152e-07,Asbolus verrucosus
+1804,cons_2149,0.3772,AF-A0A445JP87-F1-model_v4,0.191,0.748,0.823,5.651,Glycine soja
+1805,cons_574,0.9876,AF-A0A1B6FZU6-F1-model_v4,0.784,0.504,0.271,2.58e-09,Cuerna arida
+1806,cons_827,0.5168,AF-A0A1G1C1I1-F1-model_v4,0.265,0.942,0.766,8.308,Lentisphaerae bacterium RIFOXYB12_FULL_65_16
+1807,cons_1609,0.9868,AF-I4DPY4-F1-model_v4,0.574,0.628,0.964,0.001102,Papilio xuthus
+1808,cons_976,0.3727,AF-A0A3N5XT12-F1-model_v4,0.173,0.972,0.857,8.813,Acidobacteria bacterium
+1809,cons_2226,0.1223,AF-A0A6J2JAH0-F1-model_v4,0.42,0.844,0.478,7.239e-11,Bombyx mandarina
+1810,cons_483,0.9927,AF-A0A1S6GL37-F1-model_v4,0.633,0.922,0.934,6.016e-09,Pseudodiaptomus poplesia
+1811,cons_451,0.8456,AF-A0A6P6YE95-F1-model_v4,0.472,0.569,0.411,4.963e-07,Dermatophagoides pteronyssinus
+1812,cons_1914,0.8494,AF-A0A6G0YT81-F1-model_v4,0.4,0.51,0.833,2.357e-08,Aphis craccivora
+1813,cons_147,0.9807,AF-A0A2P8XSG1-F1-model_v4,0.421,0.679,0.738,3.205e-05,Blattella germanica
+1814,cons_339,0.9115,AF-A0A6J2U5P1-F1-model_v4,0.461,1.0,1.0,2.073e-12,Scaptodrosophila lebanonensis
+1815,cons_333,0.3604,AF-L5KFL7-F1-model_v4,0.182,0.88,0.943,8.167,Pteropus alecto
+1816,cons_1651,0.3422,AF-A0A151Y576-F1-model_v4,0.084,0.972,0.908,5.884,Acinetobacter pragensis
+1817,cons_1717,0.4057,AF-A0A2N9JD71-F1-model_v4,0.151,0.942,0.855,9.278,Micropruina glycogenica
+1818,cons_626,0.3026,AF-A0A820XVD7-F1-model_v4,0.209,0.725,0.39,8.584,Rotaria magnacalcarata
+1819,cons_1100,0.9945,AF-A0A0L0CJA6-F1-model_v4,0.968,0.979,0.772,5.017e-15,Lucilia cuprina
+1820,cons_95,0.3578,AF-D6ZBW9-F1-model_v4,0.158,1.0,0.92,7.01,Segniliparus rotundus DSM 44985
+1821,cons_783,0.3998,AF-Q5ZD47-F1-model_v4,0.275,0.986,0.205,8.878,Oryza sativa Japonica Group
+1822,cons_12,0.8988,AF-A0A0L7KV93-F1-model_v4,0.229,0.616,0.968,0.002289,Operophtera brumata
+1823,cons_189,0.9531,AF-A0A0K8VAN5-F1-model_v4,0.801,0.735,0.888,2.336e-16,Bactrocera latifrons
+1824,cons_1711,0.9934,AF-A0A154NZZ4-F1-model_v4,0.589,0.856,0.979,5.599e-10,Dufourea novaeangliae
+1825,cons_1288,0.4734,AF-A0A2H2JFX7-F1-model_v4,0.173,0.796,0.568,6.918,Caenorhabditis japonica
+1826,cons_682,0.499,AF-A0A7G1KPI1-F1-model_v4,0.218,0.887,0.948,8.126,Nocardia wallacei
+1827,cons_1513,0.3912,AF-A0A4Y2EMY7-F1-model_v4,0.244,0.916,0.627,1.636,Araneus ventricosus
+1828,cons_2357,0.9683,AF-A0A1I8NRB8-F1-model_v4,0.482,0.996,0.829,3.881e-36,Stomoxys calcitrans
+1829,cons_2327,0.9688,AF-A0A6L2PM79-F1-model_v4,0.41,0.798,0.962,8.108e-14,Coptotermes formosanus
+1830,cons_741,0.9522,AF-A0A7D9CVX0-F1-model_v4,0.628,0.972,0.986,1.214e-05,Brettanomyces bruxellensis
+1831,cons_2148,0.247,AF-A0A3R8R2R1-F1-model_v4,0.167,0.993,0.547,1.069,Saccharopolyspora rhizosphaerae
+1832,cons_126,0.9956,AF-A0A7L1HHA2-F1-model_v4,0.719,0.663,0.75,9.9e-10,Nycticryphes semicollaris
+1833,cons_156,0.2744,AF-A0A5C7M067-F1-model_v4,0.143,0.891,0.921,4.864,Mycobacterium sp.
+1834,cons_2116,0.2429,AF-A0A6H5IMU1-F1-model_v4,0.223,0.951,0.166,9.282,Trichogramma brassicae
+1835,cons_2078,0.59,AF-A0A1P8WP63-F1-model_v4,0.196,0.93,0.202,8.229,Fuerstiella marisgermanici
+1836,cons_552,0.9953,AF-A0A6A0H392-F1-model_v4,0.863,1.0,0.792,7.914e-15,Hyalella azteca
+1837,cons_2340,0.9908,AF-Q4SIC0-F1-model_v4,0.602,0.582,0.918,4.907e-12,Tetraodon nigroviridis
+1838,cons_1817,0.9821,AF-A0A7M6W5Q4-F1-model_v4,0.563,0.982,0.982,4.094e-05,Nasonia vitripennis
+1839,cons_688,0.3156,AF-A0A2V5S338-F1-model_v4,0.145,0.851,0.445,2.207,Verrucomicrobia bacterium
+1840,cons_1427,0.7743,AF-A0A7R8VH21-F1-model_v4,0.75,0.608,0.395,1.657e-08,Timema douglasi
+1841,cons_418,0.537,AF-E5R0Z6-F1-model_v4,0.13,1.0,0.474,5.816,Nannizzia gypsea CBS 118893
+1842,cons_545,0.9129,AF-A0A6J2TRP3-F1-model_v4,0.184,0.901,0.911,7.695e-15,Scaptodrosophila lebanonensis
+1843,cons_1827,0.3553,AF-A0A0L9T8J0-F1-model_v4,0.271,1.0,0.361,8.056,Vigna angularis
+1844,cons_322,0.4975,AF-A0A5Q4SE19-F1-model_v4,0.098,0.897,0.442,6.616,Streptomyces sp. wa22
+1845,cons_384,0.3456,AF-A0A327JMC0-F1-model_v4,0.236,1.0,0.917,8.856,Rhodoplanes elegans
+1846,cons_576,0.3294,AF-A0A5B7CUT9-F1-model_v4,0.107,0.982,0.7,6.949,Portunus trituberculatus
+1847,cons_1901,0.7628,AF-A0A194QXS4-F1-model_v4,0.404,0.62,0.171,2.908e-05,Papilio machaon
+1848,cons_2075,0.4323,AF-A0A6I9IQ37-F1-model_v4,0.126,1.0,0.369,5.192,Vicugna pacos
+1849,cons_246,0.9734,AF-A0A1I8NL18-F1-model_v4,0.496,0.947,1.0,1.8499999999999999e-54,Musca domestica
+1850,cons_1028,0.3321,AF-A0A4Q4XFS9-F1-model_v4,0.144,0.89,0.237,2.536,Monosporascus sp. 5C6A
+1851,cons_160,0.6513,AF-Q20082-F1-model_v4,0.32,0.654,0.118,0.02233,Caenorhabditis elegans
+1852,cons_202,0.9057,AF-A0A0A9AHH5-F1-model_v4,0.037,0.458,0.73,3.438,Arundo donax
+1853,cons_1954,0.9339,AF-A0A444TJ70-F1-model_v4,0.407,0.612,0.502,4.677e-12,Armadillidium vulgare
+1854,cons_148,0.6101,AF-A0A1L8EEM5-F1-model_v4,0.573,0.971,0.985,2.082e-05,Haematobia irritans
+1855,cons_1970,0.9692,AF-A0A1S3K9T4-F1-model_v4,0.444,0.577,0.098,0.001555,Lingula anatina
+1856,cons_352,0.9614,AF-A0A5B7FIN6-F1-model_v4,0.547,0.851,0.343,1.012e-14,Portunus trituberculatus
+1857,cons_1955,0.5839,AF-A0A411HI70-F1-model_v4,0.14,0.847,0.253,9.581,Pseudolysobacter antarcticus
+1858,cons_587,0.9656,AF-A0A7R8WM91-F1-model_v4,0.369,0.676,0.049,0.009593,Cyprideis torosa
+1859,cons_1760,0.9899,AF-A0DU83-F1-model_v4,0.626,0.669,0.716,5.587e-11,Paramecium tetraurelia
+1860,cons_699,0.3623,AF-A0A1G9D9S1-F1-model_v4,0.207,0.878,0.962,9.507,Nonomuraea jiangxiensis
+1861,cons_1867,0.9916,AF-A0A3R7ACW7-F1-model_v4,0.725,0.899,0.457,9.601e-12,Aphanomyces invadans
+1862,cons_1070,0.8047,AF-A0A1Y3N7F3-F1-model_v4,0.106,0.783,0.209,8.966,Piromyces sp. E2
+1863,cons_942,0.9764,AF-A0A1J1J5K2-F1-model_v4,0.736,1.0,0.323,3.112e-14,Clunio marinus
+1864,cons_388,0.2734,AF-A0A2T6DVR4-F1-model_v4,0.158,0.953,0.72,8.568,Opitutaceae bacterium EW11
+1865,cons_1993,0.9471,AF-J9LCL1-F1-model_v4,0.303,0.603,0.3,0.002467,Acyrthosiphon pisum
+1866,cons_1616,0.3777,AF-K1WHX8-F1-model_v4,0.101,0.843,0.154,5.222,Trichosporon asahii var. asahii CBS 8904
+1867,cons_1591,0.7203,AF-A0A087UVT8-F1-model_v4,0.457,0.951,1.0,0.0002523,Stegodyphus mimosarum
+1868,cons_761,0.9971,AF-A0A212EHQ3-F1-model_v4,0.831,0.583,0.77,2.001e-09,Danaus plexippus plexippus
+1869,cons_2008,0.98,AF-L5LH69-F1-model_v4,0.546,0.723,0.934,1.255e-16,Myotis davidii
+1870,cons_1491,0.9307,AF-A0A346CIY9-F1-model_v4,0.288,0.634,0.378,0.0713,Conus ermineus
+1871,cons_924,0.1954,AF-A0A7R9WEE8-F1-model_v4,0.206,0.954,0.394,9.029,Pseudictyota dubia
+1872,cons_262,0.5245,AF-A0A0R3PMJ8-F1-model_v4,0.144,0.97,0.394,8.813,Angiostrongylus costaricensis
+1873,cons_1244,0.7646,AF-A0A6J2TEU2-F1-model_v4,0.246,1.0,0.433,1.296e-15,Scaptodrosophila lebanonensis
+1874,cons_1193,0.9508,AF-A0A4Z2DD55-F1-model_v4,0.317,0.446,0.488,0.00923,Schistosoma japonicum
+1875,cons_530,0.7298,AF-A0A1Y6B9A5-F1-model_v4,0.086,0.418,0.059,6.313,Pseudobacteriovorax antillogorgiicola
+1876,cons_2069,0.3303,AF-A0A5E4NU11-F1-model_v4,0.207,0.981,0.39,5.544,Beijerinckiaceae bacterium RH AL1
+1877,cons_1271,0.721,AF-A0A372R821-F1-model_v4,0.142,0.483,0.103,2.944,Rhizophagus sp. MUCL 43196
+1878,cons_2362,0.1589,AF-A0A0G4GKC8-F1-model_v4,0.145,0.919,0.613,5.664,Chromera velia CCMP2878
+1879,cons_1478,0.9901,AF-A0A182GP96-F1-model_v4,0.666,0.718,0.857,7.814e-16,Aedes albopictus
+1880,cons_224,0.9042,AF-A0A6V7HM50-F1-model_v4,0.657,0.471,0.869,1.079e-07,Bracon brevicornis
+1881,cons_1303,0.9342,AF-A0A034WDS4-F1-model_v4,0.564,0.531,0.343,7.222e-24,Bactrocera dorsalis
+1882,cons_1197,0.5892,AF-A0A3M7PVR9-F1-model_v4,0.125,0.982,0.667,8.44,Brachionus plicatilis
+1883,cons_1526,0.1731,AF-A0A0C3DNM5-F1-model_v4,0.192,0.994,0.547,7.843,Scleroderma citrinum Foug A
+1884,cons_1075,0.947,AF-A0A194PYT1-F1-model_v4,0.395,0.643,0.242,1.675e-07,Papilio xuthus
+1885,cons_525,0.7657,AF-A0A7R9QWB6-F1-model_v4,0.303,0.943,0.635,0.09143,Oppiella nova
+1886,cons_609,0.5234,AF-A0A5D2G5G3-F1-model_v4,0.064,0.786,0.698,5.761,Gossypium darwinii
+1887,cons_253,0.2489,AF-M7Y418-F1-model_v4,0.163,0.875,0.916,9.734,Triticum urartu
+1888,cons_2159,0.8604,AF-A0A6J2U0L5-F1-model_v4,0.434,0.78,0.708,4.946e-16,Scaptodrosophila lebanonensis
+1889,cons_1323,0.8862,AF-D2XMW2-F1-model_v4,0.29,0.867,0.833,2.323e-05,Tigriopus japonicus
+1890,cons_428,0.2637,AF-A0A1B0FBG1-F1-model_v4,0.65,0.571,0.927,5.681e-15,Glossina morsitans morsitans
+1891,cons_743,0.9376,AF-A0A7R8UNY6-F1-model_v4,0.343,0.762,0.747,2.743e-14,Hermetia illucens
+1892,cons_1823,0.8785,AF-A0A0L0CG73-F1-model_v4,0.712,0.892,0.477,1.539e-18,Lucilia cuprina
+1893,cons_320,0.891,AF-A0A3S1CFR4-F1-model_v4,0.367,0.688,0.98,5.606e-08,Elysia chlorotica
+1894,cons_367,0.9345,AF-A0A6M2DUN8-F1-model_v4,0.574,0.979,0.985,1.114e-09,Xenopsylla cheopis
+1895,cons_172,0.8246,AF-A0A6J2TWG0-F1-model_v4,0.57,0.955,0.839,1.609e-14,Scaptodrosophila lebanonensis
+1896,cons_1637,0.9545,AF-A0A4P9VUF9-F1-model_v4,0.5,0.407,0.925,2.791e-08,Blyttiomyces helicus
+1897,cons_1060,0.6918,AF-A0A093CWQ1-F1-model_v4,0.186,1.0,0.502,5.755,Tauraco erythrolophus
+1898,cons_1441,0.9678,AF-A0A1B0D6P0-F1-model_v4,0.474,0.75,0.869,2.8019999999999996e-22,Phlebotomus papatasi
+1899,cons_2295,0.9623,AF-A0A6A4VXU9-F1-model_v4,0.523,0.742,0.94,1.617e-19,Amphibalanus amphitrite
+1900,cons_1666,0.9715,AF-A0A2H8TVJ1-F1-model_v4,0.515,0.216,0.969,5.277e-13,Melanaphis sacchari
+1901,cons_1198,0.4485,AF-A0A428SCM3-F1-model_v4,0.132,0.93,0.248,8.873,Fusarium floridanum
+1902,cons_2113,0.4463,AF-F0VQJ2-F1-model_v4,0.111,0.711,0.094,5.416,Neospora caninum Liverpool
+1903,cons_34,0.5681,AF-A0A4X1T7G8-F1-model_v4,0.447,0.759,0.451,1.764e-06,Sus scrofa
+1904,cons_434,0.9663,AF-A0A087UX20-F1-model_v4,0.437,0.632,0.828,0.1042,Stegodyphus mimosarum
+1905,cons_301,0.8303,AF-A0A0L0BXG3-F1-model_v4,0.686,1.0,1.0,4.275e-05,Lucilia cuprina
+1906,cons_861,0.4801,AF-A0A508TPT2-F1-model_v4,0.203,1.0,0.97,8.332,Bradyrhizobium ivorense
+1907,cons_1981,0.9862,AF-A0A6I9NHL2-F1-model_v4,0.616,0.739,0.978,2.088e-13,Notothenia coriiceps
+1908,cons_1030,0.9894,AF-L2GRL5-F1-model_v4,0.727,0.571,0.677,1.294e-05,Vavraia culicis subsp. floridensis
+1909,cons_2186,0.9966,AF-Q4W7I5-F1-model_v4,0.926,0.45,0.986,1.366e-06,Nasutitermes takasagoensis
+1910,cons_2033,0.2996,AF-A0A812DRG1-F1-model_v4,0.21,1.0,0.065,7.439,Sepia pharaonis
+1911,cons_2266,0.3358,AF-A0A075AMQ2-F1-model_v4,0.162,1.0,0.248,9.805,Rozella allomycis CSF55
+1912,cons_791,0.2784,AF-C5L3V0-F1-model_v4,0.186,1.0,0.68,2.602,Perkinsus marinus ATCC 50983
+1913,cons_905,0.6506,AF-I4EIK2-F1-model_v4,0.182,0.988,0.093,7.499,Nitrolancea hollandica Lb
+1914,cons_1357,0.5649,AF-A0A6P0L067-F1-model_v4,0.135,0.847,0.881,9.564,Moorena sp. SIOASIH
+1915,cons_1910,0.4408,AF-A0A0K8VGG5-F1-model_v4,0.313,0.671,0.988,3.838e-16,Bactrocera latifrons
+1916,cons_1003,0.9989,AF-A0A834PFE5-F1-model_v4,0.871,0.944,0.902,1.274e-17,Vespula pensylvanica
+1917,cons_718,0.992,AF-A0A7R9GU43-F1-model_v4,0.968,0.985,0.877,4.756e-10,Timema cristinae
+1918,cons_1723,0.3675,AF-A0A1A9V732-F1-model_v4,0.318,0.758,0.69,0.05898,Glossina austeni
+1919,cons_1054,0.4653,AF-A0A7V5Q0D8-F1-model_v4,0.115,0.821,0.136,1.417,Planctomycetaceae bacterium
+1920,cons_2334,0.6719,AF-A0A823KZ01-F1-model_v4,0.127,0.917,0.128,7.78,Listeria monocytogenes
+1921,cons_1022,0.5789,AF-D4AU92-F1-model_v4,0.169,0.981,0.736,7.435,Trichophyton benhamiae CBS 112371
+1922,cons_1756,0.1816,AF-A0A504Y6M8-F1-model_v4,0.184,0.974,0.102,9.133,Fasciola gigantica
+1923,cons_998,0.7096,AF-T1GZE6-F1-model_v4,0.237,0.598,0.373,0.008715,Megaselia scalaris
+1924,cons_1719,0.6307,AF-A0A143YA80-F1-model_v4,0.112,1.0,0.813,4.402,Trichococcus palustris
+1925,cons_140,0.4002,AF-A0A2S4KRJ5-F1-model_v4,0.241,0.948,0.42,8.87,Tolypocladium paradoxum
+1926,cons_2167,0.8582,AF-A0A1I8P1G8-F1-model_v4,0.375,0.514,0.222,0.01443,Stomoxys calcitrans
+1927,cons_821,0.315,AF-A0A1M7ZEG0-F1-model_v4,0.163,0.845,0.875,4.504,Algoriphagus zhangzhouensis
+1928,cons_396,0.9363,AF-A0A3P6S4W4-F1-model_v4,0.592,0.422,0.075,0.1534,Cylicostephanus goldi
+1929,cons_814,0.2869,AF-A0A7C8I392-F1-model_v4,0.197,0.706,0.406,9.043,Massariosphaeria phaeospora
+1930,cons_1034,0.443,AF-V7PDD8-F1-model_v4,0.089,0.971,0.357,7.467,Plasmodium yoelii 17X
+1931,cons_585,0.443,AF-A0A2G9KWB8-F1-model_v4,0.127,0.917,0.537,8.88,Pseudomonas syringae pv. actinidiae
+1932,cons_1246,0.9924,AF-B6HQK9-F1-model_v4,0.561,0.663,0.121,1.384e-08,Penicillium rubens Wisconsin 54-1255
+1933,cons_1862,0.6065,AF-A0A197SDT8-F1-model_v4,0.142,0.854,1.0,8.275,Mycobacterium leprae 3125609
+1934,cons_1789,0.904,AF-A0A6P8S1Y1-F1-model_v4,0.192,0.598,0.231,0.3534,Geotrypetes seraphini
+1935,cons_1643,0.9915,AF-A0A7L2CNM9-F1-model_v4,0.738,0.823,0.915,6.1e-17,Catharus fuscescens
+1936,cons_1984,0.9356,AF-A0A5E4QWI0-F1-model_v4,0.44,0.893,0.586,9.422e-05,Leptidea sinapis
+1937,cons_1486,0.1612,AF-A0A411MGE4-F1-model_v4,0.14,0.98,0.347,6.294,Pseudomonas tructae
+1938,cons_2158,0.3852,AF-A0A2N2IPH6-F1-model_v4,0.132,0.716,0.177,8.743,Deltaproteobacteria bacterium HGW-Deltaproteobacteria-20
+1939,cons_951,0.8016,AF-A0A6J2UCX7-F1-model_v4,0.388,0.774,0.878,6.194e-14,Scaptodrosophila lebanonensis
+1940,cons_379,0.6029,AF-F6NMA4-F1-model_v4,0.608,0.873,0.75,6.641e-05,Danio rerio
+1941,cons_593,0.9473,AF-B0EGH0-F1-model_v4,0.337,0.624,0.283,4.143e-05,Entamoeba dispar SAW760
+1942,cons_1306,0.9827,AF-A0A1A9VAT6-F1-model_v4,0.441,0.72,0.425,2.997e-09,Glossina austeni
+1943,cons_515,0.3035,AF-A0A7D9JRS3-F1-model_v4,0.149,0.799,0.564,8.386,Paramuricea clavata
+1944,cons_604,0.6886,AF-A0A067R6X9-F1-model_v4,0.477,0.553,0.662,1.507e-07,Zootermopsis nevadensis
+1945,cons_1950,0.3932,AF-A0A0K6I8P7-F1-model_v4,0.127,0.912,0.914,0.6767,Comamonas thiooxydans
+1946,cons_615,0.251,AF-A0A0C3B5Q4-F1-model_v4,0.215,0.802,0.233,8.104,Serendipita vermifera MAFF 305830
+1947,cons_698,0.868,AF-A0A554LWY4-F1-model_v4,0.171,0.574,0.321,0.8217,Candidatus Berkelbacteria bacterium Licking1014_2
+1948,cons_1220,0.2553,AF-A0A7R9RNH1-F1-model_v4,0.15,0.99,0.929,5.195,Argulus foliaceus
+1949,cons_1828,0.9726,AF-H2RJE5-F1-model_v4,0.354,0.693,0.908,6.655e-09,Takifugu rubripes
+1950,cons_2379,0.9692,AF-A0A7L3NRT3-F1-model_v4,0.547,0.636,0.824,0.1036,Oreotrochilus melanogaster
+1951,cons_1186,0.288,AF-A0A2D6Q2M2-F1-model_v4,0.163,0.965,0.496,7.699,Candidatus Woesebacteria bacterium
+1952,cons_2010,0.9826,AF-A0A6J2TNW9-F1-model_v4,0.569,0.984,0.989,1.076e-15,Scaptodrosophila lebanonensis
+1953,cons_1703,0.468,AF-A0A813W4P4-F1-model_v4,0.185,0.982,0.092,6.429,Brachionus calyciflorus
+1954,cons_1414,0.5734,AF-A0A1Z9IPF7-F1-model_v4,0.107,0.942,0.512,8.513,bacterium TMED161
+1955,cons_2056,0.2671,AF-A0A6G0JSV3-F1-model_v4,0.166,0.981,0.432,7.117,Phytophthora fragariae
+1956,cons_1853,0.4284,AF-A0A2I8VJQ8-F1-model_v4,0.081,0.79,0.377,4.407,Salinigranum rubrum
+1957,cons_553,0.8448,AF-A0A6J2TF57-F1-model_v4,0.357,1.0,1.0,5.106e-19,Scaptodrosophila lebanonensis
+1958,cons_883,0.9628,AF-A0A6J0BE89-F1-model_v4,0.532,0.886,0.954,0.0007674,Neodiprion lecontei
+1959,cons_1890,0.9157,AF-K9K2H3-F1-model_v4,0.48,0.709,0.994,3.9170000000000004e-25,Equus caballus
+1960,cons_848,0.7369,AF-A0A811VAM5-F1-model_v4,0.444,0.926,0.913,0.002915,Ceratitis capitata
+1961,cons_1482,0.8937,AF-A0A5C6BQC7-F1-model_v4,0.12,0.744,0.121,4.128,Symmachiella macrocystis
+1962,cons_907,0.9843,AF-A0A6M2CTT1-F1-model_v4,0.485,0.739,0.913,3.388e-10,Rhipicephalus microplus
+1963,cons_321,0.9688,AF-A0A1S3K9T4-F1-model_v4,0.444,0.57,0.098,0.001166,Lingula anatina
+1964,cons_281,0.9967,AF-A0A0K8TN58-F1-model_v4,0.681,0.846,1.0,2.8239999999999997e-44,Tabanus bromius
+1965,cons_2049,0.5692,AF-A0A1A9WC82-F1-model_v4,0.164,0.771,0.919,0.000146,Glossina brevipalpis
+1966,cons_1328,0.9022,AF-A0A170YXU7-F1-model_v4,0.5,0.559,0.994,4.533e-21,Triatoma infestans
+1967,cons_1658,0.8746,AF-A0A5B7DIB7-F1-model_v4,0.549,0.445,0.93,3.242e-64,Portunus trituberculatus
+1968,cons_1021,0.3053,AF-A0A5N6N5T6-F1-model_v4,0.144,1.0,0.414,9.667,Mikania micrantha
+1969,cons_117,0.9304,AF-A0A1I7V5L1-F1-model_v4,0.371,0.389,0.133,0.08043,Loa loa
+1970,cons_663,0.4031,AF-A0A2X0K9E1-F1-model_v4,0.241,1.0,0.085,3.979,Microbotryum saponariae
+1971,cons_1726,0.3235,AF-A0A2T6UZD5-F1-model_v4,0.147,0.932,0.75,6.86,Helicobacter pylori
+1972,cons_813,0.503,AF-C3YL34-F1-model_v4,0.437,0.93,0.868,0.002491,Branchiostoma floridae
+1973,cons_488,0.6172,AF-F6NMA4-F1-model_v4,0.589,0.924,0.783,0.0001284,Danio rerio
+1974,cons_2269,0.9882,AF-A0A182K595-F1-model_v4,0.746,0.811,0.98,3.67e-29,Anopheles christyi
+1975,cons_1961,0.6323,AF-U6M3H1-F1-model_v4,0.08,0.615,0.275,0.5886,Eimeria maxima
+1976,cons_1129,0.991,AF-A0A1B0AX68-F1-model_v4,0.575,0.586,0.302,2.348e-19,Glossina palpalis gambiensis
+1977,cons_784,0.9172,AF-S4PTZ7-F1-model_v4,0.288,0.937,0.853,0.002049,Pararge aegeria
+1978,cons_750,0.9866,AF-G4ZUD8-F1-model_v4,0.289,0.812,0.852,0.0003876,Phytophthora sojae strain P6497
+1979,cons_429,0.3742,AF-A0A6J4VD97-F1-model_v4,0.24,0.982,0.93,2.85,uncultured Thermomicrobiales bacterium
+1980,cons_1659,0.9726,AF-A0A1I8Q5R1-F1-model_v4,0.594,1.0,1.0,7.966e-27,Stomoxys calcitrans
+1981,cons_1097,0.3398,AF-A0A6A6AJR7-F1-model_v4,0.151,0.943,0.197,9.903,Dothidotthia symphoricarpi CBS 119687
+1982,cons_538,0.2852,AF-A0A1W9I5W8-F1-model_v4,0.127,0.8,0.945,8.556,Proteobacteria bacterium SG_bin9
+1983,cons_1656,0.962,AF-A0A7D9CVX0-F1-model_v4,0.614,0.972,0.986,1.346e-05,Brettanomyces bruxellensis
+1984,cons_2245,0.9771,AF-P35043-F1-model_v4,0.624,0.645,0.994,1.5780000000000003e-20,Lucilia cuprina
+1985,cons_2118,0.208,AF-A0A1I7ZEH0-F1-model_v4,0.134,0.982,0.957,4.439,Steinernema glaseri
+1986,cons_1557,0.9314,AF-A0A2L2Y2G4-F1-model_v4,0.356,0.859,0.996,6.652000000000001e-28,Parasteatoda tepidariorum
+1987,cons_1748,0.5445,AF-A0A821XWK4-F1-model_v4,0.148,0.918,0.161,0.1585,Pieris macdunnoughi
+1988,cons_757,0.9557,AF-A0A7R8UNY6-F1-model_v4,0.364,0.759,0.753,5.445e-15,Hermetia illucens
+1989,cons_1999,0.9621,AF-A0A3B5Q2D4-F1-model_v4,0.388,0.758,0.947,9.558e-05,Xiphophorus maculatus
+1990,cons_127,0.9574,AF-A0A6A0GSN3-F1-model_v4,0.593,0.877,0.842,2.006e-08,Hyalella azteca
+1991,cons_1475,0.4691,AF-A0A0K8V0Z1-F1-model_v4,0.495,0.729,0.99,1.884e-07,Bactrocera latifrons
+1992,cons_851,0.9585,AF-A0A1L8DJ12-F1-model_v4,0.48,0.619,0.189,0.0001738,Nyssomyia neivai
+1993,cons_1669,0.6716,AF-A0A1I8M152-F1-model_v4,0.318,0.852,0.868,7.45e-05,Musca domestica
+1994,cons_1142,0.3147,AF-A0A7S8D9W4-F1-model_v4,0.084,0.986,0.169,9.725,Fusarium culmorum
+1995,cons_354,0.9925,AF-A0A1B6C858-F1-model_v4,0.642,0.593,1.0,7.987e-18,Clastoptera arizonana
+1996,cons_898,0.4798,AF-A0A388QQR7-F1-model_v4,0.208,0.906,0.178,9.674,Verrucomicrobia bacterium
+1997,cons_1366,0.5078,AF-A0A450WFG7-F1-model_v4,0.136,0.67,0.685,6.24,Candidatus Kentron sp. LPFa
+1998,cons_443,0.4382,AF-A0A3R7N9J7-F1-model_v4,0.184,0.875,0.511,0.6674,Trypanosoma rangeli
+1999,cons_963,0.3273,AF-A0A452C6T3-F1-model_v4,0.09,0.981,0.163,8.195,Balaenoptera acutorostrata scammoni
+2000,cons_2210,0.9421,AF-A0A0T6BFC2-F1-model_v4,0.797,0.564,0.838,2.315e-11,Oryctes borbonicus
+2001,cons_393,0.285,AF-A0A6U6H5F2-F1-model_v4,0.183,0.944,0.75,7.58,Odontella aurita
+2002,cons_217,0.9965,AF-A0A267H034-F1-model_v4,0.692,0.765,0.963,9.847e-21,Macrostomum lignano
+2003,cons_811,0.2125,AF-Q5GM42-F1-model_v4,0.224,1.0,0.329,4.725,Craugastor underwoodi
+2004,cons_1156,0.9971,AF-A0A3P9I1X6-F1-model_v4,0.921,0.932,0.821,1.837e-35,Oryzias latipes
+2005,cons_1824,0.9387,AF-A0A6J2U5K9-F1-model_v4,0.427,0.963,0.927,7.052e-11,Scaptodrosophila lebanonensis
+2006,cons_241,0.1969,AF-A0A1I8MIF0-F1-model_v4,0.341,1.0,0.988,4.573e-06,Musca domestica
+2007,cons_985,0.9421,AF-A0A6F9AFI8-F1-model_v4,0.34,0.487,0.583,0.0001363,Coregonus sp. 'balchen'
+2008,cons_1449,0.8994,AF-A0A1B0G3J6-F1-model_v4,0.4,0.595,0.266,1.744e-05,Glossina morsitans morsitans
+2009,cons_1551,0.9616,AF-A0A4Y2H7T7-F1-model_v4,0.45,0.833,0.597,0.3149,Araneus ventricosus
+2010,cons_687,0.2411,AF-A0A2A9NIQ3-F1-model_v4,0.153,0.989,0.239,7.938,Amanita thiersii Skay4041
+2011,cons_558,0.9832,AF-A0A2I0M0E2-F1-model_v4,0.394,0.784,1.0,1.746e-07,Columba livia
+2012,cons_1991,0.9956,AF-A0A811UYN4-F1-model_v4,0.869,0.968,0.885,4.311e-14,Ceratitis capitata
+2013,cons_2144,0.3463,AF-A0A7T5E605-F1-model_v4,0.21,0.987,0.362,5.829,Leptolyngbya sp. BL0902
+2014,cons_1744,0.9409,AF-A0A6J2YK60-F1-model_v4,0.692,0.968,0.481,1.775e-09,Sitophilus oryzae
+2015,cons_2400,0.701,AF-A0A410N4S6-F1-model_v4,0.104,0.979,0.914,8.584,Clostridium septicum
+2016,cons_2022,0.3934,AF-A0A3Q7IAH6-F1-model_v4,0.108,0.776,0.211,9.86,Solanum lycopersicum
+2017,cons_1832,0.9856,AF-A0A662X569-F1-model_v4,0.767,0.915,0.945,5.089e-13,Nothophytophthora sp. Chile5
+2018,cons_1506,0.661,AF-A0A699HWR5-F1-model_v4,0.16,1.0,0.258,8.407,Tanacetum cinerariifolium
+2019,cons_1047,0.5047,AF-A0A1I8MUA8-F1-model_v4,0.132,1.0,0.491,5.624,Musca domestica
+2020,cons_2207,0.6396,AF-H3D252-F1-model_v4,0.224,0.943,0.335,3.453,Tetraodon nigroviridis
+2021,cons_310,0.4496,AF-A0A1I8A7Q8-F1-model_v4,0.142,0.557,0.269,3.769,Steinernema glaseri
+2022,cons_2165,0.5016,AF-J3A3Y6-F1-model_v4,0.164,0.589,0.18,8.186,Halogranum salarium B-1
+2023,cons_1937,0.3667,AF-A9RRX4-F1-model_v4,0.162,0.96,0.838,2.238,Physcomitrium patens
+2024,cons_1589,0.5948,AF-A0A5B7DGW2-F1-model_v4,0.183,0.98,0.817,7.444,Portunus trituberculatus
+2025,cons_349,0.4019,AF-A0A6J2UFP5-F1-model_v4,0.558,0.896,0.828,7.3e-11,Scaptodrosophila lebanonensis
+2026,cons_1337,0.3531,AF-A0A0D0BEJ6-F1-model_v4,0.137,0.871,0.123,9.441,Gymnopus luxurians FD-317 M1
+2027,cons_708,0.9686,AF-V8N6Z7-F1-model_v4,0.616,0.528,1.0,1.304e-07,Ophiophagus hannah
+2028,cons_1064,0.7113,AF-A0A2H1VF35-F1-model_v4,0.152,0.843,0.082,7.173,Spodoptera frugiperda
+2029,cons_311,0.2673,AF-A0A834KJC3-F1-model_v4,0.172,0.916,0.345,7.787,Vespula pensylvanica
+2030,cons_2061,0.767,AF-A0A146M647-F1-model_v4,0.515,0.727,0.61,7.034e-05,Lygus hesperus
+2031,cons_675,0.4399,AF-H3CUT7-F1-model_v4,0.145,0.981,0.417,9.518,Tetraodon nigroviridis
+2032,cons_230,0.5774,AF-A0A0W8C2Q5-F1-model_v4,0.1,1.0,0.356,2.792,Phytophthora nicotianae
+2033,cons_1825,0.8984,AF-A0A6P1B279-F1-model_v4,0.594,0.661,0.949,0.09727,bacterium LRH843
+2034,cons_639,0.5191,AF-A0A0S4JIP0-F1-model_v4,0.218,0.905,0.404,6.402,Bodo saltans
+2035,cons_427,0.7123,AF-A0A139WL94-F1-model_v4,0.362,0.975,0.963,0.00548,Tribolium castaneum
+2036,cons_438,0.9855,AF-A0A6J0BE89-F1-model_v4,0.516,0.886,0.954,0.0009348,Neodiprion lecontei
+2037,cons_2343,0.5405,AF-A0A821X7E7-F1-model_v4,0.147,0.922,0.249,6.771,Rotaria sp. Silwood1
+2038,cons_2099,0.5172,AF-A0A7C0YUD3-F1-model_v4,0.16,0.691,0.136,4.284,Proteobacteria bacterium
+2039,cons_1868,0.3703,AF-V9KTM4-F1-model_v4,0.623,0.885,0.348,7.28e-05,Callorhinchus milii
+2040,cons_1818,0.912,AF-A0A1I8PKX7-F1-model_v4,0.456,0.742,0.261,0.5011,Stomoxys calcitrans
+2041,cons_2399,0.6236,AF-E0VWD5-F1-model_v4,0.488,0.967,1.0,9.629e-06,Pediculus humanus corporis
+2042,cons_2236,0.6388,AF-A0A6G0V4S8-F1-model_v4,0.186,0.674,0.065,1.297,Halicephalobus sp. NKZ332
+2043,cons_1056,0.3265,AF-A0A5C1AEQ2-F1-model_v4,0.116,1.0,0.232,9.185,Limnoglobus roseus
+2044,cons_2297,0.9631,AF-A0A1B6F8W8-F1-model_v4,0.537,0.173,0.986,4.14e-11,Cuerna arida
+2045,cons_467,0.938,AF-A0A6J2SXF1-F1-model_v4,0.503,0.98,0.247,1.519e-13,Scaptodrosophila lebanonensis
+2046,cons_2208,0.6871,AF-A0A0E3QUP9-F1-model_v4,0.28,0.781,0.64,0.3161,Methanosarcina barkeri MS
+2047,cons_1548,0.7126,AF-A0A2J7Q3C6-F1-model_v4,0.292,0.547,0.148,4.051e-09,Cryptotermes secundus
+2048,cons_1106,0.9798,AF-G3FZ85-F1-model_v4,0.482,0.577,0.246,8.797e-07,Trichinella pseudospiralis
+2049,cons_1844,0.3189,AF-A0A2G9H8L0-F1-model_v4,0.144,0.952,0.453,9.186,Handroanthus impetiginosus
+2050,cons_1731,0.3543,AF-A0A365CYW8-F1-model_v4,0.103,0.983,0.829,5.359,Pseudarthrobacter sp. AG30
+2051,cons_696,0.4413,AF-A0A3Q9JIM8-F1-model_v4,0.21,1.0,0.95,7.795,Entomomonas moraniae
+2052,cons_1976,0.8922,AF-T1P7I9-F1-model_v4,0.849,0.359,0.992,5.4749999999999995e-45,Musca domestica
+2053,cons_2178,0.9846,AF-A0A1B6CS19-F1-model_v4,0.37,0.482,0.267,0.6135,Clastoptera arizonana
+2054,cons_2239,0.9736,AF-A0A6G0V534-F1-model_v4,0.586,0.513,0.253,3.567e-05,Halicephalobus sp. NKZ332
+2055,cons_1628,0.4121,AF-A0A5D9C1T2-F1-model_v4,0.161,0.756,0.817,9.119,Sphingomonas montanisoli
+2056,cons_1164,0.4742,AF-A0A413UHF1-F1-model_v4,0.14,0.98,0.746,7.322,Collinsella sp. AM41-2BH
