@@ -1,4 +1,4 @@
-# Sequence And Functional Space Of Drosophila DeNovo Proteins
+# Sequence And Functional Space Of Drosophila De Novo Proteins
 
 This repository contains code and data to reproduce the analyses from the paper Middendorf et al. (2024) "Sequence and Functional space of Drosophila de novo proteins" (DOI: ...). The files `de_novo_proteins_data.csv`, `random_sequences_data.csv`, and `established_proteins_data.csv` have been published in this [paper](https://doi.org/10.1002/prot.26652) and a detailed explaination of the features included in these datasets can be found in the corresponding [Github repository](https://github.com/LasseMiddendorf/de-novo-structure-disorder-predictor-performance/tree/main/Data).
 
