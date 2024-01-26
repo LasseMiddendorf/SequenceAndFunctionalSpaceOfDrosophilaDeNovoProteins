@@ -8,6 +8,7 @@ This repository contains code and data to reproduce the analyses from the paper 
 - `Structural_diversity` contains the data and code to reproduce the results presented in figure 1
 - `GO_Term_Analysis` contains the data and code to reporduce the results presented in figure 2. In addition to the code in this directory, [REVIGO](http://revigo.irb.hr) was used to reduce the number of predicted GO Terms based on semantic similarity.
 -  `Biomolecular_condensate_formation` contains the data and code to reproduce the results presented figure 3. This directory also conatins the set of known condensate-forming proteins retrieved from the [CD-CODE](https://cd-code.org) database
+- `Sequence_space_distances` contains the scripts to reproduce figure 4 and the scripts to calculate the distances of proteins from different groups in sequence space 
 
 The raw foldseek results and ESM2 650M embeddings need to be downloaded from the accompanying [Zenodo repository](10.5281/zenodo.10557890).
 
